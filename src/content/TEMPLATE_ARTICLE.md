@@ -1,7 +1,7 @@
 ---
 # ─── IDENTIFICACIÓN ───
 id: "art-131-b03"                # formato: art-<numero>-<literal>
-tipo: "infraccion"               # infraccion | derecho | procedimiento | abuso
+tipo: "infraccion"               # infraccion | derecho | procedimiento | abuso | null
 numero: "131"                    # número de artículo en la ley
 literal: "B.3"                   # literal exacto (si aplica)
 

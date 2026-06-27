@@ -1,7 +1,7 @@
 ---
 # ─── IDENTIFICACIÓN ───
 id: "exigir-dinero-favores"      # formato: <categoria>-<slug>
-tipo: "abuso"                    # infraccion | derecho | procedimiento | abuso
+tipo: "abuso"                    # infraccion | derecho | procedimiento | abuso | null
 
 # ─── TÍTULO ───
 titulo: "Exigencia de dinero o favores por parte de un agente de tránsito"
