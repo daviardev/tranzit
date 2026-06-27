@@ -103,6 +103,8 @@ Si te roban o pierdes la placa, solicita el **duplicado** ante el organismo de t
 
 Si el agente determina que la placa está obstruida intencionalmente (no por deterioro natural), la multa aplica igual y no hay excusa. Si además la obstrucción parece deliberada (cinta, adhesivo tapando letras), el agente puede considerar que hay intención de evadir la identificación.
 
+**Cambio de motor, color o características:** Cualquier modificación al motor, color, chasis o serie del vehículo requiere autorización previa del organismo de tránsito y debe inscribirse en el Registro Nacional Automotor (Art. 49). No hacerlo es infracción. Tampoco puedes retocar o alterar las placas. Si cambias el motor, debes reportarlo y actualizar el registro.
+
 ## Notas
 
 - En caso de hurto, la denuncia ante la Policía es necesaria para tramitar el duplicado.
