@@ -60,7 +60,9 @@ situaciones:
   - "cuántas personas pueden viajar en mi carro"
   - "me pararon por llevar un pasajero en los estribos"
   - "el transporte escolar lleva más estudiantes de los que caben"
-articulos_relacionados: []
+articulos_relacionados:
+  - "infracciones-15-smldv"
+  - "infracciones-8-smldv"
 aplica_a:
   - "conductor"
   - "propietario"

@@ -7,6 +7,10 @@ texto_simple: "Las placas deben ir en los extremos delantero y trasero, completa
 categoria: "normas-generales"
 subcategoria: "documentos"
 severidad: null
+codigo_infraccion: "B"
+sancion:
+  valor_smdlv: 8
+  inmovilizacion: true
 keywords:
   - "ubicación placas"
   - "placas delanteras"
@@ -35,9 +39,7 @@ situaciones:
   - "el porta placas que compré cubre las letras"
   - "un verdecito me dijo que la placa estaba obstruida"
 articulos_relacionados:
-  - "art-131-b03"
-  - "art-131-b04"
-  - "art-131-b06"
+  - "infracciones-8-smldv"
 aplica_a:
   - "conductor"
   - "propietario"

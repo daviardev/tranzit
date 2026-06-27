@@ -7,8 +7,10 @@ texto_simple: "Los agentes de tránsito usan señales corporales: espalda/frente
 categoria: "normas-generales"
 subcategoria: "control-transito"
 severidad: "informativa"
-codigo_infraccion: null
-sancion: null
+codigo_infraccion: "D"
+sancion:
+  valor_smdlv: 30
+  inmovilizacion: true
 keywords:
   - "agente de tránsito"
   - "señales corporales"
@@ -56,7 +58,7 @@ situaciones:
   - "un particular cerró la calle para una fiesta"
   - "semáforo peatonal en rojo pero no venían carros"
   - "el agente me mandó pasar y había semáforo en rojo"
-articulos_relacionados: []
+articulos_relacionados: ["infracciones-30-smldv"]
 aplica_a:
   - "conductor"
   - "peatón"

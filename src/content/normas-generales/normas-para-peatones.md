@@ -9,11 +9,8 @@ subcategoria: "peatones"
 severidad: "leve"
 codigo_infraccion: null
 sancion:
-  tipo: "economica"
   valor_smdlv: 1
   inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
 keywords:
   - "peatón"
   - "peatones"
@@ -50,7 +47,8 @@ situaciones:
   - "una persona mayor cruzó sola la avenida, es legal"
   - "mi hijo de 5 años quiere cruzar la calle solo"
   - "vi a alguien remolcándose de un bus, es ilegal"
-articulos_relacionados: []
+articulos_relacionados:
+  - "sanciones-peatones-y-ciclistas"
 aplica_a:
   - "peatón"
 referencias_legales:

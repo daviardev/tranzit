@@ -7,8 +7,10 @@ texto_simple: "Las bicicletas deben transitar por la derecha a máximo 1 metro d
 categoria: "normas-generales"
 subcategoria: "ciclistas"
 severidad: "informativa"
-codigo_infraccion: null
-sancion: null
+codigo_infraccion: "A"
+sancion:
+  valor_smdlv: 4
+  inmovilizacion: false
 keywords:
   - "bicicleta"
   - "bicicletas"
@@ -58,7 +60,7 @@ situaciones:
   - "me pararon por ir en bici sin casco"
   - "a qué velocidad puedo ir en la ciclovía"
   - "un carro me cerró el paso yendo en bici"
-articulos_relacionados: []
+articulos_relacionados: ["infracciones-4-smldv"]
 aplica_a:
   - "ciclista"
   - "conductor de bicicleta"

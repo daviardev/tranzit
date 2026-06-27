@@ -55,7 +55,8 @@ situaciones:
   - "me pusieron comparendo por dañar una señal"
   - "quién pone las señales de tránsito en mi barrio"
   - "obras en la calle sin señalización"
-articulos_relacionados: []
+articulos_relacionados:
+  - "infracciones-15-smldv"
 aplica_a:
   - "conductor"
   - "peatón"

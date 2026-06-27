@@ -7,13 +7,10 @@ texto_simple: "El estacionamiento permitido debe hacerse lo más cerca posible a
 categoria: "normas-generales"
 subcategoria: "estacionamiento"
 severidad: "informativa"
-codigo_infraccion: null
+codigo_infraccion: "C"
 sancion:
-  tipo: "economica"
-  valor_smdlv: 30
+  valor_smdlv: 15
   inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
 keywords:
   - "estacionamiento"
   - "estacionar"
@@ -69,7 +66,7 @@ situaciones:
   - "cuánto me puedo arrimar al andén"
   - "a qué distancia de la esquina puedo parquear"
   - "me inmovilizaron por estacionar frente a un hidrante"
-articulos_relacionados: []
+articulos_relacionados: ["infracciones-15-smldv"]
 aplica_a:
   - "conductor"
   - "propietario"

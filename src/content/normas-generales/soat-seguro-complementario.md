@@ -7,6 +7,8 @@ texto_simple: "Las aseguradoras deben ofrecer un seguro complementario voluntari
 categoria: "normas-generales"
 subcategoria: "seguros"
 severidad: null
+codigo_infraccion: null
+sancion: null
 keywords:
   - "SOAT complementario"
   - "seguro complementario"
@@ -28,6 +30,7 @@ situaciones:
   - "qué diferencia hay entre SOAT y seguro complementario"
 articulos_relacionados:
   - "soat-seguro-obligatorio"
+  - "infracciones-30-smldv"
 aplica_a:
   - "conductor"
   - "propietario"

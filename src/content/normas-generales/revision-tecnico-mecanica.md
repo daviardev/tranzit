@@ -9,11 +9,8 @@ subcategoria: "vehiculos"
 severidad: "grave"
 codigo_infraccion: "C"
 sancion:
-  tipo: "mixta"
   valor_smdlv: 15
   inmovilizacion: true
-  suspension_licencia: false
-  descuento_pronto_pago: 0.5
 keywords:
   - "revisión técnico mecánica"
   - "tecnicomecánica"
@@ -46,7 +43,7 @@ situaciones:
   - "mi carro es nuevo, cuándo me toca la primera revisión"
   - "soy moto, cada cuánto me toca revisión"
 articulos_relacionados:
-  - "art-131-c35"
+  - "infracciones-15-smldv"
 aplica_a:
   - "conductor"
   - "propietario"

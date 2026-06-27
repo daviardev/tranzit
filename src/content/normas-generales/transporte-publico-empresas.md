@@ -7,13 +7,10 @@ texto_simple: "Los conductores de servicio público deben recoger y dejar pasaje
 categoria: "normas-generales"
 subcategoria: "transporte-publico"
 severidad: "grave"
-codigo_infraccion: null
+codigo_infraccion: "C"
 sancion:
-  tipo: "economica"
-  valor_smdlv: 30
+  valor_smdlv: 15
   inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0.5
 keywords:
   - "paradero"
   - "paraderos"
@@ -55,7 +52,8 @@ situaciones:
   - "el bus no tiene SOAT vigente"
   - "quiero saber si la empresa es responsable por las multas del conductor"
   - "la empresa no capacita a los conductores en seguridad vial"
-articulos_relacionados: []
+articulos_relacionados:
+  - "infracciones-15-smldv"
 aplica_a:
   - "conductor de servicio público"
   - "empresa de transporte"

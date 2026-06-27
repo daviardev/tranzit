@@ -7,8 +7,10 @@ texto_simple: "Todo vehículo automotor debe tener las luces exteriores encendid
 categoria: "normas-generales"
 subcategoria: "seguridad"
 severidad: "informativa"
-codigo_infraccion: null
-sancion: null
+codigo_infraccion: "D"
+sancion:
+  valor_smdlv: 30
+  inmovilizacion: true
 keywords:
   - "luces"
   - "luces exteriores"
@@ -55,7 +57,7 @@ situaciones:
   - "me pararon por tener las luces exploradoras delanteras mal ubicadas"
   - "cuándo puedo usar las luces altas"
   - "viajo de noche en carretera y no sé cuándo bajar las luces"
-articulos_relacionados: []
+articulos_relacionados: ["infracciones-30-smldv"]
 aplica_a:
   - "conductor"
   - "propietario"

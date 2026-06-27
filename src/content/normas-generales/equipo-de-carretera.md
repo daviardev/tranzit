@@ -7,6 +7,10 @@ texto_simple: "Todo vehículo debe portar como mínimo: gato, cruceta, señales 
 categoria: "normas-generales"
 subcategoria: "vehiculos"
 severidad: "grave"
+codigo_infraccion: "C"
+sancion:
+  valor_smdlv: 15
+  inmovilizacion: false
 keywords:
   - "equipo de carretera"
   - "equipo de emergencia"
@@ -37,7 +41,7 @@ situaciones:
   - "me hicieron comparendo por no llevar señales de carretera"
   - "el botiquín estaba vencido y me multaron"
 articulos_relacionados:
-  - "art-131"
+  - "infracciones-15-smldv"
 aplica_a:
   - "conductor"
   - "propietario"

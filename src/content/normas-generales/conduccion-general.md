@@ -65,7 +65,8 @@ situaciones:
   - "me pararon por no orillarme al pasar una ambulancia"
   - "no sabía que debía usar direccionales para estacionar"
   - "me multaron por bajarme del carro sin apagarlo"
-articulos_relacionados: []
+articulos_relacionados:
+  - "infracciones-15-smldv"
 aplica_a:
   - "conductor"
 referencias_legales:

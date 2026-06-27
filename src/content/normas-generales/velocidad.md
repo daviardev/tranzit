@@ -7,8 +7,10 @@ texto_simple: "Los conductores deben reducir la velocidad a 30 km/h en lugares d
 categoria: "normas-generales"
 subcategoria: "conduccion"
 severidad: "informativa"
-codigo_infraccion: null
-sancion: null
+codigo_infraccion: "C"
+sancion:
+  valor_smdlv: 15
+  inmovilizacion: false
 keywords:
   - "velocidad"
   - "30 km/h"
@@ -39,7 +41,7 @@ situaciones:
   - "me tomaron con radar en una zona de 30 km/h"
   - "hay mucho tráfico peatonal y no sé a qué velocidad ir"
   - "intersección sin semáforo, a qué velocidad debo pasar"
-articulos_relacionados: []
+articulos_relacionados: ["infracciones-15-smldv"]
 aplica_a:
   - "conductor"
 referencias_legales:

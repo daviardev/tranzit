@@ -7,6 +7,10 @@ texto_simple: "Todo vehículo debe tener SOAT vigente para circular. No tenerlo 
 categoria: "normas-generales"
 subcategoria: "seguros"
 severidad: "muy_grave"
+codigo_infraccion: "D"
+sancion:
+  valor_smdlv: 30
+  inmovilizacion: true
 keywords:
   - "SOAT"
   - "seguro obligatorio"
@@ -35,7 +39,7 @@ situaciones:
   - "dónde puedo comprar el SOAT"
   - "tengo descuento en el SOAT por buen comportamiento"
   - "cómo funciona el descuento del SOAT"
-articulos_relacionados: []
+articulos_relacionados: ["infracciones-30-smldv"]
 aplica_a:
   - "conductor"
   - "propietario"

@@ -7,13 +7,10 @@ texto_simple: "Las motos deben transitar ocupando un carril, con luces delantera
 categoria: "normas-generales"
 subcategoria: "motociclistas"
 severidad: "grave"
-codigo_infraccion: null
+codigo_infraccion: "C"
 sancion:
-  tipo: "mixta"
-  valor_smdlv: 0
+  valor_smdlv: 15
   inmovilizacion: true
-  suspension_licencia: false
-  descuento_pronto_pago: 0.5
 keywords:
   - "moto"
   - "motocicleta"
@@ -79,7 +76,7 @@ situaciones:
   - "un agente me dijo que iba mal por el carril"
   - "la moto no tiene direccionales"
   - "voy a comprar una moto y quiero saber qué es obligatorio"
-articulos_relacionados: []
+articulos_relacionados: ["infracciones-15-smldv"]
 aplica_a:
   - "conductor de motocicleta"
   - "conductor de motociclo"

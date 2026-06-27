@@ -7,8 +7,10 @@ texto_simple: "En vías urbanas la velocidad máxima es 50 km/h (modificado por 
 categoria: "normas-generales"
 subcategoria: "velocidad"
 severidad: "informativa"
-codigo_infraccion: null
-sancion: null
+codigo_infraccion: "C"
+sancion:
+  valor_smdlv: 15
+  inmovilizacion: false
 keywords:
   - "límite de velocidad"
   - "velocidad máxima"
@@ -63,7 +65,7 @@ situaciones:
   - "iba muy pegado al carro de adelante y me chocaron por detrás"
   - "me pusieron comparendo por exceso de velocidad en vía urbana"
   - "cuánto es la distancia de seguridad a 80 km/h"
-articulos_relacionados: []
+articulos_relacionados: ["infracciones-15-smldv"]
 aplica_a:
   - "conductor"
   - "conductor de servicio público"

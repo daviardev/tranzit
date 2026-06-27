@@ -43,7 +43,8 @@ situaciones:
   - "el de atrás me chocó porque frené de golpe"
   - "pasé un cruce sin precaución y casi choco"
   - "cuánta distancia debo dejar de la vía férrea"
-articulos_relacionados: []
+articulos_relacionados:
+  - "infracciones-15-smldv"
 aplica_a:
   - "conductor"
 referencias_legales:

@@ -59,7 +59,9 @@ situaciones:
   - "cuánta distancia deben dejar al adelantar una bici"
   - "me pusieron comparendo por ir en moto por la ciclorruta"
   - "inmovilizaron mi moto por ir en ciclorruta"
-articulos_relacionados: []
+articulos_relacionados:
+  - "infracciones-15-smldv"
+  - "infracciones-30-smldv"
 aplica_a:
   - "conductor"
   - "ciclista"

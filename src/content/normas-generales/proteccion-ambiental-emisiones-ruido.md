@@ -55,7 +55,8 @@ situaciones:
   - "la volqueta pasa por mi barrio a las 5 am"
   - "qué vehículos pueden usar sirenas"
   - "luces intermitentes quién puede usarlas"
-articulos_relacionados: []
+articulos_relacionados:
+  - "tipos-de-sanciones"
 aplica_a:
   - "conductor"
   - "propietario"

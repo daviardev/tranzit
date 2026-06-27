@@ -7,8 +7,10 @@ texto_simple: "Solo grúas pueden remolcar vehículos. En vía urbana, un vehíc
 categoria: "normas-generales"
 subcategoria: "conduccion"
 severidad: "informativa"
-codigo_infraccion: null
-sancion: null
+codigo_infraccion: "B"
+sancion:
+  valor_smdlv: 8
+  inmovilizacion: false
 keywords:
   - "remolque"
   - "grúa"
@@ -40,7 +42,8 @@ situaciones:
   - "remolqué un carro de noche y me multaron"
   - "remolcaba un vehículo pesado sin barra especial"
   - "dos carros me pidieron remolque al mismo tiempo"
-articulos_relacionados: []
+articulos_relacionados:
+  - "infracciones-8-smldv"
 aplica_a:
   - "conductor"
   - "propietario"

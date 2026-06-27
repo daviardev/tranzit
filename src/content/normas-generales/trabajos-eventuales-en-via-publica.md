@@ -9,11 +9,8 @@ subcategoria: "construccion-vial"
 severidad: "grave"
 codigo_infraccion: null
 sancion:
-  tipo: "economica"
   valor_smdlv: 30
   inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0.5
 keywords:
   - "trabajos en vía pública"
   - "construcción en la vía"

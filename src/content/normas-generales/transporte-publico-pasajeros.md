@@ -53,7 +53,9 @@ situaciones:
   - "el taxi iba por el carril izquierdo vacío sin buscar pasajero"
   - "los vidrios del bus están polarizados y no se ve nada"
   - "me negaron el ingreso con mi perro lazarillo"
-articulos_relacionados: []
+articulos_relacionados:
+  - "infracciones-8-smldv"
+  - "infracciones-15-smldv"
 aplica_a:
   - "conductor de servicio público"
   - "pasajero"
