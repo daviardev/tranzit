@@ -7,13 +7,8 @@ texto_simple: "Los conductores deben reducir la velocidad a 30 km/h en lugares d
 categoria: "normas-generales"
 subcategoria: "conduccion"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "velocidad"
   - "30 km/h"
@@ -101,3 +96,9 @@ El exceso de velocidad es una de las infracciones más comunes y costosas en com
 ## Alerta ⚠️
 
 Aunque el Art. 74 no tiene una sanción directa, el exceso de velocidad se sanciona a través de las infracciones del Art. 131 (literales A y B de velocidad). Si excedes los límites del Art. 74 y causas un accidente, las consecuencias penales pueden ser graves (homicidio culposo si hay víctimas).
+
+## Notas
+
+- La reducción a 30 km/h aplica aunque la vía tenga un límite superior señalizado.
+- En zonas escolares, aplica durante los horarios de entrada y salida, y en general cuando hay presencia de menores.
+- Las condiciones de visibilidad adversa incluyen lluvia intensa, niebla, humo, oscuridad y túneles.

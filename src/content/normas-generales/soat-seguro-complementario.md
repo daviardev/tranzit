@@ -42,7 +42,7 @@ vigencia:
 fuente_oficial:
   tipo: "norma"
   referencia: "Código Nacional de Tránsito Terrestre"
-  url: ""
+  url: "https://leyes.co/codigo_nacional_de_transito_terrestre/42-a.htm"
 ---
 
 ## Texto oficial

@@ -1,19 +1,14 @@
 ---
 id: "conduccion-general"
 tipo: "norma"
-numero: "61"
+numero: "61, 62, 63, 64, 65, 67, 69, 71, 80, 81"
 titulo: "Deberes generales del conductor"
 texto_simple: "El conductor debe abstenerse de acciones que afecten la seguridad mientras el vehículo está en movimiento, respetar conglomerados, peatones y ciclistas, ceder el paso a vehículos de emergencia, usar señales direccionales, y mantener las puertas cerradas."
 categoria: "normas-generales"
 subcategoria: "conduccion"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "conducción segura"
   - "seguridad al conducir"

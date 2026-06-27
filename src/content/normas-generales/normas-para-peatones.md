@@ -1,13 +1,13 @@
 ---
 id: "normas-para-peatones"
 tipo: "norma"
-numero: "57"
+numero: "57, 58, 59"
 titulo: "Normas para peatones"
 texto_simple: "Los peatones deben circular fuera de la calzada, cruzar por zonas autorizadas y no pueden remolcarse de vehículos, cruzar por sitios no permitidos ni ocupar la zona de seguridad ferroviaria. Las prohibiciones se sancionan con multa de 1 SMLDV."
 categoria: "normas-generales"
 subcategoria: "peatones"
 severidad: "leve"
-codigo_infraccion: ""
+codigo_infraccion: null
 sancion:
   tipo: "economica"
   valor_smdlv: 1

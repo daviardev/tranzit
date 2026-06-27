@@ -1,7 +1,7 @@
 ---
 # ─── IDENTIFICACIÓN ───
 id: "trato-digno-reten"          # formato: <categoria>-<slug>
-tipo: "derecho"                  # infraccion | derecho | procedimiento | abuso | null
+tipo: "derecho"                  # infraccion | derecho | procedimiento | abuso | norma | null
 
 # ─── TÍTULO ───
 titulo: "Derecho al trato digno durante un retén de tránsito"

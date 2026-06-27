@@ -7,13 +7,8 @@ texto_simple: "Todo vehículo automotor debe tener las luces exteriores encendid
 categoria: "normas-generales"
 subcategoria: "seguridad"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "luces"
   - "luces exteriores"

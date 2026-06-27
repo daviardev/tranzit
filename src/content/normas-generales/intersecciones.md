@@ -7,13 +7,8 @@ texto_simple: "El conductor que transite por una vía sin prelación debe detene
 categoria: "normas-generales"
 subcategoria: "conduccion"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "intersección"
   - "cruce"
@@ -104,3 +99,9 @@ Nunca te detengas sobre una intersección, un paso peatonal, una vía férrea o 
 ## Alerta ⚠️
 
 Detenerse sobre una intersección es una de las causas más comunes de accidentes urbanos. Si bloqueas el cruce, además del comparendo, puedes ser responsable civilmente si causas un choque. Si el carro se te apaga en la intersección, enciende las luces intermitentes y pide ayuda para sacarlo lo antes posible.
+
+## Notas
+
+- Aplica en todo el territorio nacional.
+- La distancia mínima de 5 metros de la vía férrea aplica incluso si no hay tren a la vista.
+- Frenar intempestivamente sin justificación puede generar responsabilidad en caso de colisión.

@@ -1,19 +1,14 @@
 ---
 id: "seguridad-pasajeros"
 tipo: "norma"
-numero: "82"
+numero: "82, 83, 84, 85"
 titulo: "Seguridad de pasajeros"
 texto_simple: "El cinturón de seguridad es obligatorio en los asientos delanteros en todo el territorio. Menores de 10 años no pueden viajar en el asiento delantero. Menores de 2 años deben viajar atrás en silla de seguridad. Prohibido llevar pasajeros en la parte exterior del vehículo. El transporte escolar tiene normas especiales."
 categoria: "normas-generales"
 subcategoria: "seguridad"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "cinturón de seguridad"
   - "cinturón"

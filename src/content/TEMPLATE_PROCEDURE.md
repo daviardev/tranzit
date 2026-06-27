@@ -1,7 +1,7 @@
 ---
 # ─── IDENTIFICACIÓN ───
 id: "recuperar-vehiculo-patios"  # formato: <categoria>-<slug>
-tipo: "procedimiento"            # infraccion | derecho | procedimiento | abuso | null
+tipo: "procedimiento"            # infraccion | derecho | procedimiento | abuso | norma | null
 
 # ─── TÍTULO ───
 titulo: "Cómo recuperar tu vehículo inmovilizado de los patios"

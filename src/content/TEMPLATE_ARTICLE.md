@@ -1,7 +1,7 @@
 ---
 # ─── IDENTIFICACIÓN ───
 id: "art-131-b03"                # formato: art-<numero>-<literal>
-tipo: "infraccion"               # infraccion | derecho | procedimiento | abuso | null
+tipo: "infraccion"               # infraccion | derecho | procedimiento | abuso | norma | null
 numero: "131"                    # número de artículo en la ley
 literal: "B.3"                   # literal exacto (si aplica)
 
@@ -14,7 +14,7 @@ texto_simple: "Explicación en lenguaje claro. Máx 1-2 frases. Sin jerga legal.
 # ─── CLASIFICACIÓN ───
 categoria: "infracciones"        # agrupación general
 subcategoria: "documentos"       # agrupación específica
-severidad: "grave"               # leve | grave | muy_grave
+severidad: "grave"               # leve | grave | muy_grave | informativa (solo para tipo norma sin sanción)
 codigo_infraccion: "B"           # A | B | C | D | E (según art. 131)
 
 # ─── SANCIÓN ───

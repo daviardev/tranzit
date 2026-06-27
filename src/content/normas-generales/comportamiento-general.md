@@ -7,13 +7,8 @@ texto_simple: "Toda persona en el tránsito debe comportarse sin obstaculizar ni
 categoria: "normas-generales"
 subcategoria: "comportamiento"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "comportamiento en el tránsito"
   - "deberes del conductor"
@@ -71,6 +66,16 @@ Este artículo establece la **regla de oro** del tránsito: todos —conductores
 - No ignores las señales de tránsito por "conocer la vía"
 - No discutas con un agente en la vía; si crees que se equivocó, impugna después por los canales legales
 
+## Urgente ❗
+
+Aunque el Art. 55 no tiene una multa directa, es el fundamento de muchas infracciones del Art. 131. Si un agente te para, este artículo es la base legal que respalda su autoridad para exigirte cumplimiento.
+
 ## Alerta ⚠️
 
 Aunque el Art. 55 no tiene una multa específica, muchas infracciones del Art. 131 se fundamentan en este artículo como base normativa. Es la regla general que soporta todo el Código de Tránsito.
+
+## Notas
+
+- Este artículo aplica a conductores, pasajeros y peatones por igual.
+- Es la base normativa de todo el Código Nacional de Tránsito.
+- Las infracciones específicas del Art. 131 se fundamentan en este deber general de comportamiento.

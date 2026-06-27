@@ -1,19 +1,14 @@
 ---
 id: "carriles-adelantamiento-prelacion"
 tipo: "norma"
-numero: "60"
+numero: "60, 68, 70, 73"
 titulo: "Carriles, adelantamiento y prelación en la vía"
 texto_simple: "Los vehículos deben transitar por sus carriles demarcados. El adelantamiento a ciclistas debe hacerse con distancia mínima de 1.50 m. En intersecciones no señalizadas tiene prelación el vehículo a la derecha. En glorietas, quien está dentro tiene prelación."
 categoria: "normas-generales"
 subcategoria: "conduccion"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "carriles"
   - "adelantamiento"

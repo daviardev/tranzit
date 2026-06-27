@@ -1,7 +1,7 @@
 ---
 id: "revision-tecnico-mecanica"
 tipo: "norma"
-numero: "28"
+numero: "28, 50, 51, 52, 53"
 titulo: "Revisión técnico-mecánica y de emisiones contaminantes"
 texto_simple: "Todo vehículo debe pasar la revisión técnico-mecánica y de emisiones una vez al año. No hacerlo es infracción C.35: multa de 15 SMLDV e inmovilización."
 categoria: "normas-generales"

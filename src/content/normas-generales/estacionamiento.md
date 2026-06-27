@@ -7,7 +7,7 @@ texto_simple: "El estacionamiento permitido debe hacerse lo más cerca posible a
 categoria: "normas-generales"
 subcategoria: "estacionamiento"
 severidad: "informativa"
-codigo_infraccion: ""
+codigo_infraccion: null
 sancion:
   tipo: "economica"
   valor_smdlv: 30

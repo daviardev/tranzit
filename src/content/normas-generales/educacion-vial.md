@@ -7,13 +7,8 @@ texto_simple: "La educación vial es obligatoria en los niveles de preescolar, b
 categoria: "normas-generales"
 subcategoria: "educacion"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "educación vial"
   - "educación en seguridad vial"
@@ -64,6 +59,19 @@ La educación vial no es opcional en los colegios. Por ley, debe enseñarse de m
 - Si tienes hijos en edad escolar, pregúntales si reciben educación vial
 - Si el colegio no la imparte, puedes solicitar que la incluya basándote en este artículo
 
+## Urgente ❗
+
+Si tu hijo no está recibiendo educación vial en el colegio, puedes solicitar por escrito que la incluyan basándote en el Art. 56 de la Ley 769.
+
 ## Qué no hacer ❌
 
 - No asumas que la educación vial solo la dan en las autoescuelas; empieza desde el preescolar
+
+## Alerta ⚠️
+
+El incumplimiento de esta obligación por parte de las instituciones educativas puede ser reportado ante la Secretaría de Educación correspondiente.
+
+## Notas
+
+- Aplica a todos los colegios públicos y privados del país.
+- La reglamentación específica está a cargo de los Ministerios de Transporte y Educación.

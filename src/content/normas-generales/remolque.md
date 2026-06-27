@@ -7,13 +7,8 @@ texto_simple: "Solo grúas pueden remolcar vehículos. En vía urbana, un vehíc
 categoria: "normas-generales"
 subcategoria: "conduccion"
 severidad: "informativa"
-codigo_infraccion: ""
-sancion:
-  tipo: ""
-  valor_smdlv: 0
-  inmovilizacion: false
-  suspension_licencia: false
-  descuento_pronto_pago: 0
+codigo_infraccion: null
+sancion: null
 keywords:
   - "remolque"
   - "grúa"
@@ -106,3 +101,10 @@ Si tu vehículo se varó en una vía principal, no intentes remolcarlo tú mismo
 ## Alerta ⚠️
 
 Remolcar un vehículo sin cumplir las normas del Art. 72 puede resultar en un comparendo. Además, si ocurre un accidente durante el remolque irregular, el conductor que remolca puede ser responsable civil y penalmente.
+
+## Notas
+
+- En vía urbana, solo puedes remolcar para despejar la vía, no para trasladar el vehículo.
+- En vía rural, la distancia entre vehículos con cable debe ser de 3 a 4 metros.
+- Remolcar de noche solo está permitido con grúas.
+- Vehículos de más de 5 toneladas requieren barra o dispositivo especial para ser remolcados.
