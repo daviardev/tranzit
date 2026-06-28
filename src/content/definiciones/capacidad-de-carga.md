@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Capacidad de carga"
 texto_simple: "Es el máximo tonelaje autorizado en un vehículo, de tal forma que el peso bruto vehicular no exceda los límites establecidos."
 keywords: ["capacidad","carga","maximo","tonelaje","autorizado","vehiculo"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Taxi"
 texto_simple: "Vehículo automotor destinado al servicio público individual de pasajeros."
 keywords: ["taxi","vehiculo","automotor","destinado","servicio"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

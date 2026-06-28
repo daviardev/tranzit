@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Conductor"
 texto_simple: "Es la persona habilitada y capacitada técnica y teóricamente para operar un vehículo."
 keywords: ["conductor","persona","habilitada","capacitada","tecnica"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

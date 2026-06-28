@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Separador"
 texto_simple: "Espacio estrecho y saliente que independiza dos calzadas de una vía."
 keywords: ["separador","espacio","estrecho","saliente","independiza"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

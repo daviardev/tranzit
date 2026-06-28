@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Luces exploradoras o antiniebla"
 texto_simple: "Dispositivos de alumbrado especial que facilitan la visibilidad en zonas de niebla densa o en condiciones adversas de visibilidad."
 keywords: ["luces","exploradoras","antiniebla","dispositivos","alumbrado","especial","facilitan"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

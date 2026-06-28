@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Bahía de estacionamiento"
 texto_simple: "Parte complementaria de la estructura de la vía utilizada como zona de transición entre la calzada y el andén, destinada al estacionamiento de vehículos."
 keywords: ["bahia","estacionamiento","parte","complementaria","estructura","utilizada"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

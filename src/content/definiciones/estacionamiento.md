@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Estacionamiento"
 texto_simple: "Sitio de parqueo autorizado por la autoridad de tránsito."
 keywords: ["estacionamiento","sitio","parqueo","autorizado","autoridad"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

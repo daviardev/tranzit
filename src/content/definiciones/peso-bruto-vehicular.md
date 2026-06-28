@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Peso bruto vehicular"
 texto_simple: "Peso de un vehículo provisto de combustible, equipo auxiliar habitual y el máximo de carga."
 keywords: ["peso","bruto","vehicular","vehiculo","provisto","combustible","equipo"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

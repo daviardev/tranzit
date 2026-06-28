@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Acera o andén"
 texto_simple: "Franja longitudinal de la vía urbana, destinada exclusivamente a la circulación de peatones, ubicada a los costados de ésta."
 keywords: ["acera","anden","franja","longitudinal","urbana","destinada"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

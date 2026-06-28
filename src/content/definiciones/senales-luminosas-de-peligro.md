@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Señales luminosas de peligro"
 texto_simple: "Señales visibles en la noche que emiten su propia luz, en colores visibles como el rojo, amarillo o blanco."
 keywords: ["senales","luminosas","peligro","visibles","noche","emiten"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

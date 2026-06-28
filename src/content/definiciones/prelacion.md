@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Prelación"
 texto_simple: "Prioridad o preferencia que tiene una vía o vehículo con respecto a otras vías u otros vehículos."
 keywords: ["prelacion","prioridad","preferencia","tiene","vehiculo"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

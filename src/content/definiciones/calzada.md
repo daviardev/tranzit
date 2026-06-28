@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Calzada"
 texto_simple: "Zona de la vía destinada a la circulación de vehículos."
 keywords: ["calzada","destinada","circulacion","vehiculos."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

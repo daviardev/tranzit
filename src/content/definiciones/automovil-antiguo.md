@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Automóvil antiguo"
 texto_simple: "Automotor que haya cumplido 35 años y que conserve sus especificaciones y características originales de fábrica, presentación y funcionamiento."
 keywords: ["automovil","antiguo","automotor","cumplido","conserve","especificaciones"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

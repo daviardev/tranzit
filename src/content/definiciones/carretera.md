@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Carretera"
 texto_simple: "Vía cuya finalidad es permitir la circulación de vehículos, con niveles adecuados de seguridad y comodidad."
 keywords: ["carretera","finalidad","permitir","circulacion","vehiculos"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

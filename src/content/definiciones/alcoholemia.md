@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Alcoholemia"
 texto_simple: "Cantidad de alcohol que tiene una persona en determinado momento en su sangre."
 keywords: ["alcoholemia","cantidad","alcohol","tiene","persona"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

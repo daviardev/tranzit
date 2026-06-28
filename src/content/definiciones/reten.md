@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Retén"
 texto_simple: "Puesto de control instalado técnicamente por una de las autoridades legítimamente constituidas de la Nación."
 keywords: ["reten","puesto","control","instalado","tecnicamente"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

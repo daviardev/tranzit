@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Remolque"
 texto_simple: "Vehículo no motorizado, halado por una unidad tractora a la cual no le transmite peso. Dotado con su sistema de frenos y luces reflectivas."
 keywords: ["remolque","vehiculo","motorizado","halado","unidad"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

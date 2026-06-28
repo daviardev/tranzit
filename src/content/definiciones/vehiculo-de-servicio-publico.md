@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vehículo de servicio público"
 texto_simple: "Vehículo automotor homologado, destinado al transporte de pasajeros, carga o ambos por las vías de uso público mediante el cobro de una tarifa, porte, flete o pasaje."
 keywords: ["vehiculo","servicio","publico","automotor","homologado","destinado"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

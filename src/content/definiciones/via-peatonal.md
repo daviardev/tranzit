@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vía peatonal"
 texto_simple: "Zonas destinadas para el tránsito exclusivo de peatones."
 keywords: ["via","peatonal","zonas","destinadas","transito","exclusivo"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

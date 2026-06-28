@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Ciclista"
 texto_simple: "Conductor de bicicleta o triciclo."
 keywords: ["ciclista","conductor","bicicleta","triciclo."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

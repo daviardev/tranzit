@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Placa"
 texto_simple: "Documento público con validez en todo el territorio nacional, el cual identifica externa y privativamente un vehículo."
 keywords: ["placa","documento","publico","validez","territorio"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

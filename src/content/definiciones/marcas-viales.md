@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Marcas viales"
 texto_simple: "Señales escritas adheridas o grabadas en la vía o con elementos adyacentes a ella, para indicar, advertir o guiar el tránsito."
 keywords: ["marcas","viales","senales","escritas","adheridas","grabadas"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

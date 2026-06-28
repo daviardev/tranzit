@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vehículo de servicio particular"
 texto_simple: "Vehículo automotor destinado a satisfacer las necesidades privadas de movilización de personas, animales o cosas."
 keywords: ["vehiculo","servicio","particular","automotor","destinado","satisfacer"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

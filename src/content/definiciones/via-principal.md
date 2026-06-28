@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vía principal"
 texto_simple: "Vía de un sistema con prelación de tránsito sobre las vías ordinarias."
 keywords: ["via","principal","sistema","prelacion","transito","ordinarias."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

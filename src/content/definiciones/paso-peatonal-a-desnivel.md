@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Paso peatonal a desnivel"
 texto_simple: "Puente o túnel diseñado especialmente para que los peatones atraviesen una vía."
 keywords: ["paso","peatonal","desnivel","puente","tunel","disenado","especialmente"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

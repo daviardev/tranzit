@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Cuatrimoto"
 texto_simple: "Vehículo automotor de cuatro (4) ruedas con componentes mecánicos de motocicleta, para transporte de personas o mercancías con capacidad de carga de hasta setecientos setenta (770) kilogramos."
 keywords: ["cuatrimoto","vehiculo","automotor","cuatro","ruedas"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Taxímetro"
 texto_simple: "Dispositivo instalado en un taxi para liquidar el costo del servicio público a una tarifa oficialmente autorizada."
 keywords: ["taximetro","dispositivo","instalado","liquidar","costo"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

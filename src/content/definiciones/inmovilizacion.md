@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Inmovilización"
 texto_simple: "Suspensión temporal de la circulación de un vehículo."
 keywords: ["inmovilizacion","suspension","temporal","circulacion","vehiculo."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Ciclo ruta"
 texto_simple: "Vía o sección de la calzada destinada al tránsito de bicicletas en forma exclusiva."
 keywords: ["ciclo","ruta","seccion","calzada","destinada","transito"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

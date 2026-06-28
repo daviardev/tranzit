@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Unidad tractora"
 texto_simple: "Vehículo automotor destinado a arrastrar un remolque, un semirremolque, o una combinación de ellos."
 keywords: ["unidad","tractora","vehiculo","automotor","destinado","arrastrar"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

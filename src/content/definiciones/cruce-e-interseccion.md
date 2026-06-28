@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Cruce e intersección"
 texto_simple: "Punto en el cual dos (2) o más vías se encuentran."
 keywords: ["cruce","interseccion","punto","encuentran."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

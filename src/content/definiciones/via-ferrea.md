@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vía férrea"
 texto_simple: "Diseñada para el tránsito de vehículos sobre rieles, con prelación sobre las demás vías, excepto para las ciudades donde existe metro, en cuyos casos será éste el que tenga la prelación."
 keywords: ["via","ferrea","disenada","transito","vehiculos","rieles"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

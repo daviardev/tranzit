@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Grúa"
 texto_simple: "Automotor especialmente diseñado con sistema de enganche para levantar y remolcar otro vehículo."
 keywords: ["grua","automotor","especialmente","disenado","sistema"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

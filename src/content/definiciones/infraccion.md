@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Infracción"
 texto_simple: "Transgresión o violación de una norma de tránsito. Habrá dos tipos de infracciones: simple y compleja. Será simple cuando se trate de violación a la mera norma. Será compleja si se produce un daño material."
 keywords: ["infraccion","transgresion","violacion","norma","transito."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Centro de enseñanza para formación de instructores"
 texto_simple: "Establecimiento docente de naturaleza pública, privada o mixta, que tenga como actividad permanente la formación de instructores en técnicas de conducción de vehículos automotores y motocicletas."
 keywords: ["centro","ensenanza","para","formacion","instructores","establecimiento","docente","naturaleza"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

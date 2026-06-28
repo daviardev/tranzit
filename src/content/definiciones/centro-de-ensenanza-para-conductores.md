@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Centro de enseñanza para conductores"
 texto_simple: "Establecimiento docente de naturaleza pública, privada o mixtos que tenga como actividad permanente la capacitación de personas que aspiran a conducir vehículos automotores y motocicletas."
 keywords: ["centro","ensenanza","para","conductores","establecimiento","docente","naturaleza","publica"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

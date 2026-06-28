@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Embriaguez"
 texto_simple: "Estado de alteración transitoria de las condiciones físicas y mentales, causada por intoxicación aguda que no permite una adecuada realización de actividades de riesgo."
 keywords: ["embriaguez","estado","alteracion","transitoria","condiciones"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

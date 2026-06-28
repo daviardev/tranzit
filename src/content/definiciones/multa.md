@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Multa"
 texto_simple: "Sanción pecuniaria. Para efectos del presente código y salvo disposición en contrario, la multa debe entenderse en salarios mínimos diarios legales vigentes."
 keywords: ["multa","sancion","pecuniaria.","efectos","presente"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

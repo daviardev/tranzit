@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Sobrecupo"
 texto_simple: "Exceso de pasajeros sobre la capacidad autorizada para un vehículo automotor."
 keywords: ["sobrecupo","exceso","pasajeros","capacidad","autorizada"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

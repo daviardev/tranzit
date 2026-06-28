@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Zona de estacionamiento restringido"
 texto_simple: "Parte de la vía delimitada por autoridad competente en zonas adyacentes a instalaciones militares o de policía, teatros, bancos, hospitales, entidades oficiales y de socorro, iglesias, establecimientos industriales y comerciales, en la cual solo pueden estacionar los vehículos autorizados."
 keywords: ["zona","estacionamiento","restringido","parte","delimitada","autoridad","competente"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

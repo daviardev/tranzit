@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Croquis"
 texto_simple: "Plano descriptivo de los pormenores de un accidente de tránsito donde resulten daños a personas, vehículos, inmuebles, muebles o animales, levantado en el sitio de los hechos por el agente, la policía de tránsito o por la autoridad competente."
 keywords: ["croquis","plano","descriptivo","pormenores","accidente"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

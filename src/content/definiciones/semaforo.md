@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Semáforo"
 texto_simple: "Dispositivo electromagnético o electrónico para regular el tránsito de vehículos, peatones mediante el uso de señales luminosas."
 keywords: ["semaforo","dispositivo","electromagnetico","electronico","regular"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

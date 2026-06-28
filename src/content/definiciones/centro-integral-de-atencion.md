@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Centro integral de atención"
 texto_simple: "Establecimiento donde se prestará el servicio de escuela y casa cárcel para la rehabilitación de los infractores a las normas del Código de Tránsito. Podrá ser operado por el Estado o por entes privados que a través del cobro de las tarifas por los servicios allí prestados, garantizarán su auto sostenibilidad."
 keywords: ["centro","integral","atencion","establecimiento","donde","prestara","servicio"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

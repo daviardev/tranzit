@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Tráfico"
 texto_simple: "Volumen de vehículos, peatones, o productos que pasan por un punto específico durante un periodo determinado."
 keywords: ["trafico","volumen","vehiculos","peatones","productos"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

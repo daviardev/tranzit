@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Señal de tránsito"
 texto_simple: "Dispositivo físico o marca especial. Preventiva y reglamentaria e informativa, que indica la forma correcta como deben transitar los usuarios de las vías."
 keywords: ["senal","transito","dispositivo","fisico","marca","especial."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

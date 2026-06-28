@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vehículo de tracción animal"
 texto_simple: "Vehículo no motorizado halado o movido por un animal."
 keywords: ["vehiculo","traccion","animal","motorizado","halado","movido"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

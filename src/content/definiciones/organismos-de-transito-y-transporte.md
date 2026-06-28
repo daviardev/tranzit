@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Organismos de tránsito y transporte"
 texto_simple: "Son entidades públicas del orden municipal, distrital o departamental que tienen como función organizar, dirigir y controlar el tránsito y el transporte en su respectiva jurisdicción."
 keywords: ["organismos","transito","transporte","entidades","publicas","orden","municipal"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

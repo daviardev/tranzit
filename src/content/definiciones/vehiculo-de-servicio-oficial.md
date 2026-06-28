@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vehículo de servicio oficial"
 texto_simple: "Vehículo automotor destinado al servicio de entidades públicas."
 keywords: ["vehiculo","servicio","oficial","automotor","destinado"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Bus"
 texto_simple: "Vehículo automotor destinado al transporte colectivo de personas y sus equipajes, debidamente registrado conforme a las normas y características especiales vigentes."
 keywords: ["bus","vehiculo","automotor","destinado","transporte"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

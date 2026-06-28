@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Carrocería"
 texto_simple: "Estructura del vehículo instalada sobre un chasis, destinada al transporte de personas o de carga."
 keywords: ["carroceria","estructura","vehiculo","instalada","chasis"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

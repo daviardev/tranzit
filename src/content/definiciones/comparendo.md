@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Comparendo"
 texto_simple: "Orden formal de notificación para que el presunto contraventor o implicado se presente ante la autoridad de tránsito por la comisión de una infracción."
 keywords: ["comparendo","orden","formal","notificacion","presunto"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

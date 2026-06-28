@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Paso a nivel"
 texto_simple: "Intersección a un mismo nivel de una calle o carretera con una vía férrea."
 keywords: ["paso","nivel","interseccion","mismo","calle"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

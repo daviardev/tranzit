@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vehículo agrícola"
 texto_simple: "Vehículo automotor provisto de una configuración especial, destinado exclusivamente a labores agrícolas."
 keywords: ["vehiculo","agricola","automotor","provisto","configuracion"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

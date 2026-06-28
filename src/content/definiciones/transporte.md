@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Transporte"
 texto_simple: "Es el traslado de personas, animales o cosas de un punto a otro a través de un medio físico."
 keywords: ["transporte","traslado","personas","animales","cosas"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

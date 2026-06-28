@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Aprendiz"
 texto_simple: "Persona que recibe de un instructor, técnicas de conducción de vehículos automotores y motocicletas."
 keywords: ["aprendiz","persona","recibe","instructor","tecnicas"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

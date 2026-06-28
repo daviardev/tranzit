@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Chasis"
 texto_simple: "Conjunto de elementos que proporcionan soporte a todas las partes del vehículo mediante un bastidor."
 keywords: ["chasis","conjunto","elementos","proporcionan","soporte"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

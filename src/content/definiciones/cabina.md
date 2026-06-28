@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Cabina"
 texto_simple: "Recinto separado de la carrocería de un vehículo destinado al conductor."
 keywords: ["cabina","recinto","separado","carroceria","vehiculo"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

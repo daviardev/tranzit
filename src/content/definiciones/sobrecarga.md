@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Sobrecarga"
 texto_simple: "Exceso de carga sobre la capacidad autorizada para un vehículo automotor."
 keywords: ["sobrecarga","exceso","carga","capacidad","autorizada"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

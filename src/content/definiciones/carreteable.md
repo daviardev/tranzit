@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Carreteable"
 texto_simple: "Vía sin pavimentar destinada a la circulación de vehículos."
 keywords: ["carreteable","pavimentar","destinada","circulacion","vehiculos."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Conjunto óptico"
 texto_simple: "Grupo de luces de servicio, delimitadoras, direccionales, pilotos de freno y reverso."
 keywords: ["conjunto","optico","grupo","luces","servicio","delimitadoras"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

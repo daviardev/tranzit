@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Discapacitado"
 texto_simple: "Persona que tiene disminuida alguna de sus capacidades físicas o mentales."
 keywords: ["discapacitado","persona","tiene","disminuida","alguna"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

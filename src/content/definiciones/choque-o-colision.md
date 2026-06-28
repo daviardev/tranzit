@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Choque o colisión"
 texto_simple: "Encuentro violento entre dos (2) o más vehículos, o entre un vehículo y un objeto fijo."
 keywords: ["choque","colision","encuentro","violento","vehiculos","vehiculo"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

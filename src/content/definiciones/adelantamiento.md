@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Adelantamiento"
 texto_simple: "Maniobra mediante la cual un vehículo se pone delante de otro vehículo que lo antecede en el mismo carril de una calzada."
 keywords: ["adelantamiento","maniobra","mediante","vehiculo","delante"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

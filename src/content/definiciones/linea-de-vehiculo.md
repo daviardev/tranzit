@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Línea de vehículo"
 texto_simple: "Referencia que le da el fabricante a una clase de vehículo de acuerdo con las características específicas técnico-mecánicas."
 keywords: ["linea","vehiculo","referencia","fabricante","clase"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

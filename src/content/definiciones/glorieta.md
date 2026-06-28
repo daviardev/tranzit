@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Glorieta"
 texto_simple: "Intersección donde no hay cruces directos sino maniobras de entrecruzamientos y movimientos alrededor de una isleta o plazoleta central."
 keywords: ["glorieta","interseccion","donde","cruces","directos"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

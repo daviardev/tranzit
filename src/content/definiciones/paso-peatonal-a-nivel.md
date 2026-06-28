@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Paso peatonal a nivel"
 texto_simple: "Zona de la calzada delimitada por dispositivos y marcas especiales con destino al cruce de peatones."
 keywords: ["paso","peatonal","nivel","calzada","delimitada","dispositivos","marcas"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

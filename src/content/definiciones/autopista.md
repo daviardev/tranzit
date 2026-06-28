@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Autopista"
 texto_simple: "Vía de calzadas separadas, cada una con dos (2) o más carriles, control total de acceso y salida, con intersecciones en desnivel o mediante entradas y salidas directas a otras carreteras y con control de velocidades mínimas y máximas por carril."
 keywords: ["autopista","calzadas","separadas","carriles","control"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Camión"
 texto_simple: "Vehículo automotor que por su tamaño y destinación se usa para transportar carga."
 keywords: ["camion","vehiculo","automotor","tamano","destinacion"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

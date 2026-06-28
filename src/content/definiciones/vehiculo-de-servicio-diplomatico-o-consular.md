@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vehículo de servicio diplomático o consular"
 texto_simple: "Vehículo automotor destinado al servicio de funcionarios diplomáticos o consulares."
 keywords: ["vehiculo","servicio","diplomatico","consular","automotor","destinado"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

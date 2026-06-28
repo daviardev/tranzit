@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Parqueadero"
 texto_simple: "Lugar público o privado destinado al estacionamiento de vehículos."
 keywords: ["parqueadero","lugar","publico","privado","destinado"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

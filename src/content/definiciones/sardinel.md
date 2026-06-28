@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Sardinel"
 texto_simple: "Elemento de concreto, asfalto u otros materiales para delimitar la calzada de una vía."
 keywords: ["sardinel","elemento","concreto","asfalto","otros"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

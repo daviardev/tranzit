@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Combinación de vehículos"
 texto_simple: "Conjunto acoplado de dos (2) o más unidades vehiculares."
 keywords: ["combinacion","vehiculos","conjunto","acoplado","unidades","vehiculares."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

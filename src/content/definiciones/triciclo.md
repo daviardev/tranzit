@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Triciclo"
 texto_simple: "Vehículo no motorizado de tres (3) ruedas, accionado con el esfuerzo del conductor por medio de pedales."
 keywords: ["triciclo","vehiculo","motorizado","ruedas","accionado"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

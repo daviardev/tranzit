@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Clase de vehículo"
 texto_simple: "Denominación dada a un automotor de conformidad con su destinación, configuración y especificaciones técnicas."
 keywords: ["clase","vehiculo","denominacion","automotor","conformidad","destinacion"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

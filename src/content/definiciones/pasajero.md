@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Pasajero"
 texto_simple: "Persona distinta del conductor que se transporta en un vehículo público."
 keywords: ["pasajero","persona","distinta","conductor","transporta"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

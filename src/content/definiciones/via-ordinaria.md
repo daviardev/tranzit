@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Vía ordinaria"
 texto_simple: "La que tiene tránsito subordinado a las vías principales."
 keywords: ["via","ordinaria","tiene","transito","subordinado","principales."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

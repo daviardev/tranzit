@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Motocarro"
 texto_simple: "Vehículo automotor de tres ruedas con estabilidad propia con componentes mecánicos de motocicleta, para el transporte de personas o mercancías con capacidad útil hasta 770 kilogramos."
 keywords: ["motocarro","vehiculo","automotor","ruedas","estabilidad"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

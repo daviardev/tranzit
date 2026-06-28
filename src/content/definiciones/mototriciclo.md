@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Mototriciclo"
 texto_simple: "Vehículo automotor de tres ruedas con estabilidad propia y capacidad para el conductor y un acompañante del tipo SideCar y recreativo."
 keywords: ["mototriciclo","vehiculo","automotor","ruedas","estabilidad"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

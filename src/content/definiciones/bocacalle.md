@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Bocacalle"
 texto_simple: "Embocadura de una calle en una intersección."
 keywords: ["bocacalle","embocadura","calle","interseccion."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

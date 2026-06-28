@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Acompañante"
 texto_simple: "Persona que viaja con el conductor de un vehículo automotor."
 keywords: ["acompanante","persona","viaja","conductor","vehiculo"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

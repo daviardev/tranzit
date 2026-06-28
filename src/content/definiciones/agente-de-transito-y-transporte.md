@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Agente de tránsito y transporte"
 texto_simple: "Todo empleado público o contratista, que tiene como funciones u obligaciones, regular la circulación vehicular y peatonal, vigilar, controlar e intervenir en el cumplimiento de las normas de tránsito y transporte en cada uno de los entes territoriales, sin perjuicio de lo dispuesto en la Ley 1310 de 2009, respecto de la carrera administrativa."
 keywords: ["agente","transito","transporte","empleado","publico","contratista","tiene"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

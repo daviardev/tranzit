@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Transformación de vehículo"
 texto_simple: "Procedimiento físico y mecánico mediante el cual un vehículo automotor puede ser modificado con el fin de cumplir una función diferente o mejorar su funcionamiento, higiene o seguridad."
 keywords: ["transformacion","vehiculo","procedimiento","fisico","mecanico","mediante"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

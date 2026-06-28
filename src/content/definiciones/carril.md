@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Carril"
 texto_simple: "Parte de la calzada destinada al tránsito de una sola fila de vehículos."
 keywords: ["carril","parte","calzada","destinada","transito"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

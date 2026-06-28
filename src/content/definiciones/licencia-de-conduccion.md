@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Licencia de conducción"
 texto_simple: "Documento público de carácter personal e intransferible expedido por autoridad competente, el cual autoriza a una persona para la conducción de vehículos con validez en todo el territorio nacional."
 keywords: ["licencia","conduccion","documento","publico","caracter","personal"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

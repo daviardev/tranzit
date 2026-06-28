@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Columna motorizada"
 texto_simple: "Son todos los vehículos autopropulsados o tractados que hacen parte de un mismo grupo de desplazamiento militar, bajo el mando de un comandante que los dirige o coordina."
 keywords: ["columna","motorizada","todos","vehiculos","autopropulsados","tractados"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

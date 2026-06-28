@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Ciclovía"
 texto_simple: "Vía o sección de calzada destinada ocasionalmente para el tránsito de bicicletas, triciclos y peatones."
 keywords: ["ciclovia","seccion","calzada","destinada","ocasionalmente"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

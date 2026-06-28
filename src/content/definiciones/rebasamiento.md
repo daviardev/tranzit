@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Rebasamiento"
 texto_simple: "Maniobra mediante la cual un vehículo sobrepasa a otro que lo antecedía en el mismo carril de una calzada."
 keywords: ["rebasamiento","maniobra","mediante","vehiculo","sobrepasa"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

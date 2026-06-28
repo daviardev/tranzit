@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Accesibilidad"
 texto_simple: "Condición esencial de los servicios públicos que permite en cualquier espacio o ambiente exterior o interior el fácil disfrute de dicho servicio por parte de toda la población."
 keywords: ["accesibilidad","condicion","esencial","servicios","publicos"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

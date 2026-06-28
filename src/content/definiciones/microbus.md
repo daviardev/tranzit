@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Microbús"
 texto_simple: "Vehículo destinado al transporte de personas con capacidad de 10 a 19 pasajeros."
 keywords: ["microbus","vehiculo","destinado","transporte","personas"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

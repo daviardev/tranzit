@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Tipo de carrocería"
 texto_simple: "Conjunto de características que definen la carrocería de un vehículo."
 keywords: ["tipo","carroceria","conjunto","caracteristicas","definen"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

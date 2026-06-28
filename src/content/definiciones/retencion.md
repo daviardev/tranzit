@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Retención"
 texto_simple: "Inmovilización de un vehículo por orden de autoridad competente."
 keywords: ["retencion","inmovilizacion","vehiculo","orden","autoridad"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Alcohosensor"
 texto_simple: "Sistema para determinar alcohol en aire exhalado."
 keywords: ["alcohosensor","sistema","determinar","alcohol","exhalado."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

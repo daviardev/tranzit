@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Peatón"
 texto_simple: "Persona que transita a pie o por una vía."
 keywords: ["peaton","persona","transita"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

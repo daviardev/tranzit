@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Modelo del vehículo"
 texto_simple: "Referencia o código que asigna la fábrica o ensambladora a una determinada serie de vehículos."
 keywords: ["modelo","del","vehiculo","referencia","codigo","asigna","fabrica"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

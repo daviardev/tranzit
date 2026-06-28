@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Grupo de Control Vial o Cuerpo de Agentes de Tránsito"
 texto_simple: "Grupo de empleados públicos o contratistas que tiene como funciones y obligaciones, regular la circulación vehicular y peatonal, vigilar, controlar e intervenir en el cumplimiento de las normas de tránsito y transporte en cada uno de los entes territoriales, vinculados legal y/o contractualmente, a los organismos de tránsito y transporte."
 keywords: ["grupo","control","vial","cuerpo","agentes","transito","empleados","publicos"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

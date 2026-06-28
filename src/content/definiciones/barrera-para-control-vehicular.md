@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Barrera para control vehicular"
 texto_simple: "Dispositivo dotado de punzones pincha llantas para uso en retenes y puesto de control de las fuerzas militares, la Policía Nacional, las autoridades de tránsito y transporte."
 keywords: ["barrera","para","control","vehicular","dispositivo","dotado","punzones","pincha"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

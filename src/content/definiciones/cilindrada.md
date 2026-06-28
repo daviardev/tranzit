@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Cilindrada"
 texto_simple: "Capacidad volumétrica total de los cilindros de un motor."
 keywords: ["cilindrada","capacidad","volumetrica","total","cilindros"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

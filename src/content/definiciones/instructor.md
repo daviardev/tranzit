@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Instructor"
 texto_simple: "Persona que imparte enseñanza teórica o práctica para la conducción de vehículos."
 keywords: ["instructor","persona","imparte","ensenanza","teorica"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

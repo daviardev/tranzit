@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Luces de emergencia"
 texto_simple: "Dispositivos de alumbrado que utilizan los vehículos en actos propios de su servicio, o vehículos para atención de emergencia."
 keywords: ["luces","emergencia","dispositivos","alumbrado","utilizan","vehiculos"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

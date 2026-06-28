@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Bicicleta"
 texto_simple: "Vehículo no motorizado de dos (2) o más ruedas en línea, el cual se desplaza por el esfuerzo de su conductor accionando por medio de pedales."
 keywords: ["bicicleta","vehiculo","motorizado","ruedas","linea"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

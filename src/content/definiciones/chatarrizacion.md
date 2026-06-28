@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Chatarrización"
 texto_simple: "Desintegración total de un vehículo automotor."
 keywords: ["chatarrizacion","desintegracion","total","vehiculo","automotor."]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

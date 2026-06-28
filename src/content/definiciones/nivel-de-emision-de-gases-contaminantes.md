@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Nivel de emisión de gases contaminantes"
 texto_simple: "Cantidad descargada de gases contaminantes por parte de un vehículo automotor. Es establecida por la autoridad ambiental competente."
 keywords: ["nivel","emision","gases","contaminantes","cantidad","descargada"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

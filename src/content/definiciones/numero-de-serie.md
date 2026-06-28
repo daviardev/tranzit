@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Número de serie"
 texto_simple: "Número de identificación que cada fabricante le asigna a un vehículo."
 keywords: ["numero","serie","identificacion","fabricante","asigna"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

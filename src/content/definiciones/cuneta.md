@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Cuneta"
 texto_simple: "Zanja o conducto construido al borde de una vía para recoger y evacuar las aguas superficiales."
 keywords: ["cuneta","zanja","conducto","construido","borde"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)

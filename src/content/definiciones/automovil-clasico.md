@@ -4,9 +4,6 @@ tipo: "definicion"
 titulo: "Automóvil clásico"
 texto_simple: "Automotor que haya cumplido 50 años y que además de conservar sus especificaciones y características originales de fábrica, presentación y funcionamiento, corresponda a marcas, series y modelos catalogados internacionalmente como tales."
 keywords: ["automovil","clasico","automotor","cumplido","ademas","conservar"]
-sinonimos: []
-situaciones: []
-articulos_relacionados: []
 ---
 
 ## Definición legal (Art. 2)
