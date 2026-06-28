@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["centro de enseñanza automovilística", "escuela de conducción", "autoescuela", "instructor de conducción", "multa centro enseñanza", "suspensión habilitación", "cancelación habilitación", "suspensión licencia instructor", "cancelación licencia instructor", "1 smldv", "300 smldv", "50 smldv", "6 meses suspensión", "2 meses suspensión instructor", "tercera vez cancelación", "cesación de actividades", "Ley 1397 de 2010", "procedimiento sancionatorio", "investigación acto administrativo", "10 días descargos", "15 días pruebas", "6 meses decisión", "Ministerio de Transporte", "escuela de conducción multa", "autoescuela sancionada"]
-articulos_relacionados: []
+articulos_relacionados: ["comparendos-y-fotomultas", "amonestacion-y-reincidencia", "cursos-y-sanciones-por-fraude"]
 aplica_a: ["centro de enseñanza automovilística", "instructor de conducción", "autoridad de vigilancia (Ministerio de Transporte)"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 154, 158 (Art. 154 modificado por Ley 1397 de 2010, art. 4)"]
 vigencia:

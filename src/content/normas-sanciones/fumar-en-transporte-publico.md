@@ -10,7 +10,7 @@ severidad: "leve"
 codigo_infraccion: null
 sancion: null
 keywords: ["fumar en bus", "fumar en taxi", "fumar en transporte público", "pasajero fumador", "conductor fumador", "curso de seguridad vial", "10 smldv", "multa por fumar conduciendo", "abandonar el bus por fumar", "prohibición de fumar", "me multaron por fumar en el bus", "el taxista iba fumando", "el conductor del bus fumaba mientras manejaba", "me bajaron del bus por fumar", "cuánto vale la multa por fumar manejando", "puedo fumar en el taxi", "fumar en servicio público", "un pasajero iba fumando en el bus y el conductor lo obligó a bajar", "el taxista iba fumando mientras manejaba", "me bajaron del bus por estar fumando un cigarrillo electrónico", "el conductor del bus fumaba en cada paradero"]
-articulos_relacionados: []
+articulos_relacionados: ["transporte-publico-pasajeros", "sanciones-peatones-y-ciclistas", "comportamiento-general"]
 aplica_a: ["pasajero", "conductor de servicio público"]
 referencias_legales: ["Ley 769 de 2002 - Art. 132"]
 vigencia:

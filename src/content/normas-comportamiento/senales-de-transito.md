@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["señales de tránsito", "clasificación señales", "señales reglamentarias", "señales preventivas", "señales informativas", "señales transitorias", "marcas sobre el pavimento", "prelación señales", "agente de tránsito", "semáforo", "zona prohibida sin señal", "comparendo sin señal", "Ley 2252 de 2022", "dañar señales", "retirar señales", "modificar señales", "3 smmlv", "paso a nivel", "guardavía", "ferrocarril", "contaminación visual", "demarcación vial", "me multaron por estacionar donde no había señal", "zona prohibida sin señalización", "un agente me puso comparendo pero no había señal de prohibido estacionar"]
-articulos_relacionados: ["infracciones-15-smldv"]
+articulos_relacionados: ["infracciones-15-smldv", "clasificacion-de-vias", "control-de-transito-semaforos", "comportamiento-general", "intersecciones", "conduccion-general"]
 aplica_a: ["conductor", "peatón", "ciclista", "autoridad de tránsito", "organismo estatal", "particular"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 109, 110, 111, 112, 113, 114, 115", "Ley 2252 de 2022 - Art. 2"]
 vigencia:

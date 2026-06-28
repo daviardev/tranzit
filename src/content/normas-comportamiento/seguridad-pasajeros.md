@@ -3,20 +3,20 @@ id: "seguridad-pasajeros"
 tipo: "norma"
 numero: "82, 83, 84, 85"
 titulo: "Seguridad de pasajeros"
-texto_simple: "El cinturón de seguridad es obligatorio en los asientos delanteros en todo el territorio. Menores de 10 años no pueden viajar en el asiento delantero. Menores de 2 años deben viajar atrás en silla de seguridad. Prohibido llevar pasajeros en la parte exterior del vehículo. El transporte escolar tiene normas especiales."
+texto_simple: "El cinturón de seguridad es obligatorio en los asientos delanteros en todo el territorio. Menores de 10 años no pueden viajar en el asiento delantero. Menores de 2 años deben viajar atrás en silla de seguridad. Los vehículos de transporte escolar deben tener cinturones de 3 puntos para cada ocupante (Ley 2393 de 2024). Prohibido llevar pasajeros en la parte exterior del vehículo."
 categoria: "normas-comportamiento"
 subcategoria: "seguridad"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["cinturón de seguridad", "cinturón", "menor de 10 años", "asiento delantero", "menor de 2 años", "silla de seguridad", "silla para bebé", "pasajeros en la parte exterior", "batea", "estribo", "capacidad de pasajeros", "licencia de tránsito", "transporte escolar", "ascenso y descenso", "niños de brazos", "aprovisonamiento de combustible", "pasajeros en el carro", "cuántas personas pueden viajar", "transporte de estudiantes", "vehículos fabricados 2004", "cinturón trasero", "exceso de pasajeros", "es obligatorio el cinturón de seguridad", "multa por no usar cinturón", "mi hijo de 8 años puede ir adelante"]
+keywords: ["cinturón de seguridad", "cinturón", "menor de 10 años", "asiento delantero", "menor de 2 años", "silla de seguridad", "silla para bebé", "pasajeros en la parte exterior", "batea", "estribo", "capacidad de pasajeros", "licencia de tránsito", "transporte escolar", "ascenso y descenso", "niños de brazos", "aprovisonamiento de combustible", "pasajeros en el carro", "cuántas personas pueden viajar", "transporte de estudiantes", "vehículos fabricados 2004", "cinturón trasero", "exceso de pasajeros", "es obligatorio el cinturón de seguridad", "multa por no usar cinturón", "mi hijo de 8 años puede ir adelante", "cinturón 3 puntos", "cinturón transporte escolar", "Ley 2393 de 2024"]
 articulos_relacionados: ["infracciones-15-smldv", "infracciones-8-smldv"]
 aplica_a: ["conductor", "propietario", "pasajero", "institución educativa"]
-referencias_legales: ["Ley 769 de 2002 - Arts. 82, 83, 84, 85"]
+referencias_legales: ["Ley 769 de 2002 - Arts. 82, 83, 84, 85", "Ley 2393 de 2024 - Art. 2"]
 vigencia:
   estado: "vigente"
-  ultima_revision: "2026-03-26"
-  nota: ""
+  ultima_revision: "2026-06-28"
+  nota: "Art. 82 modificado por Ley 2393 de 2024: cinturones de 3 puntos obligatorios en transporte escolar."
 fuente_oficial:
   tipo: "norma"
   referencia: "Código Nacional de Tránsito Terrestre"
@@ -31,6 +31,7 @@ fuente_oficial:
 - Los **menores de 10 años** no pueden viajar en el asiento delantero.
 - Los **menores de 2 años** solo pueden viajar en el asiento posterior, en una **silla de seguridad** que garantice su fijación, siempre que el menor viaje únicamente en compañía del conductor.
 - A partir de vehículos fabricados en **2004**, se exige el uso de cinturones de seguridad en los **asientos traseros**.
+- Los vehículos de **transporte escolar** deben tener cinturones de seguridad de **no menos de 3 puntos de anclaje** para cada uno de sus ocupantes. El uso del cinturón es obligatorio durante todo el recorrido (Ley 2393 de 2024).
 - Parágrafo. Ningún vehículo puede llevar un número de pasajeros superior a la capacidad señalada en la licencia de tránsito, con excepción de los **niños de brazos**.
 
 **Artículo 83. Prohibición de llevar pasajeros en la parte exterior del vehículo.** Ningún vehículo puede llevar pasajeros en su parte exterior o fuera de la cabina, salvo vehículos que por su naturaleza lo requieran (incendios, recolección de basuras). No se permite la movilización de pasajeros en los estribos.
@@ -53,7 +54,7 @@ fuente_oficial:
 
 **Pasajeros en la parte exterior:** prohibido llevar gente en la batea de una camioneta, en los estribos, en el techo o colgando de las puertas. Solo exentos: carros de bomberos y recogida de basura.
 
-**Transporte escolar:** si ves un bus escolar detenido recogiendo o dejando estudiantes, **debes detenerte**. Los estudiantes no pueden ir de pie ni exceder la capacidad.
+**Transporte escolar:** si ves un bus escolar detenido recogiendo o dejando estudiantes, **debes detenerte**. Los estudiantes no pueden ir de pie ni exceder la capacidad. Desde la Ley 2393 de 2024, los buses escolares deben tener **cinturones de 3 puntos** para cada ocupante, y el adulto acompañante debe verificar que todos los usen durante todo el recorrido.
 
 **Combustible:** siempre con el motor apagado. Si eres transporte público, los pasajeros deben bajarse antes de echar gasolina.
 

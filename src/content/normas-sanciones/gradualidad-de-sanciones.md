@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["gradualidad", "gravedad de la infracción", "peligro peatones", "peligro automovilistas", "fuga", "duplicar multa", "huir de accidente", "abandonar el lugar", "sanción agravada", "me duplicaron la multa por fuga", "me fui del lugar del accidente", "hice el comparendo más grave", "por qué me duplicaron la multa", "qué pasa si huyo de un accidente", "sanción más grave por fuga", "tuve un accidente leve y me fui porque no pasó nada", "me chocaron y el otro conductor huyó", "me pararon y me duplicaron la multa porque dijeron que intenté huir", "choqué un poste y me fui del sitio"]
-articulos_relacionados: []
+articulos_relacionados: ["tipos-de-sanciones", "amonestacion-y-reincidencia", "procedimiento-para-comparendo", "comparendos-y-fotomultas"]
 aplica_a: ["conductor", "infractor"]
 referencias_legales: ["Ley 769 de 2002 - Art. 130"]
 vigencia:

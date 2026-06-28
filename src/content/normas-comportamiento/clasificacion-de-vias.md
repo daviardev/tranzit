@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["clasificación de vías", "vías urbanas", "vías rurales", "prelación de vías", "autopista", "vía arteria", "vía principal", "vía secundaria", "vía colectora", "vía local", "vía privada", "ciclorruta", "vía peatonal", "vía férrea", "carretera nacional", "carretera departamental", "prelación peatón", "alto tonelaje", "monumento histórico", "rutas de transporte público", "juntas administradoras", "qué tipo de vía es esta", "quién tiene prelación en esta vía", "el peatón tiene preferencia aquí", "pueden pasar camiones por esta vía"]
-articulos_relacionados: []
+articulos_relacionados: ["carriles-adelantamiento-prelacion", "intersecciones", "normas-para-peatones", "limites-de-velocidad", "senales-de-transito"]
 aplica_a: ["conductor", "peatón", "ciclista", "autoridad de tránsito", "transportador", "comunidad"]
 referencias_legales: ["Ley 769 de 2002 - Art. 105"]
 vigencia:

@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["mal estacionado", "estacionamiento prohibido", "retiro con grúa", "cepo", "bloqueo de vehículo", "inmovilización", "parqueadero autorizado", "costos de grúa", "comparendo estacionamiento", "zona prohibida", "espacio público", "vía bloqueada", "vehículo abandonado", "Ley 2283 de 2023", "tercerización grúas", "pólizas de cumplimiento", "curso de rehabilitación", "Superintendencia de Transporte", "me pusieron cepo", "me bloquearon el carro con cepo", "se llevaron mi carro con la grúa por mal estacionado", "cuánto cuesta el cepo", "cómo quitar el cepo", "me robaron el carro de donde lo estacioné y lo llevaron a patios", "dejé el carro mal estacionado un momento y se lo llevó la grúa"]
-articulos_relacionados: []
+articulos_relacionados: ["inmovilizacion-y-patios", "60-minutos-gracia-estacionamiento", "estacionamiento", "vehiculos-abandonados-en-patios"]
 aplica_a: ["conductor", "propietario", "poseedor", "tenedor", "municipio", "organismo de tránsito", "operador de grúa", "empresa de parqueaderos"]
 referencias_legales: ["Ley 769 de 2002 - Art. 127 (adicionado por Ley 2283 del 5 de enero de 2023, art. 5)"]
 vigencia:

@@ -10,7 +10,7 @@ severidad: "leve"
 codigo_infraccion: null
 sancion: null
 keywords: ["peatón multa", "ciclista sanción", "arresto peatón", "curso formativo peatones", "curso peatonal", "inasistencia al curso", "arresto 1 a 6 días", "amonestación peatón", "no respetar semáforo peatonal", "cruzar por sitio prohibido", "peatón en la calzada", "ciclista sin casco", "normas de peatones", "sanciones a peatones", "me pueden arrestar por cruzar mal", "me multaron por cruzar la calle mal", "arresto por no hacer curso de peatón", "cuánto es la multa para peatones", "pueden arrestar a un peatón", "ciclista infracción curso obligatorio", "me pueden meter a la cárcel por cruzar en rojo", "arresto peatón 6 días", "sanción para peatones código de tránsito", "qué pasa si un peatón no respeta el semáforo", "crucé la calle por donde no debía y un agente me llamó la atención"]
-articulos_relacionados: []
+articulos_relacionados: ["normas-bicicletas-triciclos", "normas-para-peatones", "amonestacion-y-reincidencia", "comportamiento-general", "fumar-en-transporte-publico"]
 aplica_a: ["peatón", "ciclista"]
 referencias_legales: ["Ley 769 de 2002 - Art. 133"]
 vigencia:

@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["vehículo abandonado en patios", "declaración de abandono", "subasta de vehículos", "enajenación de vehículos", "1 año en patios", "publicación periódico", "15 días hábiles", "reclamar vehículo", "chatarra", "vehículo inservible", "condonación de deudas", "cuenta especial", "caducidad 5 años", "leasing", "prenda", "renting", "orden judicial", "cobro coactivo", "Ley 1730 de 2014", "Ley 1630 de 2013", "mi carro lleva un año en patios", "cómo recuperar un carro que está en patios hace tiempo", "me van a subastar el carro", "declaración de abandono vehículo", "se puede vender un carro que está en patios"]
-articulos_relacionados: []
+articulos_relacionados: ["inmovilizacion-y-patios", "cobro-coactivo-de-multas", "retiro-de-vehiculos-mal-estacionados", "comparendos-y-fotomultas"]
 aplica_a: ["propietario del vehículo", "poseedor del vehículo", "entidad financiera (leasing, prenda)", "empresa transportadora", "organismo de tránsito"]
 referencias_legales: ["Ley 769 de 2002 - Art. 128 (modificado por Ley 1730 de 2014)", "Ley 1630 de 2013"]
 vigencia:

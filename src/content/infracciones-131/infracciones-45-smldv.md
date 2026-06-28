@@ -12,7 +12,7 @@ sancion:
   valor_smdlv: 45
   inmovilizacion: true
 keywords: ["45 SMLDV", "infracciones E", "artículo 131 E", "artículo 131 F", "combustible pasajeros a bordo", "negar servicio público", "sustancias peligrosas", "explosivos", "tóxicos", "radiactivos", "suspensión licencia 1 año", "inmovilización 1 año", "conducir ebrio", "conducir drogado", "alcoholemia", "embriaguez", "prueba de alcoholemia", "Ley 1696 de 2013", "Ley 2161 de 2021", "grado de embriaguez", "suspensión licencia alcohol", "multa por conducir ebrio", "multa por alcohol al conducir", "cuánto vale la multa por embriaguez", "me pararon borracho"]
-articulos_relacionados: ["examen-de-embriaguez", "grados-de-alcoholemia-y-sanciones", "negativa-a-prueba-y-retencion-de-licencia", "suspension-5-anos-por-accidente-bajo-alcohol"]
+articulos_relacionados: ["examen-de-embriaguez", "grados-de-alcoholemia-y-sanciones", "negativa-a-prueba-y-retencion-de-licencia", "suspension-5-anos-por-accidente-bajo-alcohol", "inmovilizacion-y-patios", "subsanar-infracciones", "transporte-publico-pasajeros"]
 aplica_a: ["conductor", "conductor de servicio público", "propietario", "empresa de transporte"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 131-E, 131-F (adicionado por Ley 1696 de 2013)", "Ley 2161 de 2021 (tasas de embriaguez)"]
 vigencia:

@@ -12,7 +12,7 @@ sancion:
   valor_smdlv: 4
   inmovilizacion: false
 keywords: ["4 SMLDV", "infracciones A", "artículo 131 A", "vehículo no automotor", "tracción animal", "bicicleta", "triciclo", "ciclista", "carreta", "caballo", "andarén", "no transitar por la derecha", "agarrarse de otro vehículo", "transportar personas en bici", "transitar por andenes", "no respetar señales", "sin luces bicicleta", "sin frenos bicicleta", "zonas prohibidas bicicleta", "adelantar entre dos carros", "vía férrea", "autopista en bici", "inmovilización bicicleta", "servicio público bicicleta", "multa bicicleta"]
-articulos_relacionados: []
+articulos_relacionados: ["normas-bicicletas-triciclos", "normas-para-peatones", "comportamiento-general", "sanciones-peatones-y-ciclistas"]
 aplica_a: ["conductor de vehículo no automotor", "ciclista", "conductor de vehículo de tracción animal"]
 referencias_legales: ["Ley 769 de 2002 - Art. 131-A"]
 vigencia:

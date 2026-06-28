@@ -12,7 +12,7 @@ sancion:
   valor_smdlv: 15
   inmovilizacion: false
 keywords: ["estacionamiento", "estacionar", "parquear", "prohibiciones estacionar", "dónde está prohibido estacionar", "doble fila", "anden", "ciclorruta", "hidrante", "garaje", "curva", "intersección", "puente", "túnel", "zona de seguridad vía férrea", "multa estacionamiento", "estacionar en autopista", "señales reflectivas", "cargue y descargue", "reparar en vía pública", "estacionamiento en zona rural", "30 centímetros del andén", "5 metros de la intersección", "Ley 1811 de 2016", "dónde puedo parquear"]
-articulos_relacionados: ["infracciones-15-smldv"]
+articulos_relacionados: ["infracciones-15-smldv", "60-minutos-gracia-estacionamiento", "retiro-de-vehiculos-mal-estacionados", "inmovilizacion-y-patios", "subsanar-infracciones"]
 aplica_a: ["conductor", "propietario"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 75, 76, 77, 78, 79", "Ley 1811 de 2016 - Art. 15"]
 vigencia:
@@ -63,7 +63,10 @@ Parágrafo. Prohibido reparar vehículos en la zona de seguridad de la vía fér
 **Reparaciones (Art. 79):** no puedes reparar el carro en la calle a menos que sea una emergencia. Si lo haces, máximo 30 minutos y con señales visibles.
 
 ## Notas
-Si te inmovilizaron el vehículo por mal estacionamiento, el carro queda en patios. Los costos de grúa y patios corren por tu cuenta. Coordina el retiro lo antes posible.
+**60 minutos de gracia:** Si parqueaste mal, la Res. 45295/2022 (Circular Única de Tránsito) establece que las autoridades deben esperar **60 minutos** antes de inmovilizar el vehículo, salvo que estés en zona de seguridad, vía principal, obstruyendo entrada de emergencia o parqueadero para discapacitados. Consulta `60-minutos-gracia-estacionamiento`.
+
+Si te inmovilizaron el vehículo por mal estacionamiento, el carro queda en patios. Los costos de grúa y patios corren por tu cuenta. Coordina el retiro lo antes posible. Consulta `retiro-de-vehiculos-mal-estacionados` e `inmovilizacion-y-patios`.
+
 La multa por estacionar en autopista o zona rural sin señales (Art. 77) es de **30 SMLDV**, una de las más altas del código por estacionamiento. Especial cuidado en carreteras.
 
 Si te multan por estacionar en doble fila (Art. 76, numeral 9) estando dentro del vehículo, puedes argumentar que no es estacionamiento sino detención momentánea. Pero si el agente considera que obstaculizas el tránsito, igual puede sancionarte.

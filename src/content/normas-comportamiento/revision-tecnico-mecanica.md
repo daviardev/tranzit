@@ -12,7 +12,7 @@ sancion:
   valor_smdlv: 15
   inmovilizacion: true
 keywords: ["revisión técnico mecánica", "tecnicomecánica", "revisión de gases", "RTMyEC", "certificado de revisión", "tecnomecánica vencida", "revisión anual", "primera revisión", "CDA", "centro de diagnóstico automotor", "tecnomecánica", "revisión del carro", "certificado de gases", "revisión del vehículo", "venció la tecnomecánica", "no tengo revisión", "multa por no tener revisión", "dónde hago la revisión", "cada cuánto se hace la revisión", "me pararon y la tecnomecánica estaba vencida", "no he hecho la revisión del carro este año", "me multaron porque el carro no pasó la revisión de gases", "cada cuánto se hace la revisión técnico mecánica", "me inmovilizaron el carro por la revisión vencida", "tengo el certificado pero el carro está en mal estado"]
-articulos_relacionados: ["infracciones-15-smldv"]
+articulos_relacionados: ["infracciones-15-smldv", "documentos-requeridos", "tipos-de-sanciones", "equipo-de-carretera", "matricula-vehiculos"]
 aplica_a: ["conductor", "propietario", "tenedor"]
 referencias_legales: ["Ley 769 de 2002 - Art. 28, 50, 51, 52, 53", "Ley 1383 de 2010 - Art. 8, 10, 14", "Decreto-Ley 19 de 2012 - Art. 201, 202", "Decreto-Ley 2106 de 2019 - Art. 111", "Ley 2283 de 2023 - Art. 6", "Infracción C.35 del Art. 131"]
 vigencia:

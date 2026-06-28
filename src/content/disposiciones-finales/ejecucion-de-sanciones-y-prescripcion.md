@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["ejecución de sanciones", "cobro coactivo", "prescripción 3 años", "caducidad 1 año", "comparendo prescripción", "multa de tránsito prescripción", "notificación mandamiento de pago", "interrupción prescripción", "planes de cobro", "rendición de cuentas", "contratar cobro multas", "jurisdicción coactiva", "autoridad de tránsito", "acción contravencional", "audiencia sanción", "recursos no resueltos", "silencio administrativo positivo", "revocación directa", "efectos a futuro", "descuentos", "Decreto Ley 19 de 2012", "Decreto Ley 1843 de 2017", "cuándo prescribe una multa de tránsito", "prescripción comparendo 3 años", "caducidad comparendo 1 año"]
-articulos_relacionados: []
+articulos_relacionados: ["cobro-coactivo-de-multas", "comparendos-y-fotomultas", "reduccion-de-multa", "procedimiento-para-comparendo"]
 aplica_a: ["infractor de tránsito", "autoridad de tránsito", "organismo de tránsito municipal", "Policía de Tránsito", "ciudadano con comparendo"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 159, 161", "Art. 159 modificado por Decreto-Ley 19 de 2012, art. 206", "Art. 161 modificado por Decreto-Ley 1843 de 2017, art. 11"]
 vigencia:

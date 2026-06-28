@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["emisiones contaminantes", "fuentes móviles", "niveles de emisión", "dispositivos sonoros", "ruido", "sirena", "corneta", "pito", "resonador", "válvula de escape", "silenciador", "bomberos", "ambulancia", "recolector de basura", "sectores de tranquilidad", "transporte pesado", "contaminación auditiva", "luces intermitentes", "alta intensidad", "me multaron por el escape ruidoso", "tengo un resonador en el carro", "pito de aire", "corneta en la ciudad", "sirena de ambulancia quién puede usarla", "luces de emergencia quién puede usarlas"]
-articulos_relacionados: ["tipos-de-sanciones"]
+articulos_relacionados: ["tipos-de-sanciones", "comparendo-ambiental", "revision-tecnico-mecanica", "comportamiento-general", "vehiculos-carga"]
 aplica_a: ["conductor", "propietario", "fabricante", "transportador de carga pesada"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 103, 104"]
 vigencia:

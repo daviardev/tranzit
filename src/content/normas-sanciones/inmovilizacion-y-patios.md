@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["inmovilización", "patios", "parqueadero autorizado", "grúa", "inventario del vehículo", "recuperar vehículo inmovilizado", "subsanar causa inmovilización", "multa parqueadero 50 smlmv", "entrega sin orden", "servicio público inmovilización", "acta de compromiso", "5 días para reparar", "20 smlmv", "retención equipos férreos", "tren accidente", "locomotora retenida", "deudor solidario empresa transporte", "patios autorizados", "responsable del pago parqueadero", "me inmovilizaron el carro", "cómo recuperar el carro de patios", "cuánto cuesta sacar el carro de patios", "gría se llevó mi carro", "el parqueadero no me entrega el carro", "inmovilización servicio público"]
-articulos_relacionados: []
+articulos_relacionados: ["subsanar-infracciones", "retiro-de-vehiculos-mal-estacionados", "vehiculos-abandonados-en-patios", "procedimiento-para-comparendo"]
 aplica_a: ["conductor", "propietario", "empresa de transporte", "parqueadero autorizado", "agente de tránsito"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 125, 126"]
 vigencia:
@@ -73,6 +73,8 @@ Cuando te inmovilizan el carro, va a un parqueadero autorizado (patios) y no pue
 **Trenes:** si un tren choca un carro, no pueden retener la locomotora por días. Solo el tiempo indispensable para las diligencias en el sitio. Las inspecciones periciales se hacen en los talleres del ferrocarril.
 
 ## Notas
+**60 minutos para subsanar y evitar patios:** Si la infracción que cometiste puede corregirse en el lugar (casco, documentos, luces, carga), el Art. 3 de la Res. 3027/2010 (ratificado por Consejo de Estado en 2019) te da **hasta 60 minutos** para subsanarla. Si lo logras, el vehículo **no va a patios** (no hay grúa ni costos de parqueadero). El comparendo se impone igual. Consulta `subsanar-infracciones` para más detalles.
+
 Si el parqueadero te entrega el carro sin la orden de la autoridad, o si notas que faltan cosas: **denuncia**. El parqueadero tiene obligación de hacer inventario y responde por lo que falte. La multa para el parqueadero que no cumple es de 20 SMLMV (~$26 millones en 2026).
 
 Si eres taxista o conductor de servicio público: **pide el acta de compromiso** del Parágrafo 3. No tienes por qué dejar el carro días en patios por una falla reparable.

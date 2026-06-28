@@ -12,13 +12,13 @@ sancion:
   valor_smdlv: 15
   inmovilizacion: false
 keywords: ["15 SMLDV", "infracciones C", "artículo 131 C", "licencia adulterada", "estacionar en sitio prohibido", "bloquear intersección", "estacionar sin precauciones", "reducir velocidad cruce escolar", "cinturón de seguridad", "señalizar maniobra", "dispositivos luminosos", "cruce de línea férrea", "puertas abiertas", "equipo de prevención", "proveer combustible motor encendido", "limitación física conductor", "sitios restringidos", "exceso de capacidad", "vehículo escolar sin permiso", "combinaciones de vehículos", "taxímetro dañado", "dejar recoger pasajeros sitios no demarcados", "carga sin protección", "carga no asegurada", "carga dimensiones superiores"]
-articulos_relacionados: []
+articulos_relacionados: ["estacionamiento", "velocidad", "intersecciones", "luces", "equipo-de-carretera", "normas-motocicletas", "parrillero-motocicleta", "seguridad-pasajeros", "remolque", "senales-de-transito", "carriles-adelantamiento-prelacion", "revision-tecnico-mecanica", "soat-seguro-obligatorio"]
 aplica_a: ["conductor", "propietario", "conductor de servicio público", "motociclista"]
-referencias_legales: ["Ley 769 de 2002 - Art. 131-C"]
+referencias_legales: ["Ley 769 de 2002 - Art. 131-C (literal C.12.A adicionado por Ley 2454 de 2025)"]
 vigencia:
   estado: "vigente"
-  ultima_revision: "2026-03-26"
-  nota: "Multa: 15 SMLDV ≈ $713,000 COP (2026). Es el grupo más extenso de infracciones (39 literales)."
+  ultima_revision: "2026-06-28"
+  nota: "Multa: 15 SMLDV ≈ $713,000 COP (2026). Es el grupo más extenso de infracciones (40 literales). C.12.A adicionado por Ley 2454 de 2025."
 fuente_oficial:
   tipo: "norma"
   referencia: "Código Nacional de Tránsito Terrestre"
@@ -43,6 +43,7 @@ fuente_oficial:
 | C.10 | Conducir con una o varias puertas abiertas | — |
 | C.11 | No portar el equipo de prevención y seguridad (equipo de carretera) | — |
 | C.12 | Proveer combustible con el motor encendido | — |
+| C.12.A | **No apagar el motor del vehículo para la inspección canina** (Ley 2454 de 2025) | — |
 | C.13 | Conducir sin las adaptaciones pertinentes (conductor con limitación física) | — |
 | C.14 | Transitar por sitios restringidos o en horas prohibidas | **Sí** |
 | C.15 | Conducir excediendo la capacidad autorizada (sobrecupo) | — |

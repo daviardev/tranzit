@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["actividades colectivas", "competencias deportivas", "eventos en vía pública", "permiso vía pública", "carrera en la calle", "maratón", "ciclismo", "rodada", "manifestación", "desfile", "procesión", "seguridad en eventos", "autorización tránsito", "15 días", "federación deportiva", "liga deportiva", "cómo organizar un evento en la calle", "permiso para carrera en la vía", "quiero hacer una rodada de bicicletas", "manifestación en la vía pública permiso", "competencias deportivas en la calle", "evento deportivo en la vía", "cierre de vía por evento", "autorización maratón", "cuánto tiempo antes pedir permiso"]
-articulos_relacionados: []
+articulos_relacionados: ["trabajos-eventuales-en-via-publica", "comportamiento-general", "clasificacion-de-vias"]
 aplica_a: ["organizador de eventos", "federación deportiva", "liga deportiva", "autoridad de tránsito", "ciudadano"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 99, 100"]
 vigencia:

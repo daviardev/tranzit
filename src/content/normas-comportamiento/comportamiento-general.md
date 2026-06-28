@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["comportamiento en el tránsito", "deberes del conductor", "deberes del peatón", "deberes del pasajero", "obedecer autoridad de tránsito", "señales de tránsito", "normas de tránsito", "cómo debo comportarme en la vía", "obligaciones del conductor", "obligaciones del peatón", "me puede multar por no obedecer", "no me pareció que el agente tuviera razón", "me pararon y no sé por qué", "un agente me dijo que no obedecí una señal", "qué obligaciones tengo como peatón", "qué obligaciones tengo como conductor", "el pasajero también tiene responsabilidades"]
-articulos_relacionados: []
+articulos_relacionados: ["conduccion-general", "comportamiento-general", "senales-de-transito", "educacion-vial", "cumplimiento-regimen-normativo"]
 aplica_a: ["conductor", "pasajero", "peatón"]
 referencias_legales: ["Ley 769 de 2002 - Art. 55"]
 vigencia:

@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["intersección", "cruce", "giro", "vía férrea", "5 metros", "paso peatonal", "carril exclusivo", "transporte masivo", "STTMP", "frenar intempestivamente", "detenerse en intersección", "semáforo", "prelación", "vía sin prelación", "me pararon en un cruce", "me pasé el semáforo y me quedé en la intersección", "me detuve sobre la vía del tren", "cuánto me alejo de la vía del tren", "frené de golpe y el de atrás me chocó", "intersección sin semáforo cómo cruzar", "paré el carro en el paso peatonal", "me pararon por frenar de repente", "carril exclusivo de TransMilenio", "el carro se me apagó en la intersección", "llegué a una intersección sin semáforo y no sé quién pasa primero"]
-articulos_relacionados: ["infracciones-15-smldv"]
+articulos_relacionados: ["infracciones-15-smldv", "carriles-adelantamiento-prelacion", "control-de-transito-semaforos", "clasificacion-de-vias", "conduccion-general"]
 aplica_a: ["conductor"]
 referencias_legales: ["Ley 769 de 2002 - Art. 66"]
 vigencia:

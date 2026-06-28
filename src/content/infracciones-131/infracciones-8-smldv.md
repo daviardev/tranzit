@@ -22,7 +22,7 @@ sinuaciones:
   - "lavé el carro en la calle y me multaron"
   - "tengo una calcomanía en el vidrio trasero"
   - "mi carro tiene parlantes enormes"
-articulos_relacionados: []
+articulos_relacionados: ["documentos-requeridos", "ubicacion-de-placas", "soat-seguro-obligatorio", "revision-tecnico-mecanica", "normas-motocicletas", "remolque", "comportamiento-general"]
 aplica_a: ["conductor", "propietario", "conductor de servicio público"]
 referencias_legales: ["Ley 769 de 2002 - Art. 131-B"]
 vigencia:

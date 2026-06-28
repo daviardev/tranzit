@@ -3,20 +3,20 @@ id: "carriles-adelantamiento-prelacion"
 tipo: "norma"
 numero: "60, 68, 70, 73"
 titulo: "Carriles, adelantamiento y prelación en la vía"
-texto_simple: "Los vehículos deben transitar por sus carriles demarcados. El adelantamiento a ciclistas debe hacerse con distancia mínima de 1.50 m. En intersecciones no señalizadas tiene prelación el vehículo a la derecha. En glorietas, quien está dentro tiene prelación."
+texto_simple: "Los vehículos deben transitar por sus carriles demarcados. El adelantamiento a ciclistas y usuarios de vehículos eléctricos livianos debe hacerse con distancia mínima de 1.50 m. En intersecciones no señalizadas tiene prelación el vehículo a la derecha. En glorietas, quien está dentro tiene prelación."
 categoria: "normas-comportamiento"
 subcategoria: "conduccion"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["carriles", "adelantamiento", "prelación", "intersección", "glorieta", "distancia ciclista", "1.50 metros ciclista", "adelantar ciclista", "carril derecho", "doble sentido", "línea continua", "prohibición adelantar", "remolcarse", "zona de seguridad vía férrea", "señales direccionales", "giro", "cambio de carril", "bicicletas", "ciclorrutas", "motocicletas en ciclorruta", "inmovilización moto", "andenes", "por dónde debo ir en la vía", "cómo adelantar un carro", "distancia para adelantar ciclista"]
+keywords: ["carriles", "adelantamiento", "prelación", "intersección", "glorieta", "distancia ciclista", "1.50 metros ciclista", "adelantar ciclista", "vehículo eléctrico liviano", "movilidad personal urbana", "carril derecho", "doble sentido", "línea continua", "prohibición adelantar", "remolcarse", "zona de seguridad vía férrea", "señales direccionales", "giro", "cambio de carril", "bicicletas", "ciclorrutas", "motocicletas en ciclorruta", "inmovilización moto", "andenes", "por dónde debo ir en la vía", "cómo adelantar un carro", "distancia para adelantar ciclista", "Ley 2486 de 2025"]
 articulos_relacionados: ["infracciones-15-smldv", "infracciones-30-smldv"]
 aplica_a: ["conductor", "ciclista", "motociclista"]
-referencias_legales: ["Ley 769 de 2002 - Arts. 60, 68, 70, 73", "Ley 1811 de 2016 - Art. 17"]
+referencias_legales: ["Ley 769 de 2002 - Arts. 60, 68, 70, 73", "Ley 1811 de 2016 - Art. 17", "Ley 2486 de 2025 - Art. 6"]
 vigencia:
   estado: "vigente"
-  ultima_revision: "2026-03-26"
-  nota: ""
+  ultima_revision: "2026-06-28"
+  nota: "Art. 60 modificado por Ley 2486 de 2025: incluye vehículos eléctricos livianos en distancia de adelantamiento 1.50m."
 fuente_oficial:
   tipo: "norma"
   referencia: "Código Nacional de Tránsito Terrestre"
@@ -25,13 +25,13 @@ fuente_oficial:
 
 ## Texto oficial
 
-**Artículo 60. Obligatoriedad de transitar por los carriles demarcados.** (Modificado por el art. 17, Ley 1811 de 2016). Los vehículos deben transitar obligatoriamente por sus respectivos carriles dentro de las líneas de demarcación, y atravesarlos solo para adelantamiento o cruce.
+**Artículo 60. Obligatoriedad de transitar por los carriles demarcados.** (Modificado por el art. 6, Ley 2486 de 2025). Los vehículos deben transitar obligatoriamente por sus respectivos carriles dentro de las líneas de demarcación, y atravesarlos solo para adelantamiento o cruce.
 
 Parágrafo 1. No se puede transitar con vehículo automotor o de tracción animal por la zona de seguridad y protección de la vía férrea.
 
 Parágrafo 2. Antes de adelantar o cruzar, el conductor debe anunciar su intención con luces direccionales y hacer la maniobra sin entorpecer el tránsito ni poner en peligro a otros.
 
-Parágrafo 3. El adelantamiento a un ciclista debe hacerse a una distancia **no menor de 1.50 metros**.
+Parágrafo 3. Todo conductor de vehículo automotor deberá realizar la maniobra de adelantamiento de **ciclistas y usuarios de vehículos eléctricos livianos de movilidad personal urbana** a una distancia **no menor de 1.50 metros** de estos.
 
 **Artículo 68. Utilización de los carriles.**
 

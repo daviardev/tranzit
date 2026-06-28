@@ -3,20 +3,20 @@ id: "conduccion-general"
 tipo: "norma"
 numero: "61, 62, 63, 64, 65, 67, 69, 71, 80, 81"
 titulo: "Deberes generales del conductor"
-texto_simple: "El conductor debe abstenerse de acciones que afecten la seguridad mientras el vehículo está en movimiento, respetar conglomerados, peatones y ciclistas, ceder el paso a vehículos de emergencia, usar señales direccionales, y mantener las puertas cerradas."
+texto_simple: "El conductor debe abstenerse de acciones que afecten la seguridad mientras el vehículo está en movimiento, respetar conglomerados, peatones, ciclistas y usuarios de vehículos eléctricos livianos, ceder el paso a vehículos de emergencia, usar señales direccionales, y mantener las puertas cerradas."
 categoria: "normas-comportamiento"
 subcategoria: "conduccion"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["conducción segura", "seguridad al conducir", "acciones que afecten la seguridad", "conglomerados", "desfiles", "manifestaciones", "respetar peatones", "respetar ciclistas", "prelación peatón", "prelación ciclista", "vehículo de emergencia", "ambulancia", "bomberos", "policía", "ejército", "ceder el paso", "señales direccionales", "señales manuales", "retroceso", "inicio de marcha", "puertas cerradas", "vehículo en movimiento", "detener el vehículo", "señal de parqueo", "orillarse a la derecha"]
-articulos_relacionados: ["infracciones-15-smldv"]
+keywords: ["conducción segura", "seguridad al conducir", "acciones que afecten la seguridad", "conglomerados", "desfiles", "manifestaciones", "respetar peatones", "respetar ciclistas", "prelación peatón", "prelación ciclista", "vehículo eléctrico liviano", "movilidad personal urbana", "vehículo de emergencia", "ambulancia", "bomberos", "policía", "ejército", "ceder el paso", "señales direccionales", "señales manuales", "retroceso", "inicio de marcha", "puertas cerradas", "vehículo en movimiento", "detener el vehículo", "señal de parqueo", "orillarse a la derecha", "Ley 2486 de 2025"]
+articulos_relacionados: ["infracciones-15-smldv", "comportamiento-general", "carriles-adelantamiento-prelacion", "senales-de-transito", "intersecciones", "vehiculos-electricos-livianos", "normas-bicicletas-triciclos", "normas-para-peatones"]
 aplica_a: ["conductor"]
-referencias_legales: ["Ley 769 de 2002 - Arts. 61, 62, 63, 64, 65, 67, 69, 71, 80, 81", "Ley 1811 de 2016 - Art. 14"]
+referencias_legales: ["Ley 769 de 2002 - Arts. 61, 62, 63, 64, 65, 67, 69, 71, 80, 81", "Ley 1811 de 2016 - Art. 14", "Ley 2486 de 2025 - Art. 5"]
 vigencia:
   estado: "vigente"
-  ultima_revision: "2026-03-26"
-  nota: ""
+  ultima_revision: "2026-06-28"
+  nota: "Art. 63 modificado por Ley 2486 de 2025: incluye vehículos eléctricos livianos de movilidad personal urbana."
 fuente_oficial:
   tipo: "norma"
   referencia: "Código Nacional de Tránsito Terrestre"
@@ -29,7 +29,7 @@ fuente_oficial:
 
 **Artículo 62. Respeto a los conglomerados.** El conductor debe respetar las formaciones de tropas, desfiles, columnas motorizadas de fuerza pública, procesiones, entierros, filas estudiantiles, manifestaciones públicas y actividades deportivas.
 
-**Artículo 63. Respeto a los derechos de los peatones y ciclistas.** (Modificado por el art. 14, Ley 1811 de 2016). Los conductores deben respetar los derechos e integridad de los peatones y ciclistas, dándoles prelación en la vía.
+**Artículo 63. Respeto a los derechos de los peatones, ciclistas y usuarios de vehículos eléctricos livianos.** (Modificado por el art. 5, Ley 2486 de 2025). Los conductores de vehículos motorizados deberán respetar los derechos e integridad de los peatones, ciclistas y usuarios de vehículos eléctricos livianos de movilidad personal urbana, dándoles prelación en la vía.
 
 **Artículo 64. Cesión de paso a vehículos de emergencia.** El conductor debe ceder el paso a ambulancias, bomberos, vehículos de socorro o emergencia, policía o ejército, orillándose al costado derecho de la calzada y deteniendo el vehículo, cuando anuncien su presencia con luces, sirenas, campanas o cualquier señal óptica o audible. Los vehículos de emergencia deben reducir la velocidad y constatar que les cedieron el paso al cruzar una intersección.
 
@@ -64,7 +64,7 @@ Este archivo agrupa los deberes generales de conducción. Algunos puntos clave:
 
 **Conglomerados (Art. 62):** si hay una manifestación, desfile, procesión o actividad deportiva, debes respetarla. No intentes atravesar la multitud.
 
-**Peatones y ciclistas (Art. 63):** siempre tienen prelación. En un paso peatonal, el peatón tiene la preferencia aunque no haya semáforo.
+**Peatones, ciclistas y vehículos eléctricos (Art. 63):** siempre tienen prelación. En un paso peatonal, el peatón tiene la preferencia aunque no haya semáforo. Los vehículos eléctricos livianos de movilidad personal urbana (patinetas, hoverboards, etc.) también están protegidos por esta norma desde la Ley 2486 de 2025.
 
 **Vehículos de emergencia (Art. 64):** cuando escuches una sirena, oríllate a la derecha y detente. No bloquees el paso. En vías de 3 carriles, despeja el del medio.
 

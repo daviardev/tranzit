@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["amonestación", "curso de educación vial", "curso obligatorio de tránsito", "no asistí al curso de tránsito", "multa por no asistir al curso", "5 smldv", "reincidencia", "reincidencia tránsito", "segunda infracción", "suspensión de licencia por reincidencia", "6 meses de suspensión", "doblar sanción", "faltas en 6 meses", "reincidente", "curso de conducción", "me mandaron a un curso de tránsito", "me dieron amonestación qué significa", "no fui al curso de educación vial", "multa por no asistir al curso de tránsito", "cuánto cuesta no ir al curso", "si me vuelven a multar me suspenden la licencia", "me van a suspender la licencia por reincidencia", "cuántas infracciones para considerar reincidencia", "cada cuánto se reinicia el contador de reincidencia", "reincidencia varias multas en poco tiempo"]
-articulos_relacionados: []
+articulos_relacionados: ["tipos-de-sanciones", "reduccion-de-multa", "cursos-y-sanciones-por-fraude", "procedimiento-para-comparendo"]
 aplica_a: ["conductor", "infractor"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 123, 124"]
 vigencia:

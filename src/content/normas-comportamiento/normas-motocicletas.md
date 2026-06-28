@@ -12,9 +12,9 @@ sancion:
   valor_smdlv: 15
   inmovilizacion: true
 keywords: ["moto", "motocicleta", "motociclo", "mototriciclo", "casco", "casco de seguridad", "casco sin placa", "chaleco reflectivo", "reflectivo moto", "luces moto siempre encendidas", "luces delanteras", "luces traseras", "espejos retrovisores", "direccionales moto", "acompañante moto", "inmovilización moto", "carril moto", "objetos en moto", "carga moto", "Ley 2251 de 2022", "multa por no usar casco moto", "me pararon en moto sin casco", "me inmovilizaron la moto por no tener casco", "casco con placa", "me pueden multar por llevar el casco con la placa"]
-articulos_relacionados: ["infracciones-15-smldv"]
+articulos_relacionados: ["infracciones-15-smldv", "parrillero-motocicleta", "subsanar-infracciones", "documentos-requeridos", "licencias-conduccion"]
 aplica_a: ["conductor de motocicleta", "conductor de motociclo", "conductor de mototriciclo", "acompañante"]
-referencias_legales: ["Ley 769 de 2002 - Arts. 94, 96", "Ley 2251 de 2022 - Art. 9"]
+referencias_legales: ["Ley 769 de 2002 - Arts. 94, 96", "Ley 2251 de 2022 - Art. 9", "Resolución 3027 de 2010 - Art. 3 (60 min para subsanar)"]
 vigencia:
   estado: "vigente"
   ultima_revision: "2026-03-26"
@@ -64,6 +64,8 @@ fuente_oficial:
 
 ## Notas
 Si te paran en moto sin casco, **la moto queda inmovilizada**. No es solo multa: se la llevan a patios. Siempre lleva tu casco puesto, aunque sea un trayecto corto.
+
+**Importante:** si te paran sin casco, tienes derecho a **60 minutos** para que te lo traigan (Art. 3 Res. 3027/2010, ratificado por Consejo de Estado 2019). Si te lo traen a tiempo, evitas que la moto vaya a patios. El comparendo (15 SMLDV) se impone igual, pero no pagas grúa ni patios. Consulta `subsanar-infracciones`.
 
 Si un agente te dice que el casco debe tener la placa, puedes señalarle que el Art. 96 (modificado por Ley 2251 de 2022) lo prohíbe expresamente.
 La inmovilización por no usar casco aplica tanto al conductor como al acompañante. Si llevas a alguien sin casco, la moto se inmoviliza igual.

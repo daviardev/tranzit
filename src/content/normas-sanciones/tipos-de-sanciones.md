@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["tipos de sanciones", "amonestación", "multa", "retención preventiva de licencia", "suspensión de licencia", "suspensión de permiso", "cancelación de licencia", "inmovilización", "retención preventiva del vehículo", "sanción ambiental", "emisiones contaminantes", "ruido", "sirenas", "alarmas", "silenciador", "carga descubierta", "CDA", "centro de diagnóstico", "revisión técnico-mecánica", "30 smldv", "comparendo ambiental", "humo", "polvo", "partículas", "citación ambiental 15 días"]
-articulos_relacionados: []
+articulos_relacionados: ["amonestacion-y-reincidencia", "inmovilizacion-y-patios", "reduccion-de-multa", "procedimiento-para-comparendo", "gradualidad-de-sanciones"]
 aplica_a: ["conductor", "propietario", "agente de tránsito"]
 referencias_legales: ["Ley 769 de 2002 - Art. 122 (modificado por Ley 1383 de 2010, art. 20)"]
 vigencia:

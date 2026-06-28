@@ -12,13 +12,13 @@ sancion:
   valor_smdlv: 30
   inmovilizacion: true
 keywords: ["30 SMLDV", "infracciones D", "artículo 131 D", "conducir sin licencia", "sin SOAT", "sin seguro", "sentido contrario", "semáforo en rojo", "no detenerse en rojo", "adelantar en curva", "adelantar en túnel", "adelantar en puente", "adelantar en berma", "conducir sin luces", "maniobras peligrosas", "vehículos de emergencia", "no permitir el paso ambulancia", "sobrepeso", "carga con peso superior", "ruta no autorizada", "servicio diferente", "combustible no regulado", "gas propano", "exceso velocidad escolar", "salidas de emergencia"]
-articulos_relacionados: []
+articulos_relacionados: ["documentos-requeridos", "soat-seguro-obligatorio", "carriles-adelantamiento-prelacion", "luces", "conduccion-general", "intersecciones", "velocidad", "senales-de-transito", "vehiculos-abandonados-en-patios"]
 aplica_a: ["conductor", "propietario", "conductor de servicio público", "empresa de transporte"]
-referencias_legales: ["Ley 769 de 2002 - Art. 131-D"]
+referencias_legales: ["Ley 769 de 2002 - Art. 131-D (literales D.3 a D.7 modificados por Ley 2435 de 2024)"]
 vigencia:
   estado: "vigente"
-  ultima_revision: "2026-03-26"
-  nota: "Multa: 30 SMLDV ≈ $1,425,000 COP (2026). La mayoría conlleva inmovilización."
+  ultima_revision: "2026-06-28"
+  nota: "Multa: 30 SMLDV ≈ $1,425,000 COP (2026). La mayoría conlleva inmovilización. Literales D.3 a D.7 modificados por Ley 2435 de 2024."
 fuente_oficial:
   tipo: "norma"
   referencia: "Código Nacional de Tránsito Terrestre"
@@ -33,11 +33,11 @@ fuente_oficial:
 |--------|------------|:---:|
 | D.1 | Guiar un vehículo **sin haber obtenido licencia de conducción** | **Sí** (hasta que lo retire persona autorizada con licencia) |
 | D.2 | Conducir **sin portar los seguros ordenados por la ley** (SOAT) | **Sí** |
-| D.3 | Transitar en **sentido contrario** al estipulado para la vía, calzada o carril | **Sí** (moto: hasta pagar multa o decisión autoridad) |
-| D.4 | **No detenerse ante luz roja o amarilla** de semáforo, señal de "PARE" o semáforo intermitente en rojo | **Sí** (moto: hasta pagar multa o decisión autoridad) |
-| D.5 | Conducir un vehículo **sobre aceras, plazas, vías peatonales, separadores, bermas, zonas verdes o vías para vehículos no motorizados** | **Sí** (moto: hasta pagar multa o decisión autoridad) |
-| D.6 | **Adelantar** a otro vehículo en **berma, túnel, puente, curva, pasos a nivel, cruces no regulados, cima de cuesta o donde la señal lo indique** | **Sí** (moto: hasta pagar multa o decisión autoridad) |
-| D.7 | Conducir realizando **maniobras altamente peligrosas e irresponsables** que pongan en peligro a personas o cosas | **Sí** (moto: hasta pagar multa) |
+| D.3 | Transitar en **sentido contrario** al estipulado para la vía, calzada o carril (Ley 2435/2024) | **Sí** (moto: hasta pagar multa o decisión autoridad) |
+| D.4 | **No detenerse ante luz roja o amarilla** de semáforo, señal de "PARE" o semáforo intermitente en rojo (Ley 2435/2024) | **Sí** (moto: hasta pagar multa o decisión autoridad) |
+| D.5 | Conducir un vehículo **sobre aceras, plazas, vías peatonales, separadores, bermas, demarcaciones de canalización, zonas verdes o vías especiales para vehículos no motorizados** (Ley 2435/2024) | **Sí** (moto: hasta pagar multa o decisión autoridad) |
+| D.6 | **Adelantar** a otro vehículo en **berma, túnel, puente, curva, pasos a nivel, cruces no regulados, cima de cuesta o donde la señal lo indique** (Ley 2435/2024) | **Sí** (moto: hasta pagar multa o decisión autoridad) |
+| D.7 | Conducir realizando **maniobras altamente peligrosas e irresponsables** que pongan en peligro a personas o cosas (Ley 2435/2024) | **Sí** (moto: hasta pagar multa) |
 | D.8 | Conducir **sin luces o sin dispositivos luminosos** de posición, direccionales o de freno (o con alguna dañada) en horas o circunstancias que lo exijan | **Sí** (cuando no funcionen 2+ luces) |
 | D.9 | **No permitir el paso** de los vehículos de emergencia | — |
 | D.10 | Conducir vehículo para **transporte escolar con exceso de velocidad** | — |

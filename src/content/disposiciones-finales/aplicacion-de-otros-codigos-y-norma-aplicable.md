@@ -16,6 +16,7 @@ referencias_legales: ["Ley 769 de 2002 - Arts. 162, 163, 164"]
 vigencia:
   estado: "vigente"
   ultima_revision: "2026-03-26"
+  nota: "Arts. 162, 163, 164. Aplicación supletoria de códigos: Contencioso Administrativo, Penal, Procedimiento Penal, Procedimiento Civil."
 fuente_oficial:
   tipo: "norma"
   referencia: "Código Nacional de Tránsito Terrestre"

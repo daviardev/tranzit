@@ -12,7 +12,7 @@ sancion:
   valor_smdlv: 15
   inmovilizacion: false
 keywords: ["velocidad", "30 km/h", "reducción de velocidad", "zona escolar", "zona residencial", "concentración de personas", "visibilidad", "intersección", "señales de tránsito", "límite de velocidad", "exceso de velocidad", "a qué velocidad debo ir en zona escolar", "límite de velocidad en zonas residenciales", "cuándo debo reducir la velocidad", "me multaron por exceso de velocidad", "iba a 40 en zona escolar y me pararon", "velocidad máxima en intersección", "30 km por hora", "radar de velocidad", "foto multa por velocidad", "pasé por una zona escolar a 50 km/h", "me pusieron comparendo por exceso de velocidad", "iba rápido porque había poca visibilidad y casi choco", "no vi la señal de velocidad máxima", "me tomaron con radar en una zona de 30 km/h"]
-articulos_relacionados: ["infracciones-15-smldv"]
+articulos_relacionados: ["infracciones-15-smldv", "limites-de-velocidad", "control-de-transito-semaforos", "clasificacion-de-vias", "conduccion-general", "senales-de-transito"]
 aplica_a: ["conductor"]
 referencias_legales: ["Ley 769 de 2002 - Art. 74"]
 vigencia:

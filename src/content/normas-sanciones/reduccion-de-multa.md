@@ -12,10 +12,10 @@ sancion: null
 keywords: ["pronto pago", "reducción de multa", "50% descuento", "75% descuento", "curso de normas de tránsito", "aceptar infracción", "rechazar infracción", "audiencia pública", "5 días", "20 días", "pagar multa desde cualquier lugar", "inspección ambulante", "fotomulta plazo", "notificación comparendo", "curso virtual", "curso presencial", "no comparecer", "intereses moratorios", "centro integral de atención", "me hicieron un comparendo y quiero pagar con descuento", "cuánto tiempo tengo para pagar una multa con descuento", "pagar el 50% de la multa", "curso de tránsito para descuento", "dónde hago el curso de tránsito", "no estoy de acuerdo con el comparendo"]
 articulos_relacionados: ["comparendos-y-fotomultas", "procedimiento-para-comparendo", "cursos-y-sanciones-por-fraude"]
 aplica_a: ["conductor", "infractor", "propietario"]
-referencias_legales: ["Ley 769 de 2002 - Art. 136 (modificado por Decreto-Ley 19/2012, art. 205)"]
+referencias_legales: ["Ley 769 de 2002 - Art. 136 (modificado por Decreto-Ley 19/2012, art. 205)", "Ley 2222 de 2022 - Par. 3 del Art. 136"]
 vigencia:
   estado: "vigente"
-  ultima_revision: "2026-03-26"
+  ultima_revision: "2026-06-28"
   nota: "Artículo modificado por el Decreto-Ley 19 de 2012. Par. 2 adicionado por Ley 1843 de 2017. Par. 3 adicionado por Ley 2050 de 2020."
 fuente_oficial:
   tipo: "norma"
@@ -48,7 +48,7 @@ Los organismos de tránsito de manera gratuita podrán celebrar **acuerdos para 
 
 **Parágrafo 2 — Fotomultas (Ley 1843 de 2017).** Cuando se demuestre que la orden de comparendo por infracción detectada por sistemas automáticos, semiautomáticos y otros medios tecnológicos, **no fue notificada o fue indebidamente notificada**, los términos establecidos para la reducción de la sanción comenzarán a correr a partir de la fecha de la **notificación del comparendo**.
 
-**Parágrafo 3 — Cursos virtuales (Ley 2050 de 2020).** Los cursos podrán ser también **virtuales**, con autenticación biométrica del ciudadano determinada por el Ministerio de Transporte a través del RUNT y del SICOV. Los cursos no podrán superar la capacidad física instalada certificada.
+**Parágrafo 3 — Cursos virtuales (Ley 2050 de 2020, modificado por Ley 2222 de 2022).** Los cursos podrán ser también **virtuales**, con autenticación biométrica del ciudadano determinada por el Ministerio de Transporte a través del RUNT y del SICOV. Los cursos no podrán superar la capacidad física instalada certificada. Los cursos de tránsito deberán incluir **contenidos de seguridad vial que promuevan el respeto en la vía por los usuarios de la bicicleta** (Ley 2222 de 2022, Bici Segura).
 
 ## Explicación ciudadana
 
@@ -81,7 +81,7 @@ Los organismos de tránsito de manera gratuita podrán celebrar **acuerdos para 
 **No ir a la audiencia:** si rechazas la infracción y no vas a la audiencia, después de 30 días el proceso sigue sin ti y te notifican en estrados (ahí mismo en la audiencia). Pierdes tu derecho a defensa.
 **Curso obligatorio.** Si pagas el 50% pero no haces el curso, no has cumplido — la autoridad puede exigir el pago completo. El curso es requisito indispensable para el descuento.
 
-**Curso virtual (Par. 3):** desde la Ley 2050 de 2020, los cursos pueden ser virtuales con autenticación biométrica. Ya no necesitas ir presencialmente a un centro si prefieres hacerlo desde casa, pero asegúrate de que el curso esté registrado en el RUNT.
+**Curso virtual (Par. 3):** desde la Ley 2050 de 2020, los cursos pueden ser virtuales con autenticación biométrica. Ya no necesitas ir presencialmente a un centro si prefieres hacerlo desde casa, pero asegúrate de que el curso esté registrado en el RUNT. Desde la Ley 2222 de 2022 (Bici Segura), los cursos deben incluir contenidos sobre **respeto a ciclistas** en la vía.
 
 **Inspecciones ambulantes (Par. 1):** en algunas ciudades, los inspectores de tránsito pueden multarte e imponerte la sanción en el sitio. Esto es legal, pero deben respetar tu derecho a defensa — no pueden sancionarte sin dejarte hablar.
 

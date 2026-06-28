@@ -13,8 +13,9 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 
-# pnpm
+# pnpm and npm
 pnpm-lock.yaml
+package-lock.json
 
 # Código de transito
 Codigo-de-Transito-sB-2023-1.pdf

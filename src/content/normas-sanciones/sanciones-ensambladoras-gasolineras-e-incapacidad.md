@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["ensambladora", "fabricante de vehículos", "carrocerías", "remolques", "semirremolques", "mecanismo de identificación", "1000 smldv", "cancelación de registro", "gasolinera", "expendio de combustible", "servicio público", "motor encendido", "pasajeros a bordo", "100 smldv", "incapacidad", "deficiencia orgánica", "deficiencia funcional", "artículo 24", "accidente por incapacidad", "suspensión licencia 5 años", "la ensambladora vendió el carro sin número de identificación", "multa a gasolinera por echar gasolina con pasajeros", "la bomba de gasolina le echó combustible al bus con gente adentro", "estación de servicio multa conductores pasajeros", "conductor con discapacidad no declarada causó accidente"]
-articulos_relacionados: []
+articulos_relacionados: ["transporte-publico-pasajeros", "conduccion-general", "tipos-de-sanciones"]
 aplica_a: ["ensambladora", "fabricante de vehículos", "propietario de gasolinera", "conductor", "autoridad de tránsito"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 155, 156, 157", "Ley 769 de 2002 - Art. 24 (obligación del conductor sobre capacidad física)"]
 vigencia:

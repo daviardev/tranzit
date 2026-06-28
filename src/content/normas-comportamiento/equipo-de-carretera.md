@@ -12,7 +12,7 @@ sancion:
   valor_smdlv: 15
   inmovilizacion: false
 keywords: ["equipo de carretera", "equipo de emergencia", "kit de carretera", "gato", "cruceta", "extintor", "botiquín", "señales de carretera", "triángulo reflectivo", "llanta de repuesto", "tacos", "caja de herramientas", "linterna", "qué debo llevar en el carro", "equipo obligatorio vehículo", "kit de emergencia carro", "me multaron por no llevar equipo", "qué necesito en el carro por ley", "elementos de seguridad vehículo", "me pararon y no llevaba gato ni cruceta", "qué tengo que llevar obligatorio en el carro", "me multaron por no tener extintor", "el agente dijo que no llevaba el equipo completo", "compré el carro usado y no sé qué equipo debe tener", "me hicieron comparendo por no llevar señales de carretera"]
-articulos_relacionados: ["infracciones-15-smldv"]
+articulos_relacionados: ["infracciones-15-smldv", "revision-tecnico-mecanica", "documentos-requeridos", "luces"]
 aplica_a: ["conductor", "propietario"]
 referencias_legales: ["Ley 769 de 2002 - Art. 30"]
 vigencia:

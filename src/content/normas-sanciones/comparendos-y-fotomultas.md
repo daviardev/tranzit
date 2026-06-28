@@ -10,7 +10,7 @@ severidad: "informativa"
 codigo_infraccion: null
 sancion: null
 keywords: ["comparendo", "fotomulta", "cámara de tránsito", "foto comparendo", "notificación al propietario", "10 días descargos", "propietario registrado", "identificación del conductor", "pruebas objetivas", "multa a persona distinta", "infractor vs propietario", "placa del agente", "licencia de conducción en comparendo", "ayudas tecnológicas tránsito", "cámaras de video", "lectores electrónicos", "comparendo electrónico", "sanción al propietario", "descargos fotomulta", "me llegó un comparendo pero no era yo quien conducía", "fotomulta cómo saber quién manejaba", "me llegó una multa de tránsito de otro conductor", "cómo impugnar un comparendo que no cometí", "cámara de semáforo me tomó foto", "comparendo electrónico es válido"]
-articulos_relacionados: []
+articulos_relacionados: ["procedimiento-para-comparendo", "debido-proceso-comparendo", "cobro-coactivo-de-multas", "reduccion-de-multa", "notificacion-de-infracciones-tecnologicas"]
 aplica_a: ["conductor", "propietario del vehículo", "agente de tránsito", "autoridad de tránsito"]
 referencias_legales: ["Ley 769 de 2002 - Art. 129"]
 vigencia:
