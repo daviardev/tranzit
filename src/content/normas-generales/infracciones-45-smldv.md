@@ -58,7 +58,11 @@ situaciones:
   - "el bus echó gasolina conmigo adentro"
   - "trabajo con materiales peligrosos y los transporto"
   - "un camión llevaba personas y químicos juntos"
-articulos_relacionados: []
+articulos_relacionados:
+  - "examen-de-embriaguez"
+  - "grados-de-alcoholemia-y-sanciones"
+  - "negativa-a-prueba-y-retencion-de-licencia"
+  - "suspension-5-anos-por-accidente-bajo-alcohol"
 aplica_a:
   - "conductor"
   - "conductor de servicio público"
