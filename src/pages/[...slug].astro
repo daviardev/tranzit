@@ -1,0 +1,168 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "@/layouts/BaseLayout.astro";
+import type { LawEntry } from "@/lib/types";
+import { COLLECTIONS } from "@/lib/types";
+
+const { slug } = Astro.params as { slug: string };
+if (!slug) {
+    return Astro.redirect("/");
+}
+
+const parts = slug.split("/");
+const collectionName = parts[0];
+const entryId = parts.slice(1).join("/");
+
+if (!COLLECTIONS.includes(collectionName as typeof COLLECTIONS[number])) {
+    return Astro.redirect("/");
+}
+
+const entries = await getCollection(collectionName as typeof COLLECTIONS[number]);
+const entry = entries.find((e) => (e.data as LawEntry).id === entryId);
+
+if (!entry) {
+    return Astro.redirect("/");
+}
+
+const data = entry.data as LawEntry;
+const { Content } = await render(entry);
+
+const {
+    titulo,
+    numero,
+    codigo_infraccion,
+    sancion,
+    texto_simple,
+    articulos_relacionados,
+    referencias_legales,
+    aplica_a,
+    vigencia,
+    fuente_oficial,
+} = data;
+
+// Resolver artículos relacionados
+let relatedEntries: { id: string; titulo: string; slug: string }[] = [];
+if (articulos_relacionados && articulos_relacionados.length > 0) {
+    const allEntries: { id: string; titulo: string; slug: string }[] = [];
+    for (const name of COLLECTIONS) {
+        const entries = await getCollection(name);
+        for (const e of entries) {
+            allEntries.push({
+                id: e.id.replace(/\.md$/, "").replace(`${name}/`, ""),
+                titulo: (e.data as LawEntry).titulo,
+                slug: `/${name}/${e.id.replace(/\.md$/, "").replace(`${name}/`, "")}`,
+            });
+        }
+    }
+
+    relatedEntries = articulos_relacionados
+        .map((relId: string) => {
+            const found = allEntries.find((e) => e.id === relId);
+            return found
+                ? { id: found.id, titulo: found.titulo, slug: found.slug }
+                : null;
+        })
+        .filter(Boolean) as { id: string; titulo: string; slug: string }[];
+}
+---
+
+<BaseLayout title={`${titulo} | Tranzit`}>
+    <article>
+        <nav>
+            <a href="/">&larr; Volver al inicio</a>
+        </nav>
+
+        <h1>{titulo}</h1>
+
+        {codigo_infraccion && (
+            <p>
+                <strong>Código de infracción:</strong> {codigo_infraccion}
+            </p>
+        )}
+        {numero && (
+            <p>
+                <strong>Artículo:</strong> {numero}
+            </p>
+        )}
+        {sancion && (
+            <p>
+                <strong>Sanción:</strong> {String(sancion)}
+            </p>
+        )}
+
+        <section>
+            <p>{texto_simple}</p>
+        </section>
+
+        <Content />
+
+        {aplica_a && Array.isArray(aplica_a) && aplica_a.length > 0 && (
+            <section>
+                <h2>Aplica a</h2>
+                <ul>
+                    {aplica_a.map((item: string) => (
+                        <li>{item}</li>
+                    ))}
+                </ul>
+            </section>
+        )}
+
+        {relatedEntries.length > 0 && (
+            <section>
+                <h2>Artículos relacionados</h2>
+                <ul>
+                    {relatedEntries.map((rel) => (
+                        <li>
+                            <a href={rel.slug}>{rel.titulo}</a>
+                        </li>
+                    ))}
+                </ul>
+            </section>
+        )}
+
+        {referencias_legales &&
+            Array.isArray(referencias_legales) &&
+            referencias_legales.length > 0 && (
+                <section>
+                    <h2>Referencias legales</h2>
+                    <ul>
+                        {referencias_legales.map((ref: string) => (
+                            <li>{ref}</li>
+                        ))}
+                    </ul>
+                </section>
+            )}
+
+        {vigencia && (
+            <section>
+                <h2>Vigencia</h2>
+                <p>
+                    Estado: {vigencia.estado} &middot; Última revisión:{" "}
+                    {vigencia.ultima_revision}
+                </p>
+                {vigencia.nota && <p>{vigencia.nota}</p>}
+            </section>
+        )}
+
+        {fuente_oficial && (
+            <section>
+                <h2>Fuente oficial</h2>
+                {fuente_oficial.tipo && <p>Tipo: {fuente_oficial.tipo}</p>}
+                {fuente_oficial.referencia && (
+                    <p>Referencia: {fuente_oficial.referencia}</p>
+                )}
+                {fuente_oficial.url && (
+                    <p>
+                        <a
+                            href={fuente_oficial.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            Ver fuente
+                        </a>
+                    </p>
+                )}
+            </section>
+        )}
+    </article>
+</BaseLayout>
