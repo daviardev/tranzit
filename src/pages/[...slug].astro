@@ -3,6 +3,7 @@ import { getCollection, render } from "astro:content";
 import BaseLayout from "@/layouts/BaseLayout.astro";
 import type { LawEntry } from "@/lib/types";
 import { COLLECTIONS } from "@/lib/types";
+import { formatSancion } from "@/lib/sancion";
 
 const { slug } = Astro.params as { slug: string };
 if (!slug) {
@@ -39,6 +40,7 @@ const {
     vigencia,
     fuente_oficial,
 } = data;
+const sancionText = formatSancion(sancion);
 
 // Resolver artículos relacionados
 let relatedEntries: { id: string; titulo: string; slug: string }[] = [];
@@ -84,9 +86,9 @@ if (articulos_relacionados && articulos_relacionados.length > 0) {
                 <strong>Artículo:</strong> {numero}
             </p>
         )}
-        {sancion && (
+        {sancionText && (
             <p>
-                <strong>Sanción:</strong> {String(sancion)}
+                <strong>Sanción:</strong> {sancionText}
             </p>
         )}
 

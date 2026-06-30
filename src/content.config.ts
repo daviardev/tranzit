@@ -41,7 +41,15 @@ const schema = z.object({
   subcategoria: z.string(),
   severidad: z.string().nullable(),
   codigo_infraccion: z.string().nullable(),
-  sancion: z.any().nullable(),
+  sancion: z
+    .union([
+      z.object({
+        valor_smdlv: z.number().optional(),
+        inmovilizacion: z.boolean().optional(),
+      }),
+      z.string(),
+    ])
+    .nullable(),
   keywords: z.array(z.string()),
   articulos_relacionados: z.array(z.string()),
   aplica_a: z.array(z.string()),
@@ -72,7 +80,16 @@ const defSchema = z.object({
   subcategoria: z.string().optional(),
   severidad: z.string().nullable().optional(),
   codigo_infraccion: z.string().nullable().optional(),
-  sancion: z.any().nullable().optional(),
+  sancion: z
+    .union([
+      z.object({
+        valor_smdlv: z.number().optional(),
+        inmovilizacion: z.boolean().optional(),
+      }),
+      z.string(),
+    ])
+    .nullable()
+    .optional(),
   articulos_relacionados: z.array(z.string()).optional(),
   aplica_a: z.array(z.string()).optional(),
   referencias_legales: z.array(z.string()).optional(),
