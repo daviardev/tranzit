@@ -1,7 +1,10 @@
 # build output
 dist/
+.vercel/
 # generated types
 .astro/
+.pnpmbuild.json
+pnpm-workspace.yaml
 .vscode/
 
 # dependencies
@@ -14,7 +17,6 @@ yarn-error.log*
 pnpm-debug.log*
 
 # pnpm and npm
-pnpm-lock.yaml
 package-lock.json
 
 # Código de transito
