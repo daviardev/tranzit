@@ -3,7 +3,27 @@ id: "paso-peatonal-a-desnivel"
 tipo: "definicion"
 titulo: "Paso peatonal a desnivel"
 texto_simple: "Puente o túnel diseñado especialmente para que los peatones atraviesen una vía."
-keywords: ["paso","peatonal","desnivel","puente","tunel","disenado","especialmente"]
+keywords: [
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "caminar",
+  "a pie",
+  "cruzar la calle",
+  "derechos del peatón",
+  "deberes del peatón",
+  "peatón en la vía",
+  "cruzar por la esquina",
+  "cruzar por el paso peatonal",
+  "peatón imprudente",
+  "atropellamiento de peatón",
+  "multa al peatón",
+  "comparendo para peatones",
+]
 ---
 
 ## Definición legal (Art. 2)

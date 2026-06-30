@@ -3,7 +3,14 @@ id: "vehiculo-de-servicio-oficial"
 tipo: "definicion"
 titulo: "Vehículo de servicio oficial"
 texto_simple: "Vehículo automotor destinado al servicio de entidades públicas."
-keywords: ["vehiculo","servicio","oficial","automotor","destinado"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

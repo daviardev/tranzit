@@ -3,7 +3,20 @@ id: "homologacion"
 tipo: "definicion"
 titulo: "Homologación"
 texto_simple: "Es la confrontación de las especificaciones técnico-mecánicas, ambientales, de pesos, dimensiones, comodidad y seguridad con las normas legales vigentes para su respectiva aprobación."
-keywords: ["homologacion","confrontacion","especificaciones","tecnico-mecanicas","ambientales"]
+keywords: [
+  "homologacion",
+  "confrontacion",
+  "especificaciones",
+  "tecnico-mecanicas",
+  "ambientales",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "homologación",
+  "homologar vehículo",
+  "vehículo importado",
+  "homologar moto",
+  "requisitos de homologación",
+]
 ---
 
 ## Definición legal (Art. 2)

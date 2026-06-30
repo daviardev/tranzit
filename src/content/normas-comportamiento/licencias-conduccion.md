@@ -9,7 +9,48 @@ subcategoria: "documentacion"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["licencia de conducción", "categorías licencia", "A1", "A2", "B1", "B2", "B3", "C1", "C2", "C3", "requisitos licencia", "cómo sacar la licencia", "renovar licencia", "licencia vencida", "licencia no caduca", "examen teórico práctico", "CDA", "centro de diagnóstico automotor", "escuela de conducción", "revalidación licencia", "licencia extranjera", "canje licencia", "medicina preventiva", "examen médico", "edad mínima conducir", "16 años moto", "18 años carro", "categorías de moto", "categorías de carro", "licencia C1", "licencia C2", "licencia C3", "licencia B1", "licencia B2", "licencia B3", "licencia A1", "licencia A2", "cómo saber qué licencia necesito", "cuánto cuesta sacar la licencia", "me caducó la licencia", "multa por licencia vencida", "conducir sin licencia"]
+keywords: [
+  "pase",
+  "carnet",
+  "carné",
+  "sin licencia",
+  "no tengo pase",
+  "no tengo licencia",
+  "me quitaron la licencia",
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "60 minutos",
+  "plazo para arreglar",
+  "arreglar en el sitio",
+  "reparar en el lugar",
+  "tiempo para arreglar",
+  "cuánto tiempo tengo para arreglar",
+  "me pueden dar 60 minutos",
+  "derecho a 60 minutos",
+  "subsanar",
+  "solicitar 60 minutos",
+  "me dieron 60 minutos",
+  "descuento por pronto pago",
+  "pagar menos",
+  "descuento del 50%",
+  "descuento del 75%",
+  "cuánto pago si pago ahora",
+  "pronto pago comparendo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 articulos_relacionados: ["documentos-requeridos", "sanciones-centros-ensenanza-automotriz", "reduccion-de-multa", "infracciones-8-smldv", "infracciones-30-smldv", "subsanar-infracciones"]
 aplica_a: ["conductor", "motociclista", "conductor de servicio público", "instructor de conducción"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 19 al 26", "Decreto-Ley 19 de 2012 (licencia no caduca)", "Resolución 3777 de 2014 - Categorías y requisitos", "Resolución 39420 de 2020 - Revalidación"]

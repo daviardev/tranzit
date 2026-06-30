@@ -3,7 +3,15 @@ id: "separador"
 tipo: "definicion"
 titulo: "Separador"
 texto_simple: "Espacio estrecho y saliente que independiza dos calzadas de una vía."
-keywords: ["separador","espacio","estrecho","saliente","independiza"]
+keywords: [
+  "separador",
+  "espacio",
+  "estrecho",
+  "saliente",
+  "independiza",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

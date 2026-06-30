@@ -3,7 +3,17 @@ id: "equipo-de-prevencion-y-seguridad"
 tipo: "definicion"
 titulo: "Equipo de prevención y seguridad"
 texto_simple: "Conjunto de elementos necesarios para la atención inicial de emergencia que debe poseer un vehículo."
-keywords: ["equipo","prevencion","seguridad","conjunto","elementos","necesarios","atencion"]
+keywords: [
+  "equipo",
+  "prevencion",
+  "seguridad",
+  "conjunto",
+  "elementos",
+  "necesarios",
+  "atencion",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

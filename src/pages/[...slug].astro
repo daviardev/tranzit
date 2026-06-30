@@ -151,7 +151,7 @@ if (articulos_relacionados && articulos_relacionados.length > 0) {
                 {fuente_oficial.referencia && (
                     <p>Referencia: {fuente_oficial.referencia}</p>
                 )}
-                {fuente_oficial.url && (
+                {fuente_oficial.url?.startsWith("http") && (
                     <p>
                         <a
                             href={fuente_oficial.url}

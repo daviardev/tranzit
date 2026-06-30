@@ -9,7 +9,15 @@ subcategoria: "autoridades"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["autoridad de tránsito", "seguridad vial", "prevención", "asistencia técnica", "agente de tránsito", "función regulatoria", "función sancionatoria", "Ley 2197 de 2022", "Seguridad Ciudadana", "cuáles son las funciones de la policía de tránsito", "qué puede hacer un agente de tránsito", "los agentes de tránsito deben prevenir no solo sancionar", "me pararon en un retén y quiero saber si el agente está actuando correctamente"]
+keywords: [
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 articulos_relacionados: ["comportamiento-general", "trato-digno-reten", "debido-proceso-comparendo", "codigo-policia-abuso", "codigo-general-disciplinario"]
 aplica_a: ["autoridad de tránsito", "agente de tránsito", "conductor", "peatón", "usuario vial"]
 referencias_legales: ["Ley 769 de 2002 - Art. 7", "Ley 2197 de 2022 - Art. 58"]

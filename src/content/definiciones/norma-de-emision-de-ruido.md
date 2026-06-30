@@ -3,7 +3,14 @@ id: "norma-de-emision-de-ruido"
 tipo: "definicion"
 titulo: "Norma de emisión de ruido"
 texto_simple: "Valor máximo permisible de intensidad sonora que puede emitir un vehículo automotor. Es establecido por las autoridades ambientales."
-keywords: ["norma","emision","ruido","valor","maximo","permisible","intensidad"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

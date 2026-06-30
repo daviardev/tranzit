@@ -11,7 +11,40 @@ codigo_infraccion: "B"
 sancion:
   valor_smdlv: 8
   inmovilizacion: true
-keywords: ["ubicación placas", "placas delanteras", "placas traseras", "placa moto", "placa motocicleta", "obstáculos placa", "placa robada", "placa perdida", "duplicado de placa", "placa obstruida", "dónde van las placas del carro", "me robaron la placa", "perdí la placa", "se cayó la placa", "cómo sacar duplicado de placa", "placas tapadas", "portaplacas", "marco de placa", "me pararon porque la placa trasera no se veía", "perdí la placa delantera en un hueco", "me robaron la placa del carro estacionado", "dónde va la placa en una moto", "el porta placas que compré cubre las letras", "un verdecito me dijo que la placa estaba obstruida"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "placa",
+  "matrícula",
+  "número de placa",
+  "placa del carro",
+  "placa de la moto",
+  "placa única nacional",
+  "sin placa",
+  "placa provisional",
+  "cambio de placa",
+  "placa para moto",
+  "dónde va la placa",
+  "ubicación de la placa",
+  "placa delantera",
+  "placa trasera",
+  "placa mal ubicada",
+  "multa por ubicación de placa",
+]
 articulos_relacionados: ["infracciones-8-smldv"]
 aplica_a: ["conductor", "propietario"]
 referencias_legales: ["Ley 769 de 2002 - Art. 45", "Decreto-Ley 19 de 2012 - Art. 200"]

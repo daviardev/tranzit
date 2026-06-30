@@ -9,7 +9,37 @@ subcategoria: "procedimientos"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["jurisdicción tránsito", "competencia tránsito", "inspección de tránsito", "única instancia", "primera instancia", "segunda instancia", "superior jerárquico", "multas 20 smldv", "suspensión licencia", "cancelación licencia", "daños y perjuicios", "juez civil", "mayor cuantía", "menor cuantía", "dónde se pagan las multas de tránsito", "quién juzga las infracciones de tránsito", "ante quién apelo una multa de tránsito", "primera instancia tránsito", "segunda instancia tránsito", "inspección de tránsito competente", "multa mayor a 20 smldv", "apelar comparendo", "instancias de un comparendo", "daños de accidente quién los define", "juez civil accidente tránsito"]
+keywords: [
+  "apelar",
+  "rechazar",
+  "pelear la multa",
+  "no estoy de acuerdo",
+  "quiero pelear",
+  "defenderme",
+  "descargos",
+  "audiencia pública",
+  "recurso de reposición",
+  "me quiero defender",
+  "choque",
+  "accidente",
+  "chocaron",
+  "me chocaron",
+  "estrellaron",
+  "tuve un accidente",
+  "me accidenté",
+  "atropellé",
+  "choqué",
+  "fotomulta",
+  "foto comparendo",
+  "cámara de semáforo",
+  "cámara de velocidad",
+  "multa electrónica",
+  "comparendo electrónico",
+  "me llegó una fotomulta",
+  "me notificaron por correo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 articulos_relacionados: ["comparendos-y-fotomultas", "procedimiento-para-comparendo"]
 aplica_a: ["conductor", "infractor", "autoridad de tránsito", "juez civil"]
 referencias_legales: ["Ley 769 de 2002 - Art. 134"]

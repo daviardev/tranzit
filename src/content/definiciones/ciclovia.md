@@ -3,7 +3,35 @@ id: "ciclovia"
 tipo: "definicion"
 titulo: "Ciclovía"
 texto_simple: "Vía o sección de calzada destinada ocasionalmente para el tránsito de bicicletas, triciclos y peatones."
-keywords: ["ciclovia","seccion","calzada","destinada","ocasionalmente"]
+keywords: [
+  "bicicleta",
+  "bici",
+  "ciclista",
+  "en bici",
+  "sin luces bicicleta",
+  "casco bicicleta",
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "ciclovía",
+  "dominical",
+  "vía para bicicletas",
+  "día sin carro",
+  "ciclovía dominical Bogotá",
+  "ciclorruta",
+  "día sin carro y sin moto",
+  "bicicleta en ciclovía",
+  "vía",
+  "calle",
+  "carrera",
+  "avenida",
+  "carretera",
+  "partes de la vía",
+]
 ---
 
 ## Definición legal (Art. 2)

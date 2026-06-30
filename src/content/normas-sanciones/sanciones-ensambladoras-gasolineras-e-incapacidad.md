@@ -9,7 +9,33 @@ subcategoria: "sanciones"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["ensambladora", "fabricante de vehículos", "carrocerías", "remolques", "semirremolques", "mecanismo de identificación", "1000 smldv", "cancelación de registro", "gasolinera", "expendio de combustible", "servicio público", "motor encendido", "pasajeros a bordo", "100 smldv", "incapacidad", "deficiencia orgánica", "deficiencia funcional", "artículo 24", "accidente por incapacidad", "suspensión licencia 5 años", "la ensambladora vendió el carro sin número de identificación", "multa a gasolinera por echar gasolina con pasajeros", "la bomba de gasolina le echó combustible al bus con gente adentro", "estación de servicio multa conductores pasajeros", "conductor con discapacidad no declarada causó accidente"]
+keywords: [
+  "pase",
+  "carnet",
+  "carné",
+  "sin licencia",
+  "no tengo pase",
+  "no tengo licencia",
+  "me quitaron la licencia",
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "conductor",
+  "manejar",
+  "conducir",
+  "chofer",
+  "al volante",
+  "quién es el conductor",
+  "conductor responsable",
+  "conductor del vehículo",
+  "conductor ebrio",
+  "conductor sin licencia",
+  "conductor particular",
+  "conductor profesional",
+]
 articulos_relacionados: ["transporte-publico-pasajeros", "conduccion-general", "tipos-de-sanciones"]
 aplica_a: ["ensambladora", "fabricante de vehículos", "propietario de gasolinera", "conductor", "autoridad de tránsito"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 155, 156, 157", "Ley 769 de 2002 - Art. 24 (obligación del conductor sobre capacidad física)"]

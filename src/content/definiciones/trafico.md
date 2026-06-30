@@ -3,7 +3,15 @@ id: "trafico"
 tipo: "definicion"
 titulo: "Tráfico"
 texto_simple: "Volumen de vehículos, peatones, o productos que pasan por un punto específico durante un periodo determinado."
-keywords: ["trafico","volumen","vehiculos","peatones","productos"]
+keywords: [
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

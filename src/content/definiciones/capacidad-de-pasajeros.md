@@ -3,7 +3,16 @@ id: "capacidad-de-pasajeros"
 tipo: "definicion"
 titulo: "Capacidad de pasajeros"
 texto_simple: "Es el número de personas autorizado para ser transportados en un vehículo."
-keywords: ["capacidad","pasajeros","numero","personas","autorizado","transportados"]
+keywords: [
+  "capacidad",
+  "pasajeros",
+  "numero",
+  "personas",
+  "autorizado",
+  "transportados",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

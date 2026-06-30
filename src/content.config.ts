@@ -54,7 +54,10 @@ const schema = z.object({
   fuente_oficial: z.object({
     tipo: z.string(),
     referencia: z.string(),
-    url: z.string(),
+    url: z.string().url().refine(
+      (u) => u.startsWith("http://") || u.startsWith("https://"),
+      "Solo URLs HTTP/HTTPS permitidas"
+    ),
   }),
 });
 
@@ -84,7 +87,10 @@ const defSchema = z.object({
     .object({
       tipo: z.string(),
       referencia: z.string(),
-      url: z.string(),
+      url: z.string().url().refine(
+        (u) => u.startsWith("http://") || u.startsWith("https://"),
+        "Solo URLs HTTP/HTTPS permitidas"
+      ),
     })
     .optional(),
 });

@@ -3,7 +3,14 @@ id: "vehiculo-escolar"
 tipo: "definicion"
 titulo: "Vehículo escolar"
 texto_simple: "Vehículo automotor destinado al transporte de estudiantes, debidamente registrado como tal y con las normas y características especiales que le exigen las normas de transporte público."
-keywords: ["vehiculo","escolar","automotor","destinado","transporte"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

@@ -3,7 +3,14 @@ id: "aprendiz"
 tipo: "definicion"
 titulo: "Aprendiz"
 texto_simple: "Persona que recibe de un instructor, técnicas de conducción de vehículos automotores y motocicletas."
-keywords: ["aprendiz","persona","recibe","instructor","tecnicas"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

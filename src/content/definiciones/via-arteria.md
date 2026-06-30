@@ -3,7 +3,22 @@ id: "via-arteria"
 tipo: "definicion"
 titulo: "Vía arteria"
 texto_simple: "Vía de un sistema vial urbano con prelación de circulación de tránsito sobre las demás vías, con excepción de la vía férrea y la autopista."
-keywords: ["via","arteria","sistema","urbano","prelacion","circulacion"]
+keywords: [
+  "via",
+  "arteria",
+  "sistema",
+  "urbano",
+  "prelacion",
+  "circulacion",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "vía",
+  "calle",
+  "carrera",
+  "avenida",
+  "carretera",
+  "partes de la vía",
+]
 ---
 
 ## Definición legal (Art. 2)

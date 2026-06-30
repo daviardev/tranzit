@@ -3,7 +3,17 @@ id: "modelo-del-vehiculo"
 tipo: "definicion"
 titulo: "Modelo del vehículo"
 texto_simple: "Referencia o código que asigna la fábrica o ensambladora a una determinada serie de vehículos."
-keywords: ["modelo","del","vehiculo","referencia","codigo","asigna","fabrica"]
+keywords: [
+  "modelo",
+  "del",
+  "vehiculo",
+  "referencia",
+  "codigo",
+  "asigna",
+  "fabrica",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

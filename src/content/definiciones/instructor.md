@@ -3,7 +3,15 @@ id: "instructor"
 tipo: "definicion"
 titulo: "Instructor"
 texto_simple: "Persona que imparte enseñanza teórica o práctica para la conducción de vehículos."
-keywords: ["instructor","persona","imparte","ensenanza","teorica"]
+keywords: [
+  "instructor",
+  "persona",
+  "imparte",
+  "ensenanza",
+  "teorica",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

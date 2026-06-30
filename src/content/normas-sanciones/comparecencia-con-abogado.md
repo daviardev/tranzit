@@ -9,7 +9,46 @@ subcategoria: "procedimientos"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["comparecencia", "apoderado", "abogado de tránsito", "representación legal", "Ministerio Público", "menor de edad", "representante legal", "defensor de familia", "notificación en estrados", "providencias", "proceso contravencional", "audiencia tránsito", "defensa técnica", "necesito un abogado para un comparendo", "puedo ir solo a la audiencia de tránsito", "me multaron y soy menor de edad", "mi hijo recibió un comparendo", "notificación en estrados qué significa", "el fiscal puede intervenir en mi caso de tránsito", "comparendo a nombre de un menor", "quiero que un abogado me represente", "cómo me notifican de la audiencia", "recibí un comparendo y quiero contratar un abogado", "soy menor de edad y me multaron", "mi hijo de 16 años recibió un comparendo manejando mi carro"]
+keywords: [
+  "fotomulta",
+  "foto comparendo",
+  "cámara de semáforo",
+  "cámara de velocidad",
+  "multa electrónica",
+  "comparendo electrónico",
+  "me llegó una fotomulta",
+  "me notificaron por correo",
+  "prescripción",
+  "se venció la multa",
+  "ya pasó mucho tiempo",
+  "caducó la multa",
+  "ya no tengo que pagar",
+  "descuento por pronto pago",
+  "pagar menos",
+  "descuento del 50%",
+  "descuento del 75%",
+  "cuánto pago si pago ahora",
+  "pronto pago comparendo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "abogado",
+  "defensa legal",
+  "representación legal",
+  "necesito un abogado",
+  "abogado de tránsito",
+  "consultar abogado",
+  "abogado para comparendo",
+  "defensa en multa de tránsito",
+  "abogado especialista en tránsito",
+  "tutela",
+  "acción de tutela",
+  "derecho de petición",
+  "recurso legal",
+  "apelar con abogado",
+  "cárcel por accidente",
+  "abogado para accidente de tránsito",
+  "defensa penal tránsito",
+]
 articulos_relacionados: ["reduccion-de-multa", "comparendos-y-fotomultas", "procedimiento-para-comparendo"]
 aplica_a: ["conductor infractor", "menor de edad", "representante legal", "abogado", "Ministerio Público", "defensor de familia"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 138, 139"]

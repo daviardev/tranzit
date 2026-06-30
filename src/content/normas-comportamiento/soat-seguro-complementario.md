@@ -9,7 +9,44 @@ subcategoria: "seguros"
 severidad: null
 codigo_infraccion: null
 sancion: null
-keywords: ["SOAT complementario", "seguro complementario", "daños a terceros", "seguro voluntario", "cobertura choque", "responsabilidad civil", "seguro extra para el carro", "el SOAT no cubre daños", "seguro contra daños a terceros", "qué cubre el SOAT complementario", "seguro voluntario de daños", "choqué un carro y el SOAT no me cubre los daños", "necesito un seguro que cubra daños a terceros", "me ofrecieron un seguro complementario al SOAT", "el SOAT no cubre daños materiales del otro carro", "qué diferencia hay entre SOAT y seguro complementario"]
+keywords: [
+  "seguro",
+  "sin soat",
+  "no tengo soat",
+  "soat vencido",
+  "soat vigente",
+  "choque",
+  "accidente",
+  "chocaron",
+  "me chocaron",
+  "estrellaron",
+  "tuve un accidente",
+  "me accidenté",
+  "atropellé",
+  "choqué",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "seguro complementario",
+  "soat complementario",
+  "seguro voluntario",
+  "protección adicional",
+  "siniestro",
+  "indemnización",
+  "seguro todo riesgo",
+  "seguro para daños a terceros",
+  "seguro extra",
+  "seguro más completo",
+  "cuánto cubre el soat complementario",
+  "soat complementario qué cubre",
+  "cobertura adicional soat",
+  "seguro para choque",
+  "daños materiales",
+  "daños a terceros",
+  "seguro de daños",
+  "protección vehicular",
+  "mejor seguro para carro",
+  "seguro recomendado",
+]
 articulos_relacionados: ["soat-seguro-obligatorio", "infracciones-30-smldv"]
 aplica_a: ["conductor", "propietario", "tomador del SOAT"]
 referencias_legales: ["Ley 769 de 2002 - Art. 42-A", "Decreto-Ley 2161 de 2021 - Art. 4"]

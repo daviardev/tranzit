@@ -9,7 +9,47 @@ subcategoria: "educacion"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["educación vial", "educación en seguridad vial", "colegio", "escuela", "enseñanza vial", "preescolar", "primaria", "secundaria", "Ley 1503 de 2011", "Ley 2222 de 2022", "Bici Segura", "bicicleta", "ciclista", "movilidad sostenible", "jovenes educación vial", "enseñanza de tránsito en colegios", "educación vial escolar", "en el colegio me deberían enseñar normas de tránsito", "clases de seguridad vial", "en el colegio de mi hijo no enseñan normas de tránsito", "es obligatorio que enseñen educación vial en los colegios", "a qué edad deben empezar a enseñar educación vial"]
+keywords: [
+  "bicicleta",
+  "bici",
+  "ciclista",
+  "en bici",
+  "sin luces bicicleta",
+  "casco bicicleta",
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "curso de tránsito",
+  "educación vial",
+  "aprender a manejar",
+  "examen de tránsito",
+  "licencia por primera vez",
+  "curso de conducción",
+  "escuela de conducción",
+  "examen práctico de conducción",
+  "examen teórico de conducción",
+  "cómo sacar la licencia por primera vez",
+  "requisitos para licencia de conducción",
+  "clases de manejo",
+  "profesor de manejo",
+  "autoescuela",
+  "academia de conducción",
+  "simulacro de examen de tránsito",
+  "preguntas del examen de tránsito",
+  "examen de tránsito Colombia",
+  "pista de aprendizaje",
+  "pista de conducción",
+  "vía",
+  "calle",
+  "carrera",
+  "avenida",
+  "carretera",
+  "partes de la vía",
+]
 articulos_relacionados: ["comportamiento-general", "senales-de-transito", "normas-bicicletas-triciclos", "normas-para-peatones", "ansv"]
 aplica_a: ["institución educativa", "estudiante", "padre de familia"]
 referencias_legales: ["Ley 769 de 2002 - Art. 56", "Ley 1503 de 2011 - Art. 9", "Ley 2222 de 2022 - Art. 6"]

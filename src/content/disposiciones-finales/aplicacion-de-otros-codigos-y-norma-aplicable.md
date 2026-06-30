@@ -9,7 +9,45 @@ subcategoria: "disposiciones-finales"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["compatibilidad", "analogía", "Código Contencioso Administrativo", "Código Penal", "Código de Procedimiento Penal", "Código de Procedimiento Civil", "norma aplicable", "actuaciones en curso", "irretroactividad", "derecho transitorio", "facilidades", "cumplimiento remoto", "obligaciones desde cualquier lugar", "supletoria", "qué código aplica si la ley de tránsito no dice nada", "normas supletorias tránsito", "comparendo normas penales", "código contencioso administrativo tránsito", "actuación iniciada norma anterior", "puedo pagar una multa desde otro municipio", "pagar comparendo desde cualquier lugar", "irretroactividad comparendo", "la ley de tránsito no regula mi caso, qué aplica", "iniciaron un proceso con la ley anterior", "quiero pagar una multa desde otro departamento"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "apelar",
+  "rechazar",
+  "pelear la multa",
+  "no estoy de acuerdo",
+  "quiero pelear",
+  "defenderme",
+  "descargos",
+  "audiencia pública",
+  "recurso de reposición",
+  "me quiero defender",
+  "fotomulta",
+  "foto comparendo",
+  "cámara de semáforo",
+  "cámara de velocidad",
+  "multa electrónica",
+  "comparendo electrónico",
+  "me llegó una fotomulta",
+  "me notificaron por correo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "qué código aplica",
+  "norma aplicable",
+  "leyes de tránsito aplicables",
+  "códigos relacionados",
+  "código penal en accidentes",
+  "código disciplinario",
+  "código de comercio transporte",
+  "leyes complementarias",
+  "normas supletorias",
+  "normas aplicables al tránsito",
+  "qué leyes rigen el tránsito en Colombia",
+  "leyes de tránsito complementarias",
+  "códigos que aplican al conductor",
+]
 articulos_relacionados: ["ejecucion-de-sanciones-y-prescripcion"]
 aplica_a: ["cualquier persona", "autoridad de tránsito", "juez"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 162, 163, 164"]

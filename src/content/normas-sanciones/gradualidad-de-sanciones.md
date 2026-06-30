@@ -9,7 +9,39 @@ subcategoria: "sanciones"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["gradualidad", "gravedad de la infracción", "peligro peatones", "peligro automovilistas", "fuga", "duplicar multa", "huir de accidente", "abandonar el lugar", "sanción agravada", "me duplicaron la multa por fuga", "me fui del lugar del accidente", "hice el comparendo más grave", "por qué me duplicaron la multa", "qué pasa si huyo de un accidente", "sanción más grave por fuga", "tuve un accidente leve y me fui porque no pasó nada", "me chocaron y el otro conductor huyó", "me pararon y me duplicaron la multa porque dijeron que intenté huir", "choqué un poste y me fui del sitio"]
+keywords: [
+  "semáforo",
+  "señal de pare",
+  "pare",
+  "ceda el paso",
+  "me pasé el semáforo",
+  "me pasé el rojo",
+  "luz roja",
+  "luz amarilla",
+  "señales de tránsito",
+  "fotomulta",
+  "foto comparendo",
+  "cámara de semáforo",
+  "cámara de velocidad",
+  "multa electrónica",
+  "comparendo electrónico",
+  "me llegó una fotomulta",
+  "me notificaron por correo",
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "gradualidad",
+  "progresión de sanciones",
+  "primera infracción",
+  "primera vez",
+  "reincidencia sanción más alta",
+  "aumento progresivo de multas",
+  "escala de sanciones",
+]
 articulos_relacionados: ["tipos-de-sanciones", "amonestacion-y-reincidencia", "procedimiento-para-comparendo", "comparendos-y-fotomultas"]
 aplica_a: ["conductor", "infractor"]
 referencias_legales: ["Ley 769 de 2002 - Art. 130"]

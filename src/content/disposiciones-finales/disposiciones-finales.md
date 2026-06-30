@@ -9,7 +9,43 @@ subcategoria: "disposiciones-finales"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["presupuesto", "difusión del código", "medidas presupuestales", "Gobierno Nacional", "autoridades locales", "vidrios oscuros", "películas solares", "polarizados", "Ministerio de Transporte", "vehículos inmovilizados por orden judicial", "Rama Judicial", "artículo 167 derogado", "tarifas de tránsito", "Concejos municipales", "estudio económico", "indicadores de eficiencia", "sobretasa trámites de tránsito", "artículo 338 Constitución", "vigencia", "promulgación", "Derogatoria", "Decreto 1344 de 1970", "normas de medio ambiente", "amnistía", "infractores de tránsito"]
+keywords: [
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "tecnomecánica",
+  "revisión técnico mecánica",
+  "RTM",
+  "venció la tecnomecánica",
+  "no tengo revisión",
+  "CDA",
+  "revisión del carro",
+  "me pararon y la tecnomecánica estaba vencida",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "vigencia de la ley",
+  "derogatorias",
+  "presupuesto",
+  "videovigilancia",
+  "validez de la ley 769",
+  "derogación de la ley 769",
+  "qué artículos están vigentes",
+  "artículos derogados",
+  "ley 769 vigencia",
+  "modificaciones a la ley 769",
+  "cambios al código de tránsito",
+  "actualización del código de tránsito",
+  "nueva ley de tránsito",
+  "reforma al código de tránsito",
+  "versión actualizada del código de tránsito",
+]
 articulos_relacionados: ["aplicacion-de-otros-codigos-y-norma-aplicable"]
 aplica_a: ["cualquier persona", "autoridad de tránsito", "Concejos municipales", "Ministerio de Transporte", "Rama Judicial"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 165, 166, 167, 168, 169, 170", "Art. 167 derogado por Ley 1955 de 2019, art. 336", "Artículo Transitorio adicionado por Ley 1383 de 2010, art. 27", "Constitución Política, art. 338", "Decreto 1344 de 1970 (derogado)"]

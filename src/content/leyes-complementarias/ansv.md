@@ -9,7 +9,48 @@ subcategoria: "seguridad-vial"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["ANSV", "Agencia Nacional de Seguridad Vial", "Ley 1702 de 2013", "seguridad vial", "Observatorio Nacional de Seguridad Vial", "prevención accidentes", "políticas de seguridad vial", "investigación accidentes", "campañas de seguridad", "RUNT", "licencias", "educación vial", "quién investiga los accidentes de tránsito", "campañas de seguridad vial Colombia", "observatorio accidentes colombia"]
+keywords: [
+  "pase",
+  "carnet",
+  "carné",
+  "sin licencia",
+  "no tengo pase",
+  "no tengo licencia",
+  "me quitaron la licencia",
+  "choque",
+  "accidente",
+  "chocaron",
+  "me chocaron",
+  "estrellaron",
+  "tuve un accidente",
+  "me accidenté",
+  "atropellé",
+  "choqué",
+  "descuento por pronto pago",
+  "pagar menos",
+  "descuento del 50%",
+  "descuento del 75%",
+  "cuánto pago si pago ahora",
+  "pronto pago comparendo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "seguridad vial",
+  "agencia de seguridad vial",
+  "estadísticas de tránsito",
+  "planes de seguridad vial",
+  "ansv Colombia",
+  "agencia nacional de seguridad vial",
+  "observatorio de seguridad vial",
+  "campañas de seguridad vial",
+  "prevención de accidentes",
+  "educación vial ansv",
+  "vía",
+  "calle",
+  "carrera",
+  "avenida",
+  "carretera",
+  "partes de la vía",
+]
 articulos_relacionados: ["educacion-vial", "procedimiento-accidentes-danos-materiales", "informe-policial-de-accidente", "concepto-tecnico-de-accidente"]
 aplica_a: ["cualquier persona", "autoridad de tránsito", "conductor"]
 referencias_legales: ["Ley 1702 de 2013 - ANSV"]

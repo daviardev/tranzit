@@ -9,7 +9,40 @@ subcategoria: "movilidad-sostenible"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["ProBici", "Ley 1811 de 2016", "bicicleta", "ciclista", "1.50 metros", "distancia adelantamiento", "estacionamiento bicicletas", "transporte público bicicleta", "ciclovía", "domingo en bici", "incentivos bici", "bicicleteros", "parqueadero de bicicletas", "ciclista derechos", "cómo llevar la bici en TransMilenio", "adelantar ciclista distancia"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "bicicleta",
+  "bici",
+  "ciclista",
+  "en bici",
+  "sin luces bicicleta",
+  "casco bicicleta",
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "beneficios para bicicletas",
+  "ley probici",
+  "1811 de 2016",
+  "andar en bici",
+  "movilidad sostenible",
+  "ley de bicicleta",
+  "incentivos para ciclistas",
+  "beneficios para usar bicicleta",
+  "probici ley",
+  "días sin carro y sin moto",
+  "ciclovía dominical",
+  "exención pico y placa bicicleta",
+  "bicicleta urbana",
+  "bicicleta de montaña",
+  "bicicleta de carretera",
+]
 articulos_relacionados: ["normas-bicicletas-triciclos", "carriles-adelantamiento-prelacion"]
 aplica_a: ["ciclista", "conductor", "entidad pública", "empresa"]
 referencias_legales: ["Ley 1811 de 2016 - ProBici"]

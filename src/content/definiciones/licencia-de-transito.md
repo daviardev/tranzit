@@ -3,7 +3,19 @@ id: "licencia-de-transito"
 tipo: "definicion"
 titulo: "Licencia de tránsito"
 texto_simple: "Es el documento público que identifica un vehículo automotor, acredita su propiedad e identifica a su propietario y autoriza a dicho vehículo para circular por las vías públicas y por las privadas abiertas al público."
-keywords: ["licencia","transito","documento","publico","identifica","vehiculo"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "licencia de tránsito",
+  "tarjeta de propiedad",
+  "documento del vehículo",
+  "papeles del carro",
+  "certificado de tradición",
+]
 ---
 
 ## Definición legal (Art. 2)

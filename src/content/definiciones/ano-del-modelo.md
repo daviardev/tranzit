@@ -3,7 +3,16 @@ id: "ano-del-modelo"
 tipo: "definicion"
 titulo: "Año del modelo"
 texto_simple: "Año que asigna el fabricante o ensamblador al modelo del vehículo, de acuerdo con la declaración de despacho para consumo."
-keywords: ["ano","del","modelo","asigna","fabricante","ensamblador"]
+keywords: [
+  "ano",
+  "del",
+  "modelo",
+  "asigna",
+  "fabricante",
+  "ensamblador",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

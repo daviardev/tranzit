@@ -9,7 +9,32 @@ subcategoria: "sanciones"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["centro de enseñanza automovilística", "escuela de conducción", "autoescuela", "instructor de conducción", "multa centro enseñanza", "suspensión habilitación", "cancelación habilitación", "suspensión licencia instructor", "cancelación licencia instructor", "1 smldv", "300 smldv", "50 smldv", "6 meses suspensión", "2 meses suspensión instructor", "tercera vez cancelación", "cesación de actividades", "Ley 1397 de 2010", "procedimiento sancionatorio", "investigación acto administrativo", "10 días descargos", "15 días pruebas", "6 meses decisión", "Ministerio de Transporte", "escuela de conducción multa", "autoescuela sancionada"]
+keywords: [
+  "pase",
+  "carnet",
+  "carné",
+  "sin licencia",
+  "no tengo pase",
+  "no tengo licencia",
+  "me quitaron la licencia",
+  "fotomulta",
+  "foto comparendo",
+  "cámara de semáforo",
+  "cámara de velocidad",
+  "multa electrónica",
+  "comparendo electrónico",
+  "me llegó una fotomulta",
+  "me notificaron por correo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "escuela de conducción",
+  "autoescuela",
+  "sanción a escuela de manejo",
+  "instructor de manejo",
+  "curso de conducción",
+  "clases de manejo",
+  "multa a escuela de conducción",
+]
 articulos_relacionados: ["comparendos-y-fotomultas", "amonestacion-y-reincidencia", "cursos-y-sanciones-por-fraude"]
 aplica_a: ["centro de enseñanza automovilística", "instructor de conducción", "autoridad de vigilancia (Ministerio de Transporte)"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 154, 158 (Art. 154 modificado por Ley 1397 de 2010, art. 4)"]

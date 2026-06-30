@@ -9,7 +9,48 @@ subcategoria: "procedimientos"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["curso de normas de tránsito", "curso virtual tránsito", "curso presencial tránsito", "curso fraudulento", "fraude curso tránsito", "suplantación curso", "multa 100 smldv", "suspensión licencia 3 años", "SICOV", "Superintendencia de Transporte", "autenticación biométrica", "RUNT", "pérdida del descuento", "Fiscalía", "centro integral de atención", "centro de enseñanza automovilística", "capacidad física instalada", "Ley 2050 de 2020", "Ley 2251 de 2022", "curso de tránsito online", "curso para descuento de multa", "dónde hacer el curso de tránsito", "cuánto cuesta el curso de tránsito", "me ofrecieron un curso fácil de tránsito", "curso fraudulento tránsito"]
+keywords: [
+  "pase",
+  "carnet",
+  "carné",
+  "sin licencia",
+  "no tengo pase",
+  "no tengo licencia",
+  "me quitaron la licencia",
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "exceso de velocidad",
+  "iba rápido",
+  "me multaron por velocidad",
+  "radar",
+  "fotomulta velocidad",
+  "me tomaron la velocidad",
+  "límite de velocidad",
+  "fotomulta",
+  "foto comparendo",
+  "cámara de semáforo",
+  "cámara de velocidad",
+  "multa electrónica",
+  "comparendo electrónico",
+  "me llegó una fotomulta",
+  "me notificaron por correo",
+  "bicicleta",
+  "bici",
+  "ciclista",
+  "en bici",
+  "sin luces bicicleta",
+  "casco bicicleta",
+  "descuento por pronto pago",
+  "pagar menos",
+  "descuento del 50%",
+  "descuento del 75%",
+  "cuánto pago si pago ahora",
+  "pronto pago comparendo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 articulos_relacionados: ["reduccion-de-multa", "comparendos-y-fotomultas"]
 aplica_a: ["conductor", "infractor", "organismo de tránsito", "centro integral de atención", "centro de enseñanza automovilística"]
 referencias_legales: ["Ley 769 de 2002 - Art. 136-A (adicionado por Ley 2251 de 2022, art. 8)", "Ley 2050 de 2020 - Par. 3 del Art. 136 (cursos virtuales)"]

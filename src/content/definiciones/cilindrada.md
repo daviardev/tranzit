@@ -3,7 +3,14 @@ id: "cilindrada"
 tipo: "definicion"
 titulo: "Cilindrada"
 texto_simple: "Capacidad volumétrica total de los cilindros de un motor."
-keywords: ["cilindrada","capacidad","volumetrica","total","cilindros"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

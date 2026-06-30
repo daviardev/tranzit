@@ -11,7 +11,47 @@ codigo_infraccion: null
 sancion:
   valor_smdlv: 1
   inmovilizacion: false
-keywords: ["peatón", "peatones", "prohibiciones peatones", "multa peatón", "cruzar por sitio no permitido", "puente peatonal", "paso peatonal", "remolcarse de vehículos", "zona de seguridad ferroviaria", "peatón ebrio", "niño cruzando la calle", "anciano cruzando", "invidente", "sordomudo", "Ley 1811 de 2016", "me multaron por cruzar por donde no debía", "multa por cruzar la calle", "me pueden multar como peatón", "me pueden multar por ir borracho en la calle", "por qué multan a los peatones", "un carro casi me atropella pero yo iba bien", "dónde debo cruzar la calle", "multa por bajar del bus en movimiento", "multa por remolcarse de un carro", "mi hijo puede cruzar la calle solo"]
+keywords: [
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "apelar",
+  "rechazar",
+  "pelear la multa",
+  "no estoy de acuerdo",
+  "quiero pelear",
+  "defenderme",
+  "descargos",
+  "audiencia pública",
+  "recurso de reposición",
+  "me quiero defender",
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "caminar",
+  "a pie",
+  "cruzar la calle",
+  "derechos del peatón",
+  "deberes del peatón",
+  "peatón en la vía",
+  "cruzar por la esquina",
+  "cruzar por el paso peatonal",
+  "peatón imprudente",
+  "atropellamiento de peatón",
+  "multa al peatón",
+  "comparendo para peatones",
+]
 articulos_relacionados: ["sanciones-peatones-y-ciclistas"]
 aplica_a: ["peatón"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 57, 58, 59", "Ley 1811 de 2016 - Art. 8"]

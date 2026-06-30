@@ -3,7 +3,30 @@ id: "semaforo"
 tipo: "definicion"
 titulo: "Semáforo"
 texto_simple: "Dispositivo electromagnético o electrónico para regular el tránsito de vehículos, peatones mediante el uso de señales luminosas."
-keywords: ["semaforo","dispositivo","electromagnetico","electronico","regular"]
+keywords: [
+  "semáforo",
+  "señal de pare",
+  "pare",
+  "ceda el paso",
+  "me pasé el semáforo",
+  "me pasé el rojo",
+  "luz roja",
+  "luz amarilla",
+  "señales de tránsito",
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "luz verde",
+  "semáforo peatonal",
+  "semáforo vehicular",
+  "semáforo en rojo qué significa",
+  "semáforo intermitente",
+  "semáforo dañado",
+]
 ---
 
 ## Definición legal (Art. 2)

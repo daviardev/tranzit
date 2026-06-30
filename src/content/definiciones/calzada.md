@@ -3,7 +3,16 @@ id: "calzada"
 tipo: "definicion"
 titulo: "Calzada"
 texto_simple: "Zona de la vía destinada a la circulación de vehículos."
-keywords: ["calzada","destinada","circulacion","vehiculos."]
+keywords: [
+  "calzada",
+  "destinada",
+  "circulacion",
+  "vehiculos.",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "parte de la vía",
+  "superficie de rodadura",
+]
 ---
 
 ## Definición legal (Art. 2)

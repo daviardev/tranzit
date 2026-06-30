@@ -3,7 +3,23 @@ id: "pequenos-remolques"
 tipo: "definicion"
 titulo: "Pequeños remolques"
 texto_simple: "Vehículo no motorizado con capacidad hasta de una tonelada, halado por un automotor y dotado de su sistema de luces reflectivas y frenos."
-keywords: ["pequenos","remolques","vehiculo","motorizado","capacidad","tonelada"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "remolque",
+  "remolque pequeño",
+  "trailer",
+  "carro de carga",
+  "remolque para moto",
+  "remolque para carro",
+  "remolcar",
+  "vehículo de remolque",
+  "grúa",
+]
 ---
 
 ## Definición legal (Art. 2)

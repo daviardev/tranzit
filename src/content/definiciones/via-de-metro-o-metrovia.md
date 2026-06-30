@@ -3,7 +3,23 @@ id: "via-de-metro-o-metrovia"
 tipo: "definicion"
 titulo: "Vía de metro o metrovía"
 texto_simple: "Es aquella de exclusiva destinación para las líneas de metro, independientemente de su configuración y que hacen parte integral de su infraestructura de operación."
-keywords: ["via","metro","metrovia","aquella","exclusiva","destinacion","lineas"]
+keywords: [
+  "via",
+  "metro",
+  "metrovia",
+  "aquella",
+  "exclusiva",
+  "destinacion",
+  "lineas",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "vía",
+  "calle",
+  "carrera",
+  "avenida",
+  "carretera",
+  "partes de la vía",
+]
 ---
 
 ## Definición legal (Art. 2)

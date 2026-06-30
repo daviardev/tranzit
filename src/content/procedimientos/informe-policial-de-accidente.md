@@ -9,7 +9,29 @@ subcategoria: "accidentes"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["informe policial", "informe de accidente", "croquis", "accidente de tránsito", "agente de tránsito", "copia del informe", "24 horas", "organismo de tránsito", "centro de conciliación", "testigos", "huella de frenada", "estado de la vía", "daños", "lesiones", "pólizas", "seguros", "no conciliación", "firma del conductor", "firma del testigo", "descripción del accidente", "informe de accidente de tránsito", "cómo se hace un informe de accidente", "croquis de accidente", "qué datos tiene un informe de tránsito", "el agente levantó el informe"]
+keywords: [
+  "seguro",
+  "sin soat",
+  "no tengo soat",
+  "soat vencido",
+  "soat vigente",
+  "choque",
+  "accidente",
+  "chocaron",
+  "me chocaron",
+  "estrellaron",
+  "tuve un accidente",
+  "me accidenté",
+  "atropellé",
+  "choqué",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "IPAT",
+  "informe policial",
+  "informe de accidente",
+  "denuncia del accidente",
+  "atestado policial",
+]
 articulos_relacionados: ["procedimiento-accidentes-danos-materiales", "concepto-tecnico-de-accidente"]
 aplica_a: ["conductor", "agente de tránsito", "propietario", "aseguradora", "centro de conciliación", "organismo de tránsito"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 144, 145"]

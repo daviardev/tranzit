@@ -9,7 +9,47 @@ subcategoria: "sanciones"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["amonestación", "curso de educación vial", "curso obligatorio de tránsito", "no asistí al curso de tránsito", "multa por no asistir al curso", "5 smldv", "reincidencia", "reincidencia tránsito", "segunda infracción", "suspensión de licencia por reincidencia", "6 meses de suspensión", "doblar sanción", "faltas en 6 meses", "reincidente", "curso de conducción", "me mandaron a un curso de tránsito", "me dieron amonestación qué significa", "no fui al curso de educación vial", "multa por no asistir al curso de tránsito", "cuánto cuesta no ir al curso", "si me vuelven a multar me suspenden la licencia", "me van a suspender la licencia por reincidencia", "cuántas infracciones para considerar reincidencia", "cada cuánto se reinicia el contador de reincidencia", "reincidencia varias multas en poco tiempo"]
+keywords: [
+  "pase",
+  "carnet",
+  "carné",
+  "sin licencia",
+  "no tengo pase",
+  "no tengo licencia",
+  "me quitaron la licencia",
+  "curso vial",
+  "comparendo pedagógico",
+  "primera infracción",
+  "primera vez",
+  "curso de seguridad vial",
+  "me ofrecieron un curso",
+  "pedagógico",
+  "no pagar multa curso",
+  "descuento por pronto pago",
+  "pagar menos",
+  "descuento del 50%",
+  "descuento del 75%",
+  "cuánto pago si pago ahora",
+  "pronto pago comparendo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "reincidencia",
+  "cometí la misma infracción",
+  "segunda multa",
+  "tercera multa",
+  "multa repetida",
+  "reincidente",
+  "sanción por reincidencia",
+  "aumento de sanción por repetir",
+  "reincidencia en infracciones",
+  "comparendo repetido",
+  "vía",
+  "calle",
+  "carrera",
+  "avenida",
+  "carretera",
+  "partes de la vía",
+]
 articulos_relacionados: ["tipos-de-sanciones", "reduccion-de-multa", "cursos-y-sanciones-por-fraude", "procedimiento-para-comparendo"]
 aplica_a: ["conductor", "infractor"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 123, 124"]

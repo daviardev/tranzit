@@ -9,7 +9,28 @@ subcategoria: "accidentes"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["concepto técnico", "causa probable", "informe de accidente", "responsabilidad", "culpabilidad", "comparendo", "violación de norma", "proceso contravencional", "cuantía de daños", "indemnización", "juez civil", "aseguradora", "Ley 2251 de 2022", "culpa en accidente", "quién tuvo la culpa", "responsabilidad civil", "el informe dice que yo tuve la culpa pero no estoy de acuerdo", "el agente dijo que yo fui el responsable", "el concepto técnico del accidente", "causa probable del accidente", "el informe de tránsito me declara culpable", "el seguro no me quiere pagar porque el informe dice que fue mi culpa", "la autoridad de tránsito no puede decir quién tuvo la culpa", "cuantía de los daños quién la determina", "comparendo por accidente"]
+keywords: [
+  "semáforo",
+  "señal de pare",
+  "pare",
+  "ceda el paso",
+  "me pasé el semáforo",
+  "me pasé el rojo",
+  "luz roja",
+  "luz amarilla",
+  "señales de tránsito",
+  "choque",
+  "accidente",
+  "chocaron",
+  "me chocaron",
+  "estrellaron",
+  "tuve un accidente",
+  "me accidenté",
+  "atropellé",
+  "choqué",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 articulos_relacionados: ["informe-policial-de-accidente", "procedimiento-accidentes-danos-materiales"]
 aplica_a: ["conductor", "propietario", "agente de tránsito", "autoridad de tránsito", "juez civil", "aseguradora"]
 referencias_legales: ["Ley 769 de 2002 - Art. 146 (modificado por Ley 2251 de 2022, art. 17)"]

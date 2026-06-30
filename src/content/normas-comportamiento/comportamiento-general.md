@@ -9,7 +9,40 @@ subcategoria: "comportamiento"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["comportamiento en el tránsito", "deberes del conductor", "deberes del peatón", "deberes del pasajero", "obedecer autoridad de tránsito", "señales de tránsito", "normas de tránsito", "cómo debo comportarme en la vía", "obligaciones del conductor", "obligaciones del peatón", "me puede multar por no obedecer", "no me pareció que el agente tuviera razón", "me pararon y no sé por qué", "un agente me dijo que no obedecí una señal", "qué obligaciones tengo como peatón", "qué obligaciones tengo como conductor", "el pasajero también tiene responsabilidades"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "semáforo",
+  "señal de pare",
+  "pare",
+  "ceda el paso",
+  "me pasé el semáforo",
+  "me pasé el rojo",
+  "luz roja",
+  "luz amarilla",
+  "señales de tránsito",
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "conductor",
+  "manejar",
+  "conducir",
+  "chofer",
+  "al volante",
+  "quién es el conductor",
+  "conductor responsable",
+  "conductor del vehículo",
+  "conductor ebrio",
+  "conductor sin licencia",
+  "conductor particular",
+  "conductor profesional",
+]
 articulos_relacionados: ["conduccion-general", "comportamiento-general", "senales-de-transito", "educacion-vial", "cumplimiento-regimen-normativo"]
 aplica_a: ["conductor", "pasajero", "peatón"]
 referencias_legales: ["Ley 769 de 2002 - Art. 55"]

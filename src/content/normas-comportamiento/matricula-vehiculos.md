@@ -9,7 +9,46 @@ subcategoria: "documentacion"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["matrícula vehículo", "registro automotor", "RUNT", "placas", "tarjeta de propiedad", "traspaso vehículo", "compraventa vehículo", "cancelación matrícula", "pérdida total", "hurto vehículo", "chatarrización", "exportación vehículo", "cambio de motor", "cambio de color", "cambio de características", "multa sin placas", "infracción B.3", "cómo matricular un carro nuevo", "traspaso de vehículo plazo", "cómo cambiar de propietario", "no me han dado las placas", "compré un carro y no me han hecho el traspaso", "vendi mi carro y el comprador no lo traspasa", "cómo cancelar la matrícula de un carro", "chatarrización vehículo", "requisitos para matricular"]
+keywords: [
+  "pase",
+  "carnet",
+  "carné",
+  "sin licencia",
+  "no tengo pase",
+  "no tengo licencia",
+  "me quitaron la licencia",
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "vehículo abandonado",
+  "carro abandonado",
+  "moto abandonada",
+  "dejé el carro botado",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "matrícula",
+  "registro",
+  "placa",
+  "cómo matricular un carro",
+  "matrícula de vehículo",
+  "registro automotor",
+  "matrícula inicial",
+  "traslado de matrícula",
+  "cancelación de matrícula",
+  "matrícula de moto",
+  "matrícula de carro nuevo",
+]
 articulos_relacionados: ["documentos-requeridos", "ubicacion-de-placas", "infracciones-8-smldv", "licencias-conduccion", "vehiculos-abandonados-en-patios"]
 aplica_a: ["propietario", "comprador", "vendedor", "ensambladora", "concesionario"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 49 al 53", "Ley 769 de 2002 - Arts. 54 (licencia de tránsito)", "Decreto-Ley 19 de 2012 (simplificación trámites)"]

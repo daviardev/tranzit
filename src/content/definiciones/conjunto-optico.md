@@ -3,7 +3,16 @@ id: "conjunto-optico"
 tipo: "definicion"
 titulo: "Conjunto óptico"
 texto_simple: "Grupo de luces de servicio, delimitadoras, direccionales, pilotos de freno y reverso."
-keywords: ["conjunto","optico","grupo","luces","servicio","delimitadoras"]
+keywords: [
+  "conjunto",
+  "optico",
+  "grupo",
+  "luces",
+  "servicio",
+  "delimitadoras",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

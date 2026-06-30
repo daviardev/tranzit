@@ -3,7 +3,16 @@ id: "combinacion-de-vehiculos"
 tipo: "definicion"
 titulo: "Combinación de vehículos"
 texto_simple: "Conjunto acoplado de dos (2) o más unidades vehiculares."
-keywords: ["combinacion","vehiculos","conjunto","acoplado","unidades","vehiculares."]
+keywords: [
+  "combinacion",
+  "vehiculos",
+  "conjunto",
+  "acoplado",
+  "unidades",
+  "vehiculares.",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

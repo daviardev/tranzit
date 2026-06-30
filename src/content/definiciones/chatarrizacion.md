@@ -3,7 +3,14 @@ id: "chatarrizacion"
 tipo: "definicion"
 titulo: "Chatarrización"
 texto_simple: "Desintegración total de un vehículo automotor."
-keywords: ["chatarrizacion","desintegracion","total","vehiculo","automotor."]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

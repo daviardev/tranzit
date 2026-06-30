@@ -3,7 +3,14 @@ id: "camion"
 tipo: "definicion"
 titulo: "Camión"
 texto_simple: "Vehículo automotor que por su tamaño y destinación se usa para transportar carga."
-keywords: ["camion","vehiculo","automotor","tamano","destinacion"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

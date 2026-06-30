@@ -9,7 +9,50 @@ subcategoria: "sanciones"
 severidad: "leve"
 codigo_infraccion: null
 sancion: null
-keywords: ["fumar en bus", "fumar en taxi", "fumar en transporte público", "pasajero fumador", "conductor fumador", "curso de seguridad vial", "10 smldv", "multa por fumar conduciendo", "abandonar el bus por fumar", "prohibición de fumar", "me multaron por fumar en el bus", "el taxista iba fumando", "el conductor del bus fumaba mientras manejaba", "me bajaron del bus por fumar", "cuánto vale la multa por fumar manejando", "puedo fumar en el taxi", "fumar en servicio público", "un pasajero iba fumando en el bus y el conductor lo obligó a bajar", "el taxista iba fumando mientras manejaba", "me bajaron del bus por estar fumando un cigarrillo electrónico", "el conductor del bus fumaba en cada paradero"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "bus",
+  "buseta",
+  "microbús",
+  "taxi",
+  "transporte público",
+  "pasajero",
+  "ruta",
+  "cómo quejarse del transporte público",
+  "derechos del pasajero",
+  "transporte",
+  "movilidad",
+  "servicio público",
+  "transporte público en Colombia",
+  "bus urbano",
+  "bus intermunicipal",
+  "buseta de servicio público",
+  "taxi en Colombia",
+  "servicio público de transporte",
+  "derechos del usuario de transporte público",
+  "cómo poner una queja de un bus",
+  "queja contra conductor de bus",
+  "accidente de bus",
+  "choque de bus",
+  "bus sobrecupo",
+  "bus lleno",
+  "bus con exceso de pasajeros",
+  "parada de bus",
+  "ruta de bus",
+  "cómo saber qué bus tomar",
+  "transporte en Colombia",
+  "sistema de transporte",
+]
 articulos_relacionados: ["transporte-publico-pasajeros", "sanciones-peatones-y-ciclistas", "comportamiento-general"]
 aplica_a: ["pasajero", "conductor de servicio público"]
 referencias_legales: ["Ley 769 de 2002 - Art. 132"]

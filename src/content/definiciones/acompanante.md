@@ -3,7 +3,14 @@ id: "acompanante"
 tipo: "definicion"
 titulo: "Acompañante"
 texto_simple: "Persona que viaja con el conductor de un vehículo automotor."
-keywords: ["acompanante","persona","viaja","conductor","vehiculo"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

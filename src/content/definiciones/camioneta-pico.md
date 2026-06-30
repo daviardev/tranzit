@@ -3,7 +3,14 @@ id: "camioneta-pico"
 tipo: "definicion"
 titulo: "Camioneta picó"
 texto_simple: "Vehículo automotor destinado al transporte de personas en la cabina y de carga en el platón."
-keywords: ["camioneta","pico","vehiculo","automotor","destinado","transporte"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

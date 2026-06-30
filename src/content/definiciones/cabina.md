@@ -3,7 +3,18 @@ id: "cabina"
 tipo: "definicion"
 titulo: "Cabina"
 texto_simple: "Recinto separado de la carrocería de un vehículo destinado al conductor."
-keywords: ["cabina","recinto","separado","carroceria","vehiculo"]
+keywords: [
+  "cabina",
+  "recinto",
+  "separado",
+  "carroceria",
+  "vehiculo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "cabina del vehículo",
+  "cabina de pasajeros",
+  "cabina de carga",
+]
 ---
 
 ## Definición legal (Art. 2)

@@ -3,7 +3,15 @@ id: "carril"
 tipo: "definicion"
 titulo: "Carril"
 texto_simple: "Parte de la calzada destinada al tránsito de una sola fila de vehículos."
-keywords: ["carril","parte","calzada","destinada","transito"]
+keywords: [
+  "carril",
+  "parte",
+  "calzada",
+  "destinada",
+  "transito",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

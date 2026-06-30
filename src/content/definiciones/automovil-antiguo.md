@@ -3,7 +3,14 @@ id: "automovil-antiguo"
 tipo: "definicion"
 titulo: "Automóvil antiguo"
 texto_simple: "Automotor que haya cumplido 35 años y que conserve sus especificaciones y características originales de fábrica, presentación y funcionamiento."
-keywords: ["automovil","antiguo","automotor","cumplido","conserve","especificaciones"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

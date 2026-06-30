@@ -1,3 +1,5 @@
+import type { SancionValue } from "./sancion";
+
 export type LawEntry = {
   id: string;
   tipo: string;
@@ -8,7 +10,7 @@ export type LawEntry = {
   subcategoria: string;
   severidad: string | null;
   codigo_infraccion: string | null;
-  sancion: unknown;
+  sancion: SancionValue;
   keywords: string[];
   articulos_relacionados: string[];
   aplica_a: string[];
@@ -25,25 +27,19 @@ export type LawEntry = {
   };
 };
 
-export type SearchableDoc = {
+export type ArticleResult = {
   id: string;
   titulo: string;
   texto_simple: string;
-  keywords: string[];
   codigo_infraccion: string | null;
-  coleccion: string;
+  sancion: SancionValue;
+  numero: string | null;
+  aplica_a: string[];
+  referencias_legales: string[];
+  articulos_relacionados: string[];
+  vigencia: LawEntry["vigencia"] | null;
+  fuente_oficial: LawEntry["fuente_oficial"] | null;
   slug: string;
-};
-
-export type SearchResultItem = SearchableDoc & {
-  score: number;
-};
-
-export type SearchResponse = {
-  results: SearchResultItem[];
-  explanation: string | null;
-  keywords: string[];
-  source: "fuse-direct" | "gemini-enhanced";
 };
 
 export const COLLECTIONS = [

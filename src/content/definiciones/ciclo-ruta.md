@@ -3,7 +3,16 @@ id: "ciclo-ruta"
 tipo: "definicion"
 titulo: "Ciclo ruta"
 texto_simple: "Vía o sección de la calzada destinada al tránsito de bicicletas en forma exclusiva."
-keywords: ["ciclo","ruta","seccion","calzada","destinada","transito"]
+keywords: [
+  "bicicleta",
+  "bici",
+  "ciclista",
+  "en bici",
+  "sin luces bicicleta",
+  "casco bicicleta",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

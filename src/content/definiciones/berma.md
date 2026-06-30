@@ -3,7 +3,15 @@ id: "berma"
 tipo: "definicion"
 titulo: "Berma"
 texto_simple: "Parte de la estructura de la vía, destinada al soporte lateral de la calzada para el tránsito de peatones, semovientes y ocasionalmente al estacionamiento de vehículos y tránsito de vehículos de emergencia."
-keywords: ["berma","parte","estructura","destinada","soporte"]
+keywords: [
+  "peatón",
+  "peatonal",
+  "cruce peatonal",
+  "paso peatonal",
+  "por el andén",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

@@ -9,7 +9,24 @@ subcategoria: "seguros"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["SOAT complementario", "Ley 2161 de 2021", "seguro obligatorio", "servicio público", "accidente", "abandono víctima", "Art. 42A", "Art. 143A", "derogado", "Ley 2251 de 2022", "seguro complementario", "SOAT extra", "viajes largos SOAT"]
+keywords: [
+  "seguro",
+  "sin soat",
+  "no tengo soat",
+  "soat vencido",
+  "soat vigente",
+  "choque",
+  "accidente",
+  "chocaron",
+  "me chocaron",
+  "estrellaron",
+  "tuve un accidente",
+  "me accidenté",
+  "atropellé",
+  "choqué",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 articulos_relacionados: ["soat-seguro-obligatorio", "soat-seguro-complementario"]
 aplica_a: ["conductor", "propietario", "empresa de transporte"]
 referencias_legales: ["Ley 2161 de 2021", "Ley 769 de 2002 - Arts. 42A (adicionado), 143A (derogado por Ley 2251/2022)"]

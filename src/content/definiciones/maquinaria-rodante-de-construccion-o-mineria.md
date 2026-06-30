@@ -3,7 +3,14 @@ id: "maquinaria-rodante-de-construccion-o-mineria"
 tipo: "definicion"
 titulo: "Maquinaria rodante de construcción o minería"
 texto_simple: "Vehículo automotor destinado exclusivamente a obras industriales, incluidas las de minería, construcción y conservación de obras, que por sus características técnicas y físicas no pueden transitar por las vías de uso público o privadas abiertas al público."
-keywords: ["maquinaria","rodante","construccion","mineria","vehiculo","automotor","destinado","exclusivamente"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

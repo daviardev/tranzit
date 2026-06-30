@@ -3,7 +3,47 @@ id: "bahia-de-estacionamiento"
 tipo: "definicion"
 titulo: "Bahía de estacionamiento"
 texto_simple: "Parte complementaria de la estructura de la vía utilizada como zona de transición entre la calzada y el andén, destinada al estacionamiento de vehículos."
-keywords: ["bahia","estacionamiento","parte","complementaria","estructura","utilizada"]
+keywords: [
+  "bahia",
+  "estacionamiento",
+  "parte",
+  "complementaria",
+  "estructura",
+  "utilizada",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "parquear",
+  "estacionar",
+  "parqueadero",
+  "dónde puedo parquear",
+  "estacionamiento prohibido",
+  "no hay dónde parquear",
+  "zona azul",
+  "parquímetro",
+  "parte de estacionamiento",
+  "mal estacionado",
+  "me multaron por estacionar",
+  "estacionar en zona prohibida",
+  "parquear en la calle",
+  "parquear en andén",
+  "parquear en ciclovía",
+  "parquear frente a un garaje",
+  "parquear en curva",
+  "parquear en esquina",
+  "parquear en doble fila",
+  "parquear en sitio prohibido",
+  "comparendo por mal parqueo",
+  "multa por mal parqueadero",
+  "grúa por mal parqueo",
+  "se llevaron mi carro por mal parqueo",
+  "inmovilización por mal estacionamiento",
+  "patios por mal parqueo",
+  "cuánto vale multa por mal parqueo",
+  "estacionamiento para discapacitados",
+  "zona de estacionamiento pago",
+  "parquímetro cómo funciona",
+  "no pagué parquímetro",
+]
 ---
 
 ## Definición legal (Art. 2)

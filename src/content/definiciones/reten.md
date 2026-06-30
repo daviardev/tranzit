@@ -3,7 +3,28 @@ id: "reten"
 tipo: "definicion"
 titulo: "Retén"
 texto_simple: "Puesto de control instalado técnicamente por una de las autoridades legítimamente constituidas de la Nación."
-keywords: ["reten","puesto","control","instalado","tecnicamente"]
+keywords: [
+  "reten",
+  "puesto",
+  "control",
+  "instalado",
+  "tecnicamente",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "retén",
+  "reten de tránsito",
+  "me pararon",
+  "puesto de control",
+  "qué hacer en un retén",
+  "derechos en un retén",
+  "reten de la policía",
+  "reten de tránsito derechos",
+  "me pararon en un retén",
+  "paso por un retén",
+  "cómo actuar en un retén",
+  "reten militar",
+  "reten policial",
+]
 ---
 
 ## Definición legal (Art. 2)

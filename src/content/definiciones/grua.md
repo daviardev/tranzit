@@ -3,7 +3,34 @@ id: "grua"
 tipo: "definicion"
 titulo: "Grúa"
 texto_simple: "Automotor especialmente diseñado con sistema de enganche para levantar y remolcar otro vehículo."
-keywords: ["grua","automotor","especialmente","disenado","sistema"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "remolque",
+  "inmovilización",
+  "grúa de tránsito",
+  "cuánto cobra la grúa",
+  "tarifa grúa",
+  "dónde está mi carro",
+  "cómo recuperar el carro de la grúa",
+  "grúa particular",
+  "grúa oficial",
+  "costo de grúa por inmovilización",
+]
 ---
 
 ## Definición legal (Art. 2)

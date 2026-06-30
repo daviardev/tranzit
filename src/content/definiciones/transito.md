@@ -3,7 +3,15 @@ id: "transito"
 tipo: "definicion"
 titulo: "Tránsito"
 texto_simple: "Es la movilización de personas, animales o vehículos por una vía pública o privada abierta al público."
-keywords: ["transito","movilizacion","personas","animales","vehiculos"]
+keywords: [
+  "transito",
+  "movilizacion",
+  "personas",
+  "animales",
+  "vehiculos",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

@@ -9,7 +9,40 @@ subcategoria: "seguridad"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["cinturón de seguridad", "cinturón", "menor de 10 años", "asiento delantero", "menor de 2 años", "silla de seguridad", "silla para bebé", "pasajeros en la parte exterior", "batea", "estribo", "capacidad de pasajeros", "licencia de tránsito", "transporte escolar", "ascenso y descenso", "niños de brazos", "aprovisonamiento de combustible", "pasajeros en el carro", "cuántas personas pueden viajar", "transporte de estudiantes", "vehículos fabricados 2004", "cinturón trasero", "exceso de pasajeros", "es obligatorio el cinturón de seguridad", "multa por no usar cinturón", "mi hijo de 8 años puede ir adelante", "cinturón 3 puntos", "cinturón transporte escolar", "Ley 2393 de 2024"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "sobrecupo",
+  "exceso de pasajeros",
+  "más pasajeros de los permitidos",
+  "iba lleno de gente",
+  "vehículo abandonado",
+  "carro abandonado",
+  "moto abandonada",
+  "dejé el carro botado",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "cinturón de seguridad",
+  "seguridad",
+  "cinturón",
+  "no uso cinturón",
+  "multa por no usar cinturón",
+  "silla para niños",
+  "niños en el carro",
+  "seguridad infantil",
+  "cinturón de seguridad obligatorio",
+  "todos con cinturón",
+  "silla de seguridad para niños",
+  "asiento para bebé en el carro",
+  "niños en el asiento trasero",
+  "niños en silla de seguridad",
+  "multa por niños sin silla",
+  "comparendo por no llevar niños en silla",
+  "seguridad vial para niños",
+  "cinturón de seguridad trasero",
+]
 articulos_relacionados: ["infracciones-15-smldv", "infracciones-8-smldv"]
 aplica_a: ["conductor", "propietario", "pasajero", "institución educativa"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 82, 83, 84, 85", "Ley 2393 de 2024 - Art. 2"]

@@ -3,7 +3,15 @@ id: "rebasamiento"
 tipo: "definicion"
 titulo: "Rebasamiento"
 texto_simple: "Maniobra mediante la cual un vehículo sobrepasa a otro que lo antecedía en el mismo carril de una calzada."
-keywords: ["rebasamiento","maniobra","mediante","vehiculo","sobrepasa"]
+keywords: [
+  "rebasamiento",
+  "maniobra",
+  "mediante",
+  "vehiculo",
+  "sobrepasa",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

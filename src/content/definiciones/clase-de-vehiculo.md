@@ -3,7 +3,20 @@ id: "clase-de-vehiculo"
 tipo: "definicion"
 titulo: "Clase de vehículo"
 texto_simple: "Denominación dada a un automotor de conformidad con su destinación, configuración y especificaciones técnicas."
-keywords: ["clase","vehiculo","denominacion","automotor","conformidad","destinacion"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "clase de vehículo",
+  "tipo de vehículo",
+  "categoría vehicular",
+  "vehículo automotor",
+  "vehículo de tracción animal",
+  "vehículo de pedal",
+]
 ---
 
 ## Definición legal (Art. 2)

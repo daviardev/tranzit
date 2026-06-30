@@ -3,7 +3,20 @@ id: "vehiculo-de-transporte-masivo"
 tipo: "definicion"
 titulo: "Vehículo de transporte masivo"
 texto_simple: "Vehículo automotor para transporte público masivo de pasajeros, cuya circulación se hace por carriles exclusivos e infraestructura especial para acceso de pasajeros."
-keywords: ["vehiculo","transporte","masivo","automotor","publico"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "transporte",
+  "movilidad",
+  "servicio público",
+  "bus",
+  "transporte en Colombia",
+  "sistema de transporte",
+]
 ---
 
 ## Definición legal (Art. 2)

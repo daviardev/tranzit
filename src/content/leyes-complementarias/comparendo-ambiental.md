@@ -9,7 +9,50 @@ subcategoria: "convivencia"
 severidad: "leve"
 codigo_infraccion: null
 sancion: null
-keywords: ["comparendo ambiental", "Ley 1259 de 2008", "basura", "escupir", "orinar en la calle", "árboles", "espacio público", "trabajo comunitario", "multa ambiental", "ensuciar la calle", "me multaron por botar basura", "comparendo por escupir", "multa por orinar en la vía pública", "sanciones ambientales Colombia"]
+keywords: [
+  "comparendo ambiental",
+  "Ley 1259 de 2008",
+  "basura",
+  "escupir",
+  "orinar en la calle",
+  "árboles",
+  "espacio público",
+  "trabajo comunitario",
+  "multa ambiental",
+  "ensuciar la calle",
+  "me multaron por botar basura",
+  "comparendo por escupir",
+  "multa por orinar en la vía pública",
+  "sanciones ambientales Colombia",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "ambiental",
+  "desechos",
+  "contaminación",
+  "multa por contaminar",
+  "ecológico",
+  "comparendo por basura",
+  "comparendo",
+  "multa",
+  "parte",
+  "me pusieron comparendo",
+  "recibir comparendo",
+  "papeleta",
+  "infracción",
+  "comparendo por sacar basura",
+  "comparendo por quemar basura",
+  "comparendo por arrojar desechos",
+  "multa por arrojar basura a la calle",
+  "cultura ciudadana",
+  "qué es un comparendo",
+  "comparendo de tránsito",
+  "comparendo electrónico",
+  "comparendo en sitio",
+  "comparendo por fotomulta",
+  "comparendo pedagógico",
+  "tipos de comparendo",
+  "comparendo y multa diferencia",
+]
 articulos_relacionados: ["tipos-de-sanciones", "codigo-policia-abuso", "comportamiento-general"]
 aplica_a: ["cualquier persona", "ciudadano"]
 referencias_legales: ["Ley 1259 de 2008 - Comparendo Ambiental"]

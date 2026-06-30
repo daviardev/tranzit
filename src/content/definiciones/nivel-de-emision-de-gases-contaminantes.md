@@ -3,7 +3,14 @@ id: "nivel-de-emision-de-gases-contaminantes"
 tipo: "definicion"
 titulo: "Nivel de emisión de gases contaminantes"
 texto_simple: "Cantidad descargada de gases contaminantes por parte de un vehículo automotor. Es establecida por la autoridad ambiental competente."
-keywords: ["nivel","emision","gases","contaminantes","cantidad","descargada"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

@@ -3,7 +3,14 @@ id: "vehiculo-de-traccion-animal"
 tipo: "definicion"
 titulo: "Vehículo de tracción animal"
 texto_simple: "Vehículo no motorizado halado o movido por un animal."
-keywords: ["vehiculo","traccion","animal","motorizado","halado","movido"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

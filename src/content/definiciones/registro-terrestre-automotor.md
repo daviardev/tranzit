@@ -3,7 +3,14 @@ id: "registro-terrestre-automotor"
 tipo: "definicion"
 titulo: "Registro terrestre automotor"
 texto_simple: "Es el conjunto de datos necesarios para determinar la propiedad, características y situación jurídica de los vehículos automotores terrestres."
-keywords: ["registro","terrestre","automotor","conjunto","datos","necesarios","determinar"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

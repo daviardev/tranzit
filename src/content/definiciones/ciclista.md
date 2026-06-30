@@ -3,7 +3,16 @@ id: "ciclista"
 tipo: "definicion"
 titulo: "Ciclista"
 texto_simple: "Conductor de bicicleta o triciclo."
-keywords: ["ciclista","conductor","bicicleta","triciclo."]
+keywords: [
+  "bicicleta",
+  "bici",
+  "ciclista",
+  "en bici",
+  "sin luces bicicleta",
+  "casco bicicleta",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

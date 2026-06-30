@@ -3,7 +3,15 @@ id: "buseta"
 tipo: "definicion"
 titulo: "Buseta"
 texto_simple: "Vehículo destinado al transporte de personas con capacidad de 20 a 30 pasajeros y distancia entre ejes inferiores a 4 metros."
-keywords: ["buseta","vehiculo","destinado","transporte","personas"]
+keywords: [
+  "buseta",
+  "vehiculo",
+  "destinado",
+  "transporte",
+  "personas",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

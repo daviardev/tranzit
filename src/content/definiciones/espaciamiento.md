@@ -3,7 +3,15 @@ id: "espaciamiento"
 tipo: "definicion"
 titulo: "Espaciamiento"
 texto_simple: "Distancia entre dos (2) vehículos consecutivos que se mide del extremo trasero de un vehículo al delantero del otro."
-keywords: ["espaciamiento","distancia","vehiculos","consecutivos","extremo"]
+keywords: [
+  "espaciamiento",
+  "distancia",
+  "vehiculos",
+  "consecutivos",
+  "extremo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

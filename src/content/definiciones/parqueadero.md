@@ -3,7 +3,20 @@ id: "parqueadero"
 tipo: "definicion"
 titulo: "Parqueadero"
 texto_simple: "Lugar público o privado destinado al estacionamiento de vehículos."
-keywords: ["parqueadero","lugar","publico","privado","destinado"]
+keywords: [
+  "parqueadero",
+  "lugar",
+  "publico",
+  "privado",
+  "destinado",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "estacionamiento",
+  "aparcamiento",
+  "zona de parqueo",
+  "parqueadero público",
+  "parqueadero privado",
+]
 ---
 
 ## Definición legal (Art. 2)

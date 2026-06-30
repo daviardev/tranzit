@@ -3,7 +3,15 @@ id: "adelantamiento"
 tipo: "definicion"
 titulo: "Adelantamiento"
 texto_simple: "Maniobra mediante la cual un vehículo se pone delante de otro vehículo que lo antecede en el mismo carril de una calzada."
-keywords: ["adelantamiento","maniobra","mediante","vehiculo","delante"]
+keywords: [
+  "adelantamiento",
+  "maniobra",
+  "mediante",
+  "vehiculo",
+  "delante",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

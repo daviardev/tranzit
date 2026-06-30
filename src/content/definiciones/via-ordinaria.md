@@ -3,7 +3,22 @@ id: "via-ordinaria"
 tipo: "definicion"
 titulo: "Vía ordinaria"
 texto_simple: "La que tiene tránsito subordinado a las vías principales."
-keywords: ["via","ordinaria","tiene","transito","subordinado","principales."]
+keywords: [
+  "via",
+  "ordinaria",
+  "tiene",
+  "transito",
+  "subordinado",
+  "principales.",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "vía",
+  "calle",
+  "carrera",
+  "avenida",
+  "carretera",
+  "partes de la vía",
+]
 ---
 
 ## Definición legal (Art. 2)

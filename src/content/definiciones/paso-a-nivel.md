@@ -3,7 +3,21 @@ id: "paso-a-nivel"
 tipo: "definicion"
 titulo: "Paso a nivel"
 texto_simple: "Intersección a un mismo nivel de una calle o carretera con una vía férrea."
-keywords: ["paso","nivel","interseccion","mismo","calle"]
+keywords: [
+  "paso",
+  "nivel",
+  "interseccion",
+  "mismo",
+  "calle",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "paso a nivel",
+  "cruce ferroviario",
+  "tren",
+  "línea férrea",
+  "cruce de tren",
+  "paso de ferrocarril",
+]
 ---
 
 ## Definición legal (Art. 2)

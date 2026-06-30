@@ -3,7 +3,15 @@ id: "discapacitado"
 tipo: "definicion"
 titulo: "Discapacitado"
 texto_simple: "Persona que tiene disminuida alguna de sus capacidades físicas o mentales."
-keywords: ["discapacitado","persona","tiene","disminuida","alguna"]
+keywords: [
+  "discapacitado",
+  "persona",
+  "tiene",
+  "disminuida",
+  "alguna",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

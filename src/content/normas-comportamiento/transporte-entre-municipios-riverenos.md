@@ -9,7 +9,35 @@ subcategoria: "transporte-publico"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["municipios ribereños", "municipios conurbados", "río", "puente", "servicio público", "taxi", "transporte terrestre automotor", "individual de pasajeros", "matriculado", "origen del viaje", "zona urbana", "zona rural", "permisos", "autorizaciones", "autoridad de tránsito", "taxi puede llevar pasajeros al otro lado del puente", "municipios separados por un río", "servicio público entre dos municipios", "taxi de un municipio puede trabajar en otro", "vehículo matriculado en un municipio puede operar en el vecino", "taxi intermunicipal puente", "transporte entre municipios ribereños", "Art. 141 código de tránsito", "vivo en un municipio y el hospital está al otro lado del puente", "el taxi de mi municipio no puede cruzar el puente"]
+keywords: [
+  "casco de moto",
+  "sin casco",
+  "casco sin placa",
+  "casco con placa",
+  "me pararon sin casco",
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "transporte",
+  "movilidad",
+  "servicio público",
+  "bus",
+  "transporte en Colombia",
+  "sistema de transporte",
+]
 articulos_relacionados: ["transporte-publico-pasajeros", "transporte-publico-empresas", "clasificacion-de-vias"]
 aplica_a: ["conductor de servicio público", "propietario de vehículo de servicio público", "municipio ribereño", "autoridad de tránsito municipal"]
 referencias_legales: ["Ley 769 de 2002 - Art. 141"]

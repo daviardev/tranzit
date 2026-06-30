@@ -11,7 +11,26 @@ codigo_infraccion: null
 sancion:
   valor_smdlv: 30
   inmovilizacion: false
-keywords: ["trabajos en vía pública", "construcción en la vía", "señalización obras", "permiso para obras vía pública", "8 días antelación", "plan de señalización", "plan de desvíos", "escombros", "disposición final escombros", "aislar escombros", "agregados minerales", "arena en la vía", "triturado en la vía", "concreto en la vía", "multa 30 smldv", "retiro dispositivos", "licencia construcción", "proyectos de edificación", "polo generador de viajes", "quiero hacer una obra en la calle", "permiso para cerrar la calle por obra", "construcción en la vía pública", "señalización de obras en la vía", "multa por escombros en la vía", "camión de arena regando en la carretera"]
+keywords: [
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "vía",
+  "calle",
+  "carrera",
+  "avenida",
+  "carretera",
+  "partes de la vía",
+]
 articulos_relacionados: ["actividades-colectivas-via-publica", "clasificacion-de-vias", "comportamiento-general", "senales-de-transito"]
 aplica_a: ["constructor", "contratista", "persona pública o privada", "transportador de escombros", "portador del permiso"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 101, 102", "Ley 1383 de 2010 - Art. 19"]

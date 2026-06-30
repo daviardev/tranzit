@@ -3,7 +3,15 @@ id: "microbus"
 tipo: "definicion"
 titulo: "Microbús"
 texto_simple: "Vehículo destinado al transporte de personas con capacidad de 10 a 19 pasajeros."
-keywords: ["microbus","vehiculo","destinado","transporte","personas"]
+keywords: [
+  "microbus",
+  "vehiculo",
+  "destinado",
+  "transporte",
+  "personas",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

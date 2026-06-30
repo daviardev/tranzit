@@ -3,7 +3,15 @@ id: "pasajero"
 tipo: "definicion"
 titulo: "Pasajero"
 texto_simple: "Persona distinta del conductor que se transporta en un vehículo público."
-keywords: ["pasajero","persona","distinta","conductor","transporta"]
+keywords: [
+  "pasajero",
+  "persona",
+  "distinta",
+  "conductor",
+  "transporta",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

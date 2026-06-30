@@ -11,7 +11,48 @@ codigo_infraccion: "F"
 sancion:
   valor_smdlv: 0
   inmovilizacion: true
-keywords: ["suspensión licencia 5 años", "lesiones", "homicidio", "accidente", "embriaguez", "alcohol", "drogas", "abandono del lugar", "fuga", "sanciones penales", "homicidio culposo", "lesiones personales culposas", "5 años de suspensión", "causé un accidente y había tomado alcohol", "atropellé a alguien y estaba borracho", "cuánto me suspenden la licencia si choco borracho", "abandoné el lugar del accidente", "me fui después de un accidente con heridos", "suspensión de licencia por homicidio en accidente", "lesiones personales en accidente de tránsito", "qué pasa si choco a alguien borracho", "condena penal por accidente de tránsito", "delito por conducir ebrio", "causé un accidente donde alguien resultó herido y había tomado", "un familiar causó un accidente fatal y estaba borracho"]
+keywords: [
+  "pase",
+  "carnet",
+  "carné",
+  "sin licencia",
+  "no tengo pase",
+  "no tengo licencia",
+  "me quitaron la licencia",
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "soplar",
+  "alcoholímetro",
+  "prueba de alcoholemia",
+  "baboso",
+  "probador",
+  "borracho",
+  "tomado",
+  "me hicieron soplar",
+  "me pidieron soplar",
+  "prueba de alcohol",
+  "dos cervezas",
+  "una cerveza",
+  "choque",
+  "accidente",
+  "chocaron",
+  "me chocaron",
+  "estrellaron",
+  "tuve un accidente",
+  "me accidenté",
+  "atropellé",
+  "choqué",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 articulos_relacionados: ["grados-de-alcoholemia-y-sanciones", "infracciones-penales-en-accidentes", "infracciones-45-smldv"]
 aplica_a: ["conductor", "autoridad de tránsito", "Fiscalía"]
 referencias_legales: ["Ley 769 de 2002 - Art. 151", "Código Penal - Arts. 109 (homicidio culposo), 110 (lesiones personales culposas)"]

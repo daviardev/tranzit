@@ -3,7 +3,14 @@ id: "vehiculo-de-emergencia"
 tipo: "definicion"
 titulo: "Vehículo de emergencia"
 texto_simple: "Vehículo automotor debidamente identificado e iluminado, autorizado para transitar a velocidades mayores que las reglamentadas con objeto de movilizar personas afectadas en salud, prevenir o atender desastres o calamidades, o actividades policiales, debidamente registrado como tal con las normas y características que exige la actividad para la cual se matricule."
-keywords: ["vehiculo","emergencia","automotor","debidamente","identificado"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

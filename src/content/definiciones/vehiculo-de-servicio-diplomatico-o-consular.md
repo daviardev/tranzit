@@ -3,7 +3,14 @@ id: "vehiculo-de-servicio-diplomatico-o-consular"
 tipo: "definicion"
 titulo: "Vehículo de servicio diplomático o consular"
 texto_simple: "Vehículo automotor destinado al servicio de funcionarios diplomáticos o consulares."
-keywords: ["vehiculo","servicio","diplomatico","consular","automotor","destinado"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

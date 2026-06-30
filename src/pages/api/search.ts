@@ -7,32 +7,15 @@ export const POST: APIRoute = async ({ request }) => {
     const body = (await request.json()) as { query?: string };
     const query = body.query?.trim() ?? "";
 
-    if (query.length < 2) {
-      return new Response(
-        JSON.stringify({
-          results: [],
-          explanation: null,
-          keywords: [],
-          source: "fuse-direct",
-        }),
-        { status: 200, headers: { "Content-Type": "application/json" } },
-      );
-    }
+    const candidates = await search(query);
 
-    const result = await search(query);
-
-    return new Response(JSON.stringify(result), {
+    return new Response(JSON.stringify({ candidates }), {
       status: 200,
       headers: { "Content-Type": "application/json" },
     });
   } catch {
     return new Response(
-      JSON.stringify({
-        results: [],
-        explanation: null,
-        keywords: [],
-        source: "fuse-direct",
-      }),
+      JSON.stringify({ candidates: [] }),
       { status: 200, headers: { "Content-Type": "application/json" } },
     );
   }

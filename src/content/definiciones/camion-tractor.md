@@ -3,7 +3,14 @@ id: "camion-tractor"
 tipo: "definicion"
 titulo: "Camión tractor"
 texto_simple: "Vehículo automotor destinado a arrastrar uno o varios semirremolques o remolques, equipado con acople adecuado para tal fin."
-keywords: ["camion","tractor","vehiculo","automotor","destinado","arrastrar"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

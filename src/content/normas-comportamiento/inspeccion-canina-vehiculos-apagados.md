@@ -11,7 +11,24 @@ codigo_infraccion: "C"
 sancion:
   valor_smdlv: 15
   inmovilizacion: false
-keywords: ["inspección canina", "perro detector", "vehículo apagado", "guarda de seguridad", "inspección vehicular", "registro vehicular", "reten", "puesto de control", "Ley 2454 de 2025", "infracción C.12.A", "no apagar el motor", "me pidieron apagar el motor para la inspección", "inspección con perros en retén", "puesto de control con perros antiexplosivos", "derechos en inspección vehicular", "puedo negarme a apagar el motor para la inspección"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 articulos_relacionados: ["infracciones-15-smldv"]
 aplica_a: ["conductor", "guarda de seguridad", "autoridad de tránsito"]
 referencias_legales: ["Ley 769 de 2002 - Art. 85-A", "Ley 2454 de 2025 - Art. 19"]

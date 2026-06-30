@@ -3,7 +3,19 @@ id: "choque-o-colision"
 tipo: "definicion"
 titulo: "Choque o colisión"
 texto_simple: "Encuentro violento entre dos (2) o más vehículos, o entre un vehículo y un objeto fijo."
-keywords: ["choque","colision","encuentro","violento","vehiculos","vehiculo"]
+keywords: [
+  "choque",
+  "accidente",
+  "chocaron",
+  "me chocaron",
+  "estrellaron",
+  "tuve un accidente",
+  "me accidenté",
+  "atropellé",
+  "choqué",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

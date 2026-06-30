@@ -11,7 +11,51 @@ codigo_infraccion: "C"
 sancion:
   valor_smdlv: 15
   inmovilizacion: false
-keywords: ["transporte escolar", "bus escolar", "ruta escolar", "letrero escolar", "seguridad escolar", "requisitos transporte escolar", "permiso transporte escolar", "multa transporte escolar", "15 SMLDV", "infracciones C", "conductor transporte escolar", "vehículo escolar sin permiso", "capacitación conductores escolares", "cinturón seguridad escolar", "seguro escolar", "ruta escolar requisitos", "cómo saber si una ruta escolar es legal", "bus escolar sin letrero", "multa transporte escolar", "contratar transporte escolar", "transporte escolar requisitos Colombia", "vehículo escolar permiso municipal", "el bus escolar de mi hijo no tiene cinturones", "denunciar ruta escolar ilegal"]
+keywords: [
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "tecnomecánica",
+  "revisión técnico mecánica",
+  "RTM",
+  "venció la tecnomecánica",
+  "no tengo revisión",
+  "CDA",
+  "revisión del carro",
+  "me pararon y la tecnomecánica estaba vencida",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "bus escolar",
+  "transporte escolar",
+  "ruta escolar",
+  "niños en bus",
+  "requisitos bus escolar",
+  "señal bus escolar",
+  "transporte",
+  "movilidad",
+  "servicio público",
+  "bus",
+  "bus de colegio",
+  "transporte de estudiantes",
+  "normas para transporte escolar",
+  "seguridad en transporte escolar",
+  "bus escolar normas",
+  "ruta escolar requisitos",
+  "padre de familia bus escolar",
+  "comparendo bus escolar",
+  "infracción bus escolar",
+  "señal de bus escolar",
+  "pare bus escolar",
+  "transporte en Colombia",
+  "sistema de transporte",
+]
 articulos_relacionados: ["transporte-publico-pasajeros", "seguridad-pasajeros", "comportamiento-general", "infracciones-15-smldv", "sanciones-centros-ensenanza-automotriz"]
 aplica_a: ["conductor de transporte escolar", "propietario de vehículo escolar", "institución educativa", "padre de familia"]
 referencias_legales: ["Ley 769 de 2002 - Art. 98", "Resolución 003445 de 2012 - Ministerio de Transporte", "Decreto 515 de 2022 - Seguridad transporte escolar"]

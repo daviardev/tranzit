@@ -9,7 +9,50 @@ subcategoria: "ambiental"
 severidad: "informativa"
 codigo_infraccion: null
 sancion: null
-keywords: ["emisiones contaminantes", "fuentes móviles", "niveles de emisión", "dispositivos sonoros", "ruido", "sirena", "corneta", "pito", "resonador", "válvula de escape", "silenciador", "bomberos", "ambulancia", "recolector de basura", "sectores de tranquilidad", "transporte pesado", "contaminación auditiva", "luces intermitentes", "alta intensidad", "me multaron por el escape ruidoso", "tengo un resonador en el carro", "pito de aire", "corneta en la ciudad", "sirena de ambulancia quién puede usarla", "luces de emergencia quién puede usarlas"]
+keywords: [
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "tecnomecánica",
+  "revisión técnico mecánica",
+  "RTM",
+  "venció la tecnomecánica",
+  "no tengo revisión",
+  "CDA",
+  "revisión del carro",
+  "me pararon y la tecnomecánica estaba vencida",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "contaminación",
+  "emisiones",
+  "humo",
+  "carro ecológico",
+  "gases contaminantes",
+  "ruido",
+  "escape ruidoso",
+  "multa por contaminación",
+  "vehículo contaminante",
+  "humo negro del carro",
+  "humo negro moto",
+  "comparendo por contaminación",
+  "comparendo ambiental",
+  "multa por ruido excesivo",
+  "escape libre multa",
+  "vehículo con escape modificado",
+  "multa por humo contaminante",
+  "revisión de emisiones",
+  "emisiones contaminantes vehículo",
+  "carro ecológico beneficios",
+  "vehículo eléctrico ventajas",
+  "descuento en impuestos por carro eléctrico",
+]
 articulos_relacionados: ["tipos-de-sanciones", "comparendo-ambiental", "revision-tecnico-mecanica", "comportamiento-general", "vehiculos-carga"]
 aplica_a: ["conductor", "propietario", "fabricante", "transportador de carga pesada"]
 referencias_legales: ["Ley 769 de 2002 - Arts. 103, 104"]

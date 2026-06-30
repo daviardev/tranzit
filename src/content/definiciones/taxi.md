@@ -3,7 +3,14 @@ id: "taxi"
 tipo: "definicion"
 titulo: "Taxi"
 texto_simple: "Vehículo automotor destinado al servicio público individual de pasajeros."
-keywords: ["taxi","vehiculo","automotor","destinado","servicio"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

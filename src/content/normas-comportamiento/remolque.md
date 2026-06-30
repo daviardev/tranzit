@@ -11,7 +11,23 @@ codigo_infraccion: "B"
 sancion:
   valor_smdlv: 8
   inmovilizacion: false
-keywords: ["remolque", "grúa", "remolcar", "vehículo varado", "cable de remolque", "distancia remolque", "3 metros", "4 metros", "remolque nocturno", "señal reflectiva", "más de 5 toneladas", "barra de remolque", "cómo remolcar un carro", "me quedé varado quién me remolca", "se puede remolcar con cable", "remolcar un carro con otro", "distancia entre carros al remolcar", "remolque de noche", "cuántos carros se pueden remolcar", "vehículo varado en la vía", "mi carro se varó en la autopista", "quiero remolcar el carro de un amigo con cable", "me pararon por remolcar un carro sin grúa", "el carro se dañó en la vía rural y necesito remolcarlo", "remolqué un carro de noche y me multaron"]
+keywords: [
+  "grúa",
+  "patios",
+  "se llevaron mi carro",
+  "se llevaron mi moto",
+  "cómo sacar el carro de patios",
+  "recuperar vehículo",
+  "sacarlo de patios",
+  "me llevaron el carro",
+  "me llevaron la moto",
+  "chuzo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "remolque",
+  "remolcar",
+  "vehículo de remolque",
+]
 articulos_relacionados: ["infracciones-8-smldv"]
 aplica_a: ["conductor", "propietario"]
 referencias_legales: ["Ley 769 de 2002 - Art. 72"]

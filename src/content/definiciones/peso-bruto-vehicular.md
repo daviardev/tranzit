@@ -3,7 +3,17 @@ id: "peso-bruto-vehicular"
 tipo: "definicion"
 titulo: "Peso bruto vehicular"
 texto_simple: "Peso de un vehículo provisto de combustible, equipo auxiliar habitual y el máximo de carga."
-keywords: ["peso","bruto","vehicular","vehiculo","provisto","combustible","equipo"]
+keywords: [
+  "peso",
+  "bruto",
+  "vehicular",
+  "vehiculo",
+  "provisto",
+  "combustible",
+  "equipo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

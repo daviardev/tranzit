@@ -3,7 +3,30 @@ id: "organismos-de-transito-y-transporte"
 tipo: "definicion"
 titulo: "Organismos de tránsito y transporte"
 texto_simple: "Son entidades públicas del orden municipal, distrital o departamental que tienen como función organizar, dirigir y controlar el tránsito y el transporte en su respectiva jurisdicción."
-keywords: ["organismos","transito","transporte","entidades","publicas","orden","municipal"]
+keywords: [
+  "organismos",
+  "transito",
+  "transporte",
+  "entidades",
+  "publicas",
+  "orden",
+  "municipal",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "movilidad",
+  "servicio público",
+  "bus",
+  "transporte en Colombia",
+  "sistema de transporte",
+  "secretaría de movilidad",
+  "organismo de tránsito",
+  "dirección de tránsito",
+  "entidad de tránsito",
+  "ministerio de transporte",
+  "supertransporte",
+  "autoridad de tránsito municipal",
+  "secretaría de tránsito",
+]
 ---
 
 ## Definición legal (Art. 2)

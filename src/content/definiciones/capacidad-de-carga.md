@@ -3,7 +3,16 @@ id: "capacidad-de-carga"
 tipo: "definicion"
 titulo: "Capacidad de carga"
 texto_simple: "Es el máximo tonelaje autorizado en un vehículo, de tal forma que el peso bruto vehicular no exceda los límites establecidos."
-keywords: ["capacidad","carga","maximo","tonelaje","autorizado","vehiculo"]
+keywords: [
+  "capacidad",
+  "carga",
+  "maximo",
+  "tonelaje",
+  "autorizado",
+  "vehiculo",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)

@@ -3,7 +3,18 @@ id: "carreteable"
 tipo: "definicion"
 titulo: "Carreteable"
 texto_simple: "Vía sin pavimentar destinada a la circulación de vehículos."
-keywords: ["carreteable","pavimentar","destinada","circulacion","vehiculos."]
+keywords: [
+  "carreteable",
+  "pavimentar",
+  "destinada",
+  "circulacion",
+  "vehiculos.",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+  "vía destapada",
+  "vía sin pavimentar",
+  "camino de tierra",
+]
 ---
 
 ## Definición legal (Art. 2)

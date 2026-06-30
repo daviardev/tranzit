@@ -3,7 +3,14 @@ id: "parada-momentanea"
 tipo: "definicion"
 titulo: "Parada momentánea"
 texto_simple: "Detención de un vehículo, sin apagar el motor, para recoger o dejar personas o cosas, sin interrumpir el normal funcionamiento del tránsito."
-keywords: ["parada","momentanea","detencion","vehiculo","apagar","motor"]
+keywords: [
+  "moto",
+  "motocicleta",
+  "en moto",
+  "motero",
+  "código nacional de tránsito",
+  "ley 769 de 2002",
+]
 ---
 
 ## Definición legal (Art. 2)
