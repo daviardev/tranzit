@@ -9,7 +9,7 @@ Tranzit es una aplicación LegalTech colombiana que ayuda a ciudadanos en moment
 
 ---
 
-## Demo
+## Web
 
 [🌐 tranzit-col.vercel.app](https://tranzit-col.vercel.app/)
 
